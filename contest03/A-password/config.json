@@ -1,0 +1,29 @@
+{
+    "name": "Нууц үг шалгах",
+    "time_limit_sec": 1,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        {
+            "subtask": 1,
+            "score": 30,
+            "constraints": "|S| ≤ 7 (урт нь 8-аас бага → үргэлж WEAK)",
+            "tests": ["input00", "input01", "input02", "input03", "input04"]
+        },
+        {
+            "subtask": 2,
+            "score": 30,
+            "constraints": "S нь зөвхөн жижиг үсэг ба цифрээс бүрдэнэ",
+            "tests": ["input05", "input06", "input07"]
+        },
+        {
+            "subtask": 3,
+            "score": 40,
+            "constraints": "Бүх тохиолдол",
+            "tests": ["input08", "input09", "input10", "input11"]
+        }
+    ],
+    "expected_errors": {
+        "WA": "Нөхцлүүдийн аль нэгийг шалгахгүй орхисон бол WA",
+        "RE": "Хоосон мөр эсвэл нэг тэмдэгт → зөв зохицуулах"
+    }
+}
