@@ -1,0 +1,29 @@
+{
+    "name": "Шилдэг тамирчин",
+    "time_limit_sec": 1,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        {
+            "subtask": 1,
+            "score": 30,
+            "constraints": "a, b, c бүгд ялгаатай",
+            "tests": ["input00", "input01", "input02"]
+        },
+        {
+            "subtask": 2,
+            "score": 30,
+            "constraints": "Хамгийн ихдээ 2 тоо ижил",
+            "tests": ["input03", "input04", "input05"]
+        },
+        {
+            "subtask": 3,
+            "score": 40,
+            "constraints": "0 ≤ a, b, c ≤ 10^9, бүх тохиолдол",
+            "tests": ["input06", "input07", "input08", "input09"]
+        }
+    ],
+    "expected_errors": {
+        "WA": "Ижил оноотой тохиолдлыг зөв шийдэхгүй бол буруу хариу",
+        "RE": "Тоо хэт их байвал int overflow (subtask 3)"
+    }
+}
