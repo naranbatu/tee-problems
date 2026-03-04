@@ -1,0 +1,5 @@
+4
+ADD milk 3
+ADD milk 2
+COUNT milk
+MAX

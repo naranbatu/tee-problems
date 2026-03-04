@@ -1,0 +1,9 @@
+8
+ADD apple 10
+ADD banana 5
+COUNT apple
+MAX
+REMOVE apple 7
+COUNT apple
+REMOVE apple 5
+MAX

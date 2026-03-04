@@ -1,0 +1,2001 @@
+1000 1000
+word0 trans0
+word1 trans1
+word2 trans2
+word3 trans3
+word4 trans4
+word5 trans5
+word6 trans6
+word7 trans7
+word8 trans8
+word9 trans9
+word10 trans10
+word11 trans11
+word12 trans12
+word13 trans13
+word14 trans14
+word15 trans15
+word16 trans16
+word17 trans17
+word18 trans18
+word19 trans19
+word20 trans20
+word21 trans21
+word22 trans22
+word23 trans23
+word24 trans24
+word25 trans25
+word26 trans26
+word27 trans27
+word28 trans28
+word29 trans29
+word30 trans30
+word31 trans31
+word32 trans32
+word33 trans33
+word34 trans34
+word35 trans35
+word36 trans36
+word37 trans37
+word38 trans38
+word39 trans39
+word40 trans40
+word41 trans41
+word42 trans42
+word43 trans43
+word44 trans44
+word45 trans45
+word46 trans46
+word47 trans47
+word48 trans48
+word49 trans49
+word50 trans50
+word51 trans51
+word52 trans52
+word53 trans53
+word54 trans54
+word55 trans55
+word56 trans56
+word57 trans57
+word58 trans58
+word59 trans59
+word60 trans60
+word61 trans61
+word62 trans62
+word63 trans63
+word64 trans64
+word65 trans65
+word66 trans66
+word67 trans67
+word68 trans68
+word69 trans69
+word70 trans70
+word71 trans71
+word72 trans72
+word73 trans73
+word74 trans74
+word75 trans75
+word76 trans76
+word77 trans77
+word78 trans78
+word79 trans79
+word80 trans80
+word81 trans81
+word82 trans82
+word83 trans83
+word84 trans84
+word85 trans85
+word86 trans86
+word87 trans87
+word88 trans88
+word89 trans89
+word90 trans90
+word91 trans91
+word92 trans92
+word93 trans93
+word94 trans94
+word95 trans95
+word96 trans96
+word97 trans97
+word98 trans98
+word99 trans99
+word100 trans100
+word101 trans101
+word102 trans102
+word103 trans103
+word104 trans104
+word105 trans105
+word106 trans106
+word107 trans107
+word108 trans108
+word109 trans109
+word110 trans110
+word111 trans111
+word112 trans112
+word113 trans113
+word114 trans114
+word115 trans115
+word116 trans116
+word117 trans117
+word118 trans118
+word119 trans119
+word120 trans120
+word121 trans121
+word122 trans122
+word123 trans123
+word124 trans124
+word125 trans125
+word126 trans126
+word127 trans127
+word128 trans128
+word129 trans129
+word130 trans130
+word131 trans131
+word132 trans132
+word133 trans133
+word134 trans134
+word135 trans135
+word136 trans136
+word137 trans137
+word138 trans138
+word139 trans139
+word140 trans140
+word141 trans141
+word142 trans142
+word143 trans143
+word144 trans144
+word145 trans145
+word146 trans146
+word147 trans147
+word148 trans148
+word149 trans149
+word150 trans150
+word151 trans151
+word152 trans152
+word153 trans153
+word154 trans154
+word155 trans155
+word156 trans156
+word157 trans157
+word158 trans158
+word159 trans159
+word160 trans160
+word161 trans161
+word162 trans162
+word163 trans163
+word164 trans164
+word165 trans165
+word166 trans166
+word167 trans167
+word168 trans168
+word169 trans169
+word170 trans170
+word171 trans171
+word172 trans172
+word173 trans173
+word174 trans174
+word175 trans175
+word176 trans176
+word177 trans177
+word178 trans178
+word179 trans179
+word180 trans180
+word181 trans181
+word182 trans182
+word183 trans183
+word184 trans184
+word185 trans185
+word186 trans186
+word187 trans187
+word188 trans188
+word189 trans189
+word190 trans190
+word191 trans191
+word192 trans192
+word193 trans193
+word194 trans194
+word195 trans195
+word196 trans196
+word197 trans197
+word198 trans198
+word199 trans199
+word200 trans200
+word201 trans201
+word202 trans202
+word203 trans203
+word204 trans204
+word205 trans205
+word206 trans206
+word207 trans207
+word208 trans208
+word209 trans209
+word210 trans210
+word211 trans211
+word212 trans212
+word213 trans213
+word214 trans214
+word215 trans215
+word216 trans216
+word217 trans217
+word218 trans218
+word219 trans219
+word220 trans220
+word221 trans221
+word222 trans222
+word223 trans223
+word224 trans224
+word225 trans225
+word226 trans226
+word227 trans227
+word228 trans228
+word229 trans229
+word230 trans230
+word231 trans231
+word232 trans232
+word233 trans233
+word234 trans234
+word235 trans235
+word236 trans236
+word237 trans237
+word238 trans238
+word239 trans239
+word240 trans240
+word241 trans241
+word242 trans242
+word243 trans243
+word244 trans244
+word245 trans245
+word246 trans246
+word247 trans247
+word248 trans248
+word249 trans249
+word250 trans250
+word251 trans251
+word252 trans252
+word253 trans253
+word254 trans254
+word255 trans255
+word256 trans256
+word257 trans257
+word258 trans258
+word259 trans259
+word260 trans260
+word261 trans261
+word262 trans262
+word263 trans263
+word264 trans264
+word265 trans265
+word266 trans266
+word267 trans267
+word268 trans268
+word269 trans269
+word270 trans270
+word271 trans271
+word272 trans272
+word273 trans273
+word274 trans274
+word275 trans275
+word276 trans276
+word277 trans277
+word278 trans278
+word279 trans279
+word280 trans280
+word281 trans281
+word282 trans282
+word283 trans283
+word284 trans284
+word285 trans285
+word286 trans286
+word287 trans287
+word288 trans288
+word289 trans289
+word290 trans290
+word291 trans291
+word292 trans292
+word293 trans293
+word294 trans294
+word295 trans295
+word296 trans296
+word297 trans297
+word298 trans298
+word299 trans299
+word300 trans300
+word301 trans301
+word302 trans302
+word303 trans303
+word304 trans304
+word305 trans305
+word306 trans306
+word307 trans307
+word308 trans308
+word309 trans309
+word310 trans310
+word311 trans311
+word312 trans312
+word313 trans313
+word314 trans314
+word315 trans315
+word316 trans316
+word317 trans317
+word318 trans318
+word319 trans319
+word320 trans320
+word321 trans321
+word322 trans322
+word323 trans323
+word324 trans324
+word325 trans325
+word326 trans326
+word327 trans327
+word328 trans328
+word329 trans329
+word330 trans330
+word331 trans331
+word332 trans332
+word333 trans333
+word334 trans334
+word335 trans335
+word336 trans336
+word337 trans337
+word338 trans338
+word339 trans339
+word340 trans340
+word341 trans341
+word342 trans342
+word343 trans343
+word344 trans344
+word345 trans345
+word346 trans346
+word347 trans347
+word348 trans348
+word349 trans349
+word350 trans350
+word351 trans351
+word352 trans352
+word353 trans353
+word354 trans354
+word355 trans355
+word356 trans356
+word357 trans357
+word358 trans358
+word359 trans359
+word360 trans360
+word361 trans361
+word362 trans362
+word363 trans363
+word364 trans364
+word365 trans365
+word366 trans366
+word367 trans367
+word368 trans368
+word369 trans369
+word370 trans370
+word371 trans371
+word372 trans372
+word373 trans373
+word374 trans374
+word375 trans375
+word376 trans376
+word377 trans377
+word378 trans378
+word379 trans379
+word380 trans380
+word381 trans381
+word382 trans382
+word383 trans383
+word384 trans384
+word385 trans385
+word386 trans386
+word387 trans387
+word388 trans388
+word389 trans389
+word390 trans390
+word391 trans391
+word392 trans392
+word393 trans393
+word394 trans394
+word395 trans395
+word396 trans396
+word397 trans397
+word398 trans398
+word399 trans399
+word400 trans400
+word401 trans401
+word402 trans402
+word403 trans403
+word404 trans404
+word405 trans405
+word406 trans406
+word407 trans407
+word408 trans408
+word409 trans409
+word410 trans410
+word411 trans411
+word412 trans412
+word413 trans413
+word414 trans414
+word415 trans415
+word416 trans416
+word417 trans417
+word418 trans418
+word419 trans419
+word420 trans420
+word421 trans421
+word422 trans422
+word423 trans423
+word424 trans424
+word425 trans425
+word426 trans426
+word427 trans427
+word428 trans428
+word429 trans429
+word430 trans430
+word431 trans431
+word432 trans432
+word433 trans433
+word434 trans434
+word435 trans435
+word436 trans436
+word437 trans437
+word438 trans438
+word439 trans439
+word440 trans440
+word441 trans441
+word442 trans442
+word443 trans443
+word444 trans444
+word445 trans445
+word446 trans446
+word447 trans447
+word448 trans448
+word449 trans449
+word450 trans450
+word451 trans451
+word452 trans452
+word453 trans453
+word454 trans454
+word455 trans455
+word456 trans456
+word457 trans457
+word458 trans458
+word459 trans459
+word460 trans460
+word461 trans461
+word462 trans462
+word463 trans463
+word464 trans464
+word465 trans465
+word466 trans466
+word467 trans467
+word468 trans468
+word469 trans469
+word470 trans470
+word471 trans471
+word472 trans472
+word473 trans473
+word474 trans474
+word475 trans475
+word476 trans476
+word477 trans477
+word478 trans478
+word479 trans479
+word480 trans480
+word481 trans481
+word482 trans482
+word483 trans483
+word484 trans484
+word485 trans485
+word486 trans486
+word487 trans487
+word488 trans488
+word489 trans489
+word490 trans490
+word491 trans491
+word492 trans492
+word493 trans493
+word494 trans494
+word495 trans495
+word496 trans496
+word497 trans497
+word498 trans498
+word499 trans499
+word500 trans500
+word501 trans501
+word502 trans502
+word503 trans503
+word504 trans504
+word505 trans505
+word506 trans506
+word507 trans507
+word508 trans508
+word509 trans509
+word510 trans510
+word511 trans511
+word512 trans512
+word513 trans513
+word514 trans514
+word515 trans515
+word516 trans516
+word517 trans517
+word518 trans518
+word519 trans519
+word520 trans520
+word521 trans521
+word522 trans522
+word523 trans523
+word524 trans524
+word525 trans525
+word526 trans526
+word527 trans527
+word528 trans528
+word529 trans529
+word530 trans530
+word531 trans531
+word532 trans532
+word533 trans533
+word534 trans534
+word535 trans535
+word536 trans536
+word537 trans537
+word538 trans538
+word539 trans539
+word540 trans540
+word541 trans541
+word542 trans542
+word543 trans543
+word544 trans544
+word545 trans545
+word546 trans546
+word547 trans547
+word548 trans548
+word549 trans549
+word550 trans550
+word551 trans551
+word552 trans552
+word553 trans553
+word554 trans554
+word555 trans555
+word556 trans556
+word557 trans557
+word558 trans558
+word559 trans559
+word560 trans560
+word561 trans561
+word562 trans562
+word563 trans563
+word564 trans564
+word565 trans565
+word566 trans566
+word567 trans567
+word568 trans568
+word569 trans569
+word570 trans570
+word571 trans571
+word572 trans572
+word573 trans573
+word574 trans574
+word575 trans575
+word576 trans576
+word577 trans577
+word578 trans578
+word579 trans579
+word580 trans580
+word581 trans581
+word582 trans582
+word583 trans583
+word584 trans584
+word585 trans585
+word586 trans586
+word587 trans587
+word588 trans588
+word589 trans589
+word590 trans590
+word591 trans591
+word592 trans592
+word593 trans593
+word594 trans594
+word595 trans595
+word596 trans596
+word597 trans597
+word598 trans598
+word599 trans599
+word600 trans600
+word601 trans601
+word602 trans602
+word603 trans603
+word604 trans604
+word605 trans605
+word606 trans606
+word607 trans607
+word608 trans608
+word609 trans609
+word610 trans610
+word611 trans611
+word612 trans612
+word613 trans613
+word614 trans614
+word615 trans615
+word616 trans616
+word617 trans617
+word618 trans618
+word619 trans619
+word620 trans620
+word621 trans621
+word622 trans622
+word623 trans623
+word624 trans624
+word625 trans625
+word626 trans626
+word627 trans627
+word628 trans628
+word629 trans629
+word630 trans630
+word631 trans631
+word632 trans632
+word633 trans633
+word634 trans634
+word635 trans635
+word636 trans636
+word637 trans637
+word638 trans638
+word639 trans639
+word640 trans640
+word641 trans641
+word642 trans642
+word643 trans643
+word644 trans644
+word645 trans645
+word646 trans646
+word647 trans647
+word648 trans648
+word649 trans649
+word650 trans650
+word651 trans651
+word652 trans652
+word653 trans653
+word654 trans654
+word655 trans655
+word656 trans656
+word657 trans657
+word658 trans658
+word659 trans659
+word660 trans660
+word661 trans661
+word662 trans662
+word663 trans663
+word664 trans664
+word665 trans665
+word666 trans666
+word667 trans667
+word668 trans668
+word669 trans669
+word670 trans670
+word671 trans671
+word672 trans672
+word673 trans673
+word674 trans674
+word675 trans675
+word676 trans676
+word677 trans677
+word678 trans678
+word679 trans679
+word680 trans680
+word681 trans681
+word682 trans682
+word683 trans683
+word684 trans684
+word685 trans685
+word686 trans686
+word687 trans687
+word688 trans688
+word689 trans689
+word690 trans690
+word691 trans691
+word692 trans692
+word693 trans693
+word694 trans694
+word695 trans695
+word696 trans696
+word697 trans697
+word698 trans698
+word699 trans699
+word700 trans700
+word701 trans701
+word702 trans702
+word703 trans703
+word704 trans704
+word705 trans705
+word706 trans706
+word707 trans707
+word708 trans708
+word709 trans709
+word710 trans710
+word711 trans711
+word712 trans712
+word713 trans713
+word714 trans714
+word715 trans715
+word716 trans716
+word717 trans717
+word718 trans718
+word719 trans719
+word720 trans720
+word721 trans721
+word722 trans722
+word723 trans723
+word724 trans724
+word725 trans725
+word726 trans726
+word727 trans727
+word728 trans728
+word729 trans729
+word730 trans730
+word731 trans731
+word732 trans732
+word733 trans733
+word734 trans734
+word735 trans735
+word736 trans736
+word737 trans737
+word738 trans738
+word739 trans739
+word740 trans740
+word741 trans741
+word742 trans742
+word743 trans743
+word744 trans744
+word745 trans745
+word746 trans746
+word747 trans747
+word748 trans748
+word749 trans749
+word750 trans750
+word751 trans751
+word752 trans752
+word753 trans753
+word754 trans754
+word755 trans755
+word756 trans756
+word757 trans757
+word758 trans758
+word759 trans759
+word760 trans760
+word761 trans761
+word762 trans762
+word763 trans763
+word764 trans764
+word765 trans765
+word766 trans766
+word767 trans767
+word768 trans768
+word769 trans769
+word770 trans770
+word771 trans771
+word772 trans772
+word773 trans773
+word774 trans774
+word775 trans775
+word776 trans776
+word777 trans777
+word778 trans778
+word779 trans779
+word780 trans780
+word781 trans781
+word782 trans782
+word783 trans783
+word784 trans784
+word785 trans785
+word786 trans786
+word787 trans787
+word788 trans788
+word789 trans789
+word790 trans790
+word791 trans791
+word792 trans792
+word793 trans793
+word794 trans794
+word795 trans795
+word796 trans796
+word797 trans797
+word798 trans798
+word799 trans799
+word800 trans800
+word801 trans801
+word802 trans802
+word803 trans803
+word804 trans804
+word805 trans805
+word806 trans806
+word807 trans807
+word808 trans808
+word809 trans809
+word810 trans810
+word811 trans811
+word812 trans812
+word813 trans813
+word814 trans814
+word815 trans815
+word816 trans816
+word817 trans817
+word818 trans818
+word819 trans819
+word820 trans820
+word821 trans821
+word822 trans822
+word823 trans823
+word824 trans824
+word825 trans825
+word826 trans826
+word827 trans827
+word828 trans828
+word829 trans829
+word830 trans830
+word831 trans831
+word832 trans832
+word833 trans833
+word834 trans834
+word835 trans835
+word836 trans836
+word837 trans837
+word838 trans838
+word839 trans839
+word840 trans840
+word841 trans841
+word842 trans842
+word843 trans843
+word844 trans844
+word845 trans845
+word846 trans846
+word847 trans847
+word848 trans848
+word849 trans849
+word850 trans850
+word851 trans851
+word852 trans852
+word853 trans853
+word854 trans854
+word855 trans855
+word856 trans856
+word857 trans857
+word858 trans858
+word859 trans859
+word860 trans860
+word861 trans861
+word862 trans862
+word863 trans863
+word864 trans864
+word865 trans865
+word866 trans866
+word867 trans867
+word868 trans868
+word869 trans869
+word870 trans870
+word871 trans871
+word872 trans872
+word873 trans873
+word874 trans874
+word875 trans875
+word876 trans876
+word877 trans877
+word878 trans878
+word879 trans879
+word880 trans880
+word881 trans881
+word882 trans882
+word883 trans883
+word884 trans884
+word885 trans885
+word886 trans886
+word887 trans887
+word888 trans888
+word889 trans889
+word890 trans890
+word891 trans891
+word892 trans892
+word893 trans893
+word894 trans894
+word895 trans895
+word896 trans896
+word897 trans897
+word898 trans898
+word899 trans899
+word900 trans900
+word901 trans901
+word902 trans902
+word903 trans903
+word904 trans904
+word905 trans905
+word906 trans906
+word907 trans907
+word908 trans908
+word909 trans909
+word910 trans910
+word911 trans911
+word912 trans912
+word913 trans913
+word914 trans914
+word915 trans915
+word916 trans916
+word917 trans917
+word918 trans918
+word919 trans919
+word920 trans920
+word921 trans921
+word922 trans922
+word923 trans923
+word924 trans924
+word925 trans925
+word926 trans926
+word927 trans927
+word928 trans928
+word929 trans929
+word930 trans930
+word931 trans931
+word932 trans932
+word933 trans933
+word934 trans934
+word935 trans935
+word936 trans936
+word937 trans937
+word938 trans938
+word939 trans939
+word940 trans940
+word941 trans941
+word942 trans942
+word943 trans943
+word944 trans944
+word945 trans945
+word946 trans946
+word947 trans947
+word948 trans948
+word949 trans949
+word950 trans950
+word951 trans951
+word952 trans952
+word953 trans953
+word954 trans954
+word955 trans955
+word956 trans956
+word957 trans957
+word958 trans958
+word959 trans959
+word960 trans960
+word961 trans961
+word962 trans962
+word963 trans963
+word964 trans964
+word965 trans965
+word966 trans966
+word967 trans967
+word968 trans968
+word969 trans969
+word970 trans970
+word971 trans971
+word972 trans972
+word973 trans973
+word974 trans974
+word975 trans975
+word976 trans976
+word977 trans977
+word978 trans978
+word979 trans979
+word980 trans980
+word981 trans981
+word982 trans982
+word983 trans983
+word984 trans984
+word985 trans985
+word986 trans986
+word987 trans987
+word988 trans988
+word989 trans989
+word990 trans990
+word991 trans991
+word992 trans992
+word993 trans993
+word994 trans994
+word995 trans995
+word996 trans996
+word997 trans997
+word998 trans998
+word999 trans999
+unknown185
+unknown1946
+unknown401
+unknown307
+unknown1514
+unknown619
+unknown1722
+unknown163
+unknown1530
+unknown376
+unknown618
+unknown181
+unknown720
+unknown1875
+unknown1478
+unknown1888
+unknown1977
+unknown1774
+unknown1357
+unknown966
+unknown1107
+unknown789
+unknown794
+unknown1031
+unknown830
+unknown651
+unknown1472
+unknown1950
+unknown878
+unknown1094
+unknown1583
+unknown1292
+unknown83
+unknown1295
+unknown526
+unknown84
+unknown1959
+unknown472
+unknown1050
+unknown1445
+unknown29
+unknown1168
+unknown951
+unknown1716
+unknown458
+unknown107
+unknown775
+unknown474
+unknown181
+unknown1028
+unknown1319
+unknown1529
+unknown876
+unknown399
+unknown464
+unknown1565
+unknown420
+unknown840
+unknown348
+unknown625
+unknown676
+unknown1698
+unknown17
+unknown219
+unknown1691
+unknown1912
+unknown840
+unknown635
+unknown665
+unknown741
+unknown1267
+unknown415
+unknown492
+unknown958
+unknown358
+unknown1724
+unknown336
+unknown452
+unknown632
+unknown1134
+unknown331
+unknown901
+unknown428
+unknown617
+unknown1303
+unknown266
+unknown1694
+unknown1429
+unknown1471
+unknown850
+unknown1691
+unknown961
+unknown1199
+unknown1234
+unknown1517
+unknown219
+unknown817
+unknown1674
+unknown1346
+unknown1824
+unknown161
+unknown520
+unknown114
+unknown1671
+unknown1435
+unknown1431
+unknown533
+unknown610
+unknown643
+unknown552
+unknown257
+unknown171
+unknown1228
+unknown848
+unknown1618
+unknown924
+unknown1017
+unknown997
+unknown140
+unknown986
+unknown536
+unknown1123
+unknown727
+unknown255
+unknown575
+unknown459
+unknown803
+unknown1145
+unknown866
+unknown967
+unknown1208
+unknown357
+unknown1301
+unknown566
+unknown116
+unknown487
+unknown1636
+unknown1304
+unknown1488
+unknown727
+unknown1706
+unknown857
+unknown661
+unknown1443
+unknown723
+unknown1150
+unknown1846
+unknown1311
+unknown7
+unknown72
+unknown727
+unknown1459
+unknown1367
+unknown409
+unknown1001
+unknown670
+unknown960
+unknown1087
+unknown596
+unknown1943
+unknown1083
+unknown830
+unknown548
+unknown1323
+unknown1003
+unknown427
+unknown1349
+unknown1924
+unknown1759
+unknown507
+unknown376
+unknown1107
+unknown427
+unknown1394
+unknown1431
+unknown708
+unknown912
+unknown1189
+unknown1325
+unknown1000
+unknown20
+unknown1439
+unknown98
+unknown1143
+unknown201
+unknown1218
+unknown1033
+unknown520
+unknown372
+unknown983
+unknown432
+unknown1315
+unknown1369
+unknown844
+unknown1946
+unknown248
+unknown865
+unknown402
+unknown577
+unknown1789
+unknown1769
+unknown421
+unknown1626
+unknown1053
+unknown57
+unknown1456
+unknown1280
+unknown453
+unknown962
+unknown1654
+unknown1159
+unknown974
+unknown1256
+unknown1939
+unknown1576
+unknown419
+unknown1605
+unknown871
+unknown53
+unknown742
+unknown897
+unknown559
+unknown191
+unknown872
+unknown726
+unknown874
+unknown1124
+unknown807
+unknown1777
+unknown1690
+unknown666
+unknown156
+unknown115
+unknown1716
+unknown1536
+unknown279
+unknown889
+unknown301
+unknown51
+unknown185
+unknown1545
+unknown1097
+unknown1486
+unknown113
+unknown1341
+unknown1619
+unknown1678
+unknown1461
+unknown552
+unknown1520
+unknown1721
+unknown1438
+unknown745
+unknown99
+unknown1759
+unknown1321
+unknown1304
+unknown1135
+unknown142
+unknown863
+unknown1106
+unknown1505
+unknown495
+unknown1473
+unknown44
+unknown1034
+unknown913
+unknown166
+unknown76
+unknown728
+unknown877
+unknown1393
+unknown1675
+unknown28
+unknown1678
+unknown837
+unknown1029
+unknown1876
+unknown1607
+unknown1464
+unknown459
+unknown533
+unknown306
+unknown278
+unknown1740
+unknown1170
+unknown1538
+unknown1259
+unknown1433
+unknown586
+unknown1104
+unknown1056
+unknown1378
+unknown1025
+unknown1331
+unknown547
+unknown1110
+unknown1415
+unknown128
+unknown813
+unknown971
+unknown1128
+unknown46
+unknown651
+unknown1973
+unknown248
+unknown1058
+unknown1230
+unknown216
+unknown1394
+unknown1221
+unknown82
+unknown1298
+unknown1682
+unknown1960
+unknown1431
+unknown618
+unknown147
+unknown479
+unknown1873
+unknown353
+unknown1773
+unknown1333
+unknown1840
+unknown189
+unknown985
+unknown1875
+unknown1454
+unknown1596
+unknown914
+unknown520
+unknown56
+unknown162
+unknown1385
+unknown781
+unknown128
+unknown1622
+unknown1121
+unknown292
+unknown1649
+unknown998
+unknown811
+unknown69
+unknown681
+unknown1642
+unknown854
+unknown1522
+unknown233
+unknown147
+unknown127
+unknown134
+unknown1155
+unknown1242
+unknown1676
+unknown1197
+unknown1172
+unknown213
+unknown968
+unknown620
+unknown1673
+unknown1508
+unknown597
+unknown437
+unknown1573
+unknown1873
+unknown1926
+unknown1917
+unknown1759
+unknown1951
+unknown1278
+unknown809
+unknown1491
+unknown56
+unknown1755
+unknown382
+unknown288
+unknown689
+unknown989
+unknown1503
+unknown712
+unknown978
+unknown62
+unknown1575
+unknown271
+unknown1996
+unknown541
+unknown1483
+unknown966
+unknown1208
+unknown1084
+unknown1481
+unknown682
+unknown1898
+unknown1377
+unknown201
+unknown1281
+unknown97
+unknown1159
+unknown1621
+unknown1255
+unknown1746
+unknown665
+unknown1348
+unknown1918
+unknown934
+unknown615
+unknown547
+unknown1202
+unknown540
+unknown1444
+unknown979
+unknown204
+unknown1352
+unknown718
+unknown1750
+unknown1579
+unknown472
+unknown233
+unknown1478
+unknown1261
+unknown197
+unknown274
+unknown669
+unknown15
+unknown918
+unknown782
+unknown1071
+unknown1137
+unknown351
+unknown1290
+unknown833
+unknown220
+unknown1529
+unknown1633
+unknown1649
+unknown1555
+unknown524
+unknown1699
+unknown1723
+unknown1914
+unknown1599
+unknown1600
+unknown187
+unknown1060
+unknown470
+unknown1362
+unknown36
+unknown112
+unknown1342
+unknown766
+unknown5
+unknown835
+unknown1207
+unknown1508
+unknown967
+unknown126
+unknown672
+unknown420
+unknown491
+unknown492
+unknown1128
+unknown410
+unknown751
+unknown968
+unknown1123
+unknown1051
+unknown672
+unknown1037
+unknown138
+unknown1132
+unknown35
+unknown730
+unknown1527
+unknown1977
+unknown806
+unknown1044
+unknown1265
+unknown509
+unknown15
+unknown1993
+unknown1461
+unknown639
+unknown613
+unknown609
+unknown1909
+unknown0
+unknown819
+unknown564
+unknown182
+unknown1610
+unknown1271
+unknown1454
+unknown1199
+unknown1285
+unknown1303
+unknown1568
+unknown292
+unknown587
+unknown1717
+unknown1960
+unknown705
+unknown602
+unknown650
+unknown290
+unknown153
+unknown593
+unknown43
+unknown198
+unknown919
+unknown1065
+unknown272
+unknown799
+unknown631
+unknown1688
+unknown1510
+unknown273
+unknown1545
+unknown724
+unknown912
+unknown606
+unknown459
+unknown859
+unknown1284
+unknown1776
+unknown788
+unknown1087
+unknown1656
+unknown1567
+unknown1764
+unknown1757
+unknown537
+unknown554
+unknown964
+unknown1570
+unknown1312
+unknown866
+unknown78
+unknown520
+unknown831
+unknown238
+unknown1750
+unknown1048
+unknown1899
+unknown1329
+unknown611
+unknown523
+unknown1961
+unknown196
+unknown1409
+unknown1202
+unknown673
+unknown1080
+unknown441
+unknown1479
+unknown717
+unknown1774
+unknown1630
+unknown341
+unknown1367
+unknown1993
+unknown1345
+unknown593
+unknown608
+unknown1522
+unknown702
+unknown480
+unknown400
+unknown1556
+unknown637
+unknown719
+unknown1986
+unknown1072
+unknown137
+unknown1803
+unknown1122
+unknown1564
+unknown152
+unknown1555
+unknown1552
+unknown1876
+unknown432
+unknown840
+unknown273
+unknown513
+unknown996
+unknown1696
+unknown1847
+unknown1194
+unknown1462
+unknown557
+unknown662
+unknown1212
+unknown1831
+unknown862
+unknown1638
+unknown1537
+unknown944
+unknown728
+unknown1647
+unknown870
+unknown815
+unknown1229
+unknown593
+unknown770
+unknown1669
+unknown1568
+unknown1242
+unknown1491
+unknown1520
+unknown645
+unknown154
+unknown1394
+unknown1071
+unknown443
+unknown855
+unknown898
+unknown83
+unknown935
+unknown1729
+unknown595
+unknown927
+unknown1358
+unknown981
+unknown1213
+unknown1183
+unknown102
+unknown1272
+unknown475
+unknown252
+unknown754
+unknown407
+unknown1964
+unknown200
+unknown1260
+unknown1306
+unknown159
+unknown347
+unknown525
+unknown1422
+unknown1619
+unknown447
+unknown1532
+unknown1527
+unknown678
+unknown1061
+unknown1410
+unknown1102
+unknown270
+unknown1183
+unknown1237
+unknown1535
+unknown1064
+unknown1745
+unknown530
+unknown1351
+unknown1437
+unknown424
+unknown1564
+unknown822
+unknown709
+unknown633
+unknown203
+unknown583
+unknown1200
+unknown364
+unknown507
+unknown687
+unknown669
+unknown1153
+unknown1794
+unknown650
+unknown1627
+unknown494
+unknown1952
+unknown1591
+unknown1192
+unknown673
+unknown1485
+unknown349
+unknown506
+unknown1988
+unknown1280
+unknown870
+unknown1125
+unknown27
+unknown410
+unknown1625
+unknown1304
+unknown707
+unknown1306
+unknown1675
+unknown372
+unknown1308
+unknown1601
+unknown841
+unknown567
+unknown783
+unknown1822
+unknown685
+unknown567
+unknown384
+unknown1815
+unknown1335
+unknown1531
+unknown803
+unknown630
+unknown1957
+unknown324
+unknown1415
+unknown1035
+unknown222
+unknown759
+unknown675
+unknown1245
+unknown713
+unknown1008
+unknown1681
+unknown66
+unknown362
+unknown593
+unknown914
+unknown1111
+unknown798
+unknown1417
+unknown1089
+unknown510
+unknown167
+unknown1123
+unknown772
+unknown405
+unknown1938
+unknown1532
+unknown663
+unknown1290
+unknown1832
+unknown623
+unknown1702
+unknown275
+unknown527
+unknown1
+unknown359
+unknown1236
+unknown1160
+unknown428
+unknown316
+unknown470
+unknown566
+unknown1298
+unknown379
+unknown235
+unknown1782
+unknown805
+unknown1054
+unknown436
+unknown218
+unknown1419
+unknown78
+unknown913
+unknown1227
+unknown1871
+unknown496
+unknown1766
+unknown1584
+unknown1285
+unknown1248
+unknown1589
+unknown1365
+unknown87
+unknown362
+unknown572
+unknown445
+unknown1191
+unknown1614
+unknown1234
+unknown760
+unknown974
+unknown1570
+unknown954
+unknown183
+unknown1001
+unknown1576
+unknown224
+unknown478
+unknown359
+unknown898
+unknown190
+unknown1679
+unknown202
+unknown1017
+unknown719
+unknown1697
+unknown343
+unknown500
+unknown1959
+unknown168
+unknown1609
+unknown423
+unknown1977
+unknown351
+unknown50
+unknown1375
+unknown1669
+unknown1802
+unknown1565
+unknown1843
+unknown1472
+unknown1205
+unknown107
+unknown1155
+unknown1983
+unknown1877
+unknown561
+unknown1297
+unknown450
+unknown1452
+unknown1605
+unknown411
+unknown88
+unknown1725
+unknown633
+unknown183
+unknown1025
+unknown1254
+unknown1232
+unknown1816
+unknown373
+unknown642
+unknown934
+unknown714
+unknown1356
+unknown1891
+unknown29
+unknown985
+unknown398
+unknown626
+unknown1617
+unknown1650
+unknown1955
+unknown880
+unknown275
+unknown971
+unknown321
+unknown841
+unknown87
+unknown927
+unknown1542
+unknown1457
+unknown172
+unknown67
+unknown1584
+unknown1576
+unknown1108
+unknown1145
+unknown595
+unknown469
+unknown1115
+unknown1397
+unknown995
+unknown1675
+unknown436
+unknown1713
+unknown466
+unknown1842
+unknown535
+unknown888
+unknown210
+unknown1386
+unknown775
+unknown735
+unknown1405
+unknown134
+unknown171
+unknown1978
+unknown1011
+unknown51
+unknown1912
+unknown969
+unknown896
+unknown705
+unknown211
+unknown1605
+unknown1606
+unknown454
+unknown1737
+unknown893
+unknown220
+unknown1439
+unknown1669
+unknown1748
+unknown1797
+unknown776
+unknown1469
+unknown1445
+unknown1932
+unknown600
+unknown1533
+unknown198
+unknown1442
+unknown801
+unknown286
+unknown777
+unknown1847
+unknown470
+unknown1744
+unknown534
+unknown724
+unknown1129
+unknown1091
+unknown1929
+unknown1464
+unknown1871
+unknown408
+unknown1301
+unknown669
+unknown333
+unknown431
+unknown874
+unknown1782
+unknown665
+unknown628
+unknown671
+unknown213
+unknown1164
+unknown1826
+unknown302
+unknown1515
+unknown1042
+unknown413
+unknown123
+unknown7
+unknown949
+unknown873
+unknown111
+unknown1793
+unknown1183
+unknown350
+unknown709
+unknown964
+unknown1702
+unknown10
+unknown1840
+unknown730
+unknown1035
+unknown1126
+unknown1732
+unknown1556
+unknown526
+unknown398
+unknown499
+unknown653
+unknown12
+unknown766
+unknown1192
+unknown40
+unknown1742
+unknown1564
+unknown1921
+unknown1547
+unknown942
+unknown245
+unknown1867
+unknown844
+unknown1135
+unknown1814
+unknown740
+unknown1729
+unknown1765
+unknown1405
+unknown1574
+unknown419
+unknown810
+unknown480
+unknown1467
+unknown1095
+unknown941
+unknown1467
+unknown57
+unknown1057
+unknown217
+unknown1659
+unknown491
+unknown1872
+unknown681
+unknown126
+unknown1553
+unknown1915
+unknown963
+unknown1046
+unknown411
+unknown1207
+unknown692
+unknown1125
+unknown881
+unknown1430
+unknown1488
+unknown1075
+unknown1552
+unknown1071
+unknown218
+unknown1420

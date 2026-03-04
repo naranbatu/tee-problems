@@ -1,0 +1,10001 @@
+10000
+COUNT apple
+COUNT bread
+ADD banana 87
+COUNT butter
+ADD meat 5
+ADD bread 30
+COUNT apple
+COUNT butter
+REMOVE fish 38
+ADD apple 98
+MAX
+COUNT egg
+ADD bread 98
+REMOVE banana 25
+ADD egg 78
+ADD apple 94
+REMOVE banana 25
+ADD rice 81
+COUNT egg
+COUNT banana
+ADD bread 99
+ADD banana 30
+MAX
+REMOVE fish 41
+MAX
+ADD egg 27
+COUNT banana
+COUNT milk
+COUNT bread
+ADD meat 35
+MAX
+COUNT butter
+ADD egg 99
+COUNT bread
+MAX
+MAX
+REMOVE banana 14
+MAX
+COUNT egg
+ADD fish 51
+MAX
+COUNT milk
+ADD bread 96
+COUNT rice
+COUNT meat
+MAX
+REMOVE bread 9
+COUNT banana
+COUNT banana
+ADD milk 88
+REMOVE banana 25
+REMOVE fish 34
+ADD butter 2
+COUNT banana
+COUNT butter
+COUNT egg
+ADD meat 21
+REMOVE rice 33
+COUNT butter
+MAX
+MAX
+ADD butter 78
+ADD egg 98
+ADD butter 1
+COUNT fish
+ADD egg 40
+ADD bread 73
+MAX
+ADD fish 9
+MAX
+COUNT milk
+ADD fish 71
+ADD butter 78
+REMOVE bread 35
+COUNT bread
+COUNT meat
+MAX
+COUNT fish
+MAX
+REMOVE bread 15
+ADD apple 76
+COUNT cheese
+ADD banana 91
+COUNT bread
+ADD apple 43
+ADD bread 36
+COUNT bread
+COUNT cheese
+COUNT bread
+COUNT meat
+ADD banana 85
+REMOVE meat 27
+REMOVE apple 44
+COUNT banana
+ADD egg 14
+ADD bread 69
+REMOVE meat 12
+ADD bread 10
+REMOVE butter 7
+ADD butter 2
+MAX
+MAX
+MAX
+ADD fish 62
+ADD meat 8
+ADD apple 50
+ADD fish 37
+REMOVE butter 43
+COUNT milk
+ADD bread 8
+COUNT butter
+ADD egg 8
+ADD fish 65
+MAX
+COUNT apple
+MAX
+ADD milk 9
+COUNT bread
+REMOVE cheese 16
+COUNT apple
+COUNT meat
+COUNT cheese
+COUNT rice
+ADD egg 31
+ADD milk 86
+COUNT fish
+REMOVE banana 1
+REMOVE cheese 7
+ADD bread 65
+ADD egg 9
+MAX
+REMOVE milk 29
+MAX
+COUNT cheese
+MAX
+MAX
+COUNT butter
+ADD banana 18
+ADD banana 96
+COUNT rice
+ADD bread 92
+REMOVE rice 33
+REMOVE apple 6
+COUNT rice
+ADD egg 99
+ADD rice 21
+COUNT butter
+COUNT butter
+ADD banana 89
+MAX
+COUNT egg
+COUNT milk
+REMOVE apple 20
+REMOVE apple 23
+ADD bread 86
+ADD butter 53
+MAX
+COUNT bread
+MAX
+MAX
+MAX
+MAX
+ADD egg 53
+MAX
+MAX
+MAX
+ADD banana 49
+MAX
+MAX
+ADD fish 45
+REMOVE bread 15
+ADD bread 52
+REMOVE banana 50
+ADD butter 52
+COUNT butter
+REMOVE apple 8
+MAX
+ADD cheese 34
+ADD cheese 56
+REMOVE egg 28
+COUNT butter
+ADD cheese 25
+ADD meat 1
+COUNT butter
+COUNT bread
+REMOVE banana 43
+MAX
+COUNT banana
+COUNT rice
+COUNT meat
+REMOVE rice 36
+ADD meat 86
+MAX
+COUNT milk
+COUNT rice
+REMOVE apple 20
+ADD meat 75
+COUNT egg
+REMOVE fish 44
+ADD fish 95
+ADD banana 37
+COUNT cheese
+REMOVE bread 44
+REMOVE bread 10
+ADD bread 61
+COUNT banana
+REMOVE cheese 13
+COUNT meat
+REMOVE bread 10
+COUNT apple
+MAX
+MAX
+MAX
+COUNT bread
+ADD butter 60
+ADD bread 16
+REMOVE fish 43
+COUNT butter
+COUNT fish
+COUNT butter
+REMOVE butter 29
+MAX
+COUNT fish
+REMOVE bread 41
+ADD butter 63
+COUNT rice
+REMOVE rice 16
+ADD egg 70
+ADD milk 30
+REMOVE milk 46
+ADD meat 53
+REMOVE fish 27
+ADD meat 50
+MAX
+COUNT apple
+MAX
+COUNT meat
+REMOVE egg 20
+COUNT meat
+COUNT butter
+COUNT bread
+REMOVE rice 28
+REMOVE meat 22
+COUNT meat
+COUNT fish
+MAX
+MAX
+COUNT meat
+COUNT apple
+ADD meat 18
+MAX
+ADD rice 49
+REMOVE fish 21
+REMOVE meat 18
+COUNT meat
+ADD banana 61
+ADD butter 7
+MAX
+REMOVE banana 50
+MAX
+ADD apple 32
+ADD apple 80
+ADD milk 61
+COUNT cheese
+MAX
+REMOVE rice 50
+REMOVE cheese 39
+MAX
+COUNT milk
+MAX
+ADD apple 40
+COUNT meat
+REMOVE bread 5
+COUNT bread
+ADD rice 88
+COUNT banana
+COUNT cheese
+COUNT egg
+COUNT egg
+ADD egg 2
+MAX
+MAX
+ADD egg 82
+MAX
+REMOVE milk 28
+ADD butter 84
+ADD butter 100
+REMOVE meat 47
+COUNT egg
+MAX
+MAX
+ADD fish 32
+COUNT cheese
+COUNT meat
+REMOVE fish 21
+ADD bread 46
+COUNT egg
+ADD cheese 90
+MAX
+COUNT butter
+MAX
+ADD meat 63
+COUNT bread
+COUNT fish
+REMOVE apple 6
+ADD meat 89
+ADD cheese 48
+REMOVE butter 23
+REMOVE butter 22
+REMOVE fish 18
+REMOVE bread 8
+COUNT egg
+ADD butter 98
+COUNT bread
+ADD fish 36
+COUNT butter
+COUNT banana
+MAX
+ADD egg 23
+REMOVE butter 9
+ADD apple 71
+ADD milk 82
+MAX
+REMOVE apple 37
+ADD fish 57
+REMOVE apple 17
+MAX
+REMOVE banana 26
+REMOVE cheese 41
+COUNT milk
+ADD cheese 39
+ADD bread 16
+COUNT meat
+COUNT cheese
+ADD butter 49
+REMOVE fish 20
+MAX
+MAX
+REMOVE cheese 4
+COUNT banana
+MAX
+ADD bread 34
+COUNT milk
+ADD butter 10
+ADD meat 58
+COUNT fish
+ADD bread 37
+COUNT fish
+ADD bread 34
+COUNT cheese
+COUNT bread
+REMOVE butter 15
+COUNT rice
+MAX
+ADD milk 40
+COUNT cheese
+MAX
+REMOVE fish 45
+REMOVE meat 18
+COUNT fish
+REMOVE cheese 3
+MAX
+COUNT cheese
+ADD banana 30
+MAX
+MAX
+COUNT apple
+MAX
+COUNT rice
+COUNT milk
+REMOVE fish 18
+ADD cheese 56
+COUNT fish
+MAX
+REMOVE meat 22
+REMOVE banana 11
+REMOVE fish 19
+COUNT meat
+MAX
+COUNT fish
+ADD rice 42
+ADD meat 66
+MAX
+ADD butter 60
+REMOVE bread 34
+REMOVE fish 41
+REMOVE apple 14
+ADD milk 37
+REMOVE fish 8
+ADD cheese 31
+COUNT rice
+COUNT butter
+REMOVE bread 8
+REMOVE banana 42
+MAX
+REMOVE rice 33
+COUNT meat
+MAX
+MAX
+ADD butter 19
+REMOVE cheese 33
+COUNT milk
+MAX
+ADD meat 44
+MAX
+COUNT apple
+ADD rice 76
+COUNT fish
+MAX
+REMOVE fish 23
+REMOVE butter 25
+REMOVE egg 13
+MAX
+ADD meat 30
+MAX
+REMOVE egg 48
+REMOVE meat 25
+MAX
+COUNT milk
+REMOVE apple 9
+COUNT cheese
+REMOVE banana 29
+ADD fish 2
+COUNT meat
+MAX
+MAX
+ADD rice 44
+COUNT meat
+COUNT egg
+MAX
+MAX
+REMOVE egg 41
+COUNT fish
+MAX
+ADD banana 31
+COUNT rice
+MAX
+COUNT meat
+MAX
+COUNT banana
+REMOVE rice 2
+ADD apple 38
+REMOVE meat 10
+ADD meat 73
+COUNT milk
+ADD banana 79
+MAX
+COUNT bread
+REMOVE cheese 10
+ADD rice 59
+ADD apple 60
+MAX
+COUNT milk
+ADD egg 76
+ADD meat 89
+ADD rice 26
+MAX
+MAX
+ADD meat 74
+REMOVE rice 45
+ADD meat 36
+ADD apple 78
+COUNT rice
+COUNT bread
+COUNT egg
+ADD bread 80
+ADD milk 81
+ADD apple 40
+COUNT apple
+COUNT milk
+ADD rice 42
+COUNT milk
+ADD butter 47
+COUNT rice
+MAX
+ADD fish 38
+COUNT egg
+MAX
+REMOVE banana 10
+COUNT bread
+MAX
+COUNT meat
+MAX
+MAX
+REMOVE meat 1
+ADD banana 59
+REMOVE rice 38
+REMOVE egg 7
+COUNT fish
+ADD butter 42
+MAX
+ADD banana 82
+MAX
+MAX
+REMOVE meat 8
+ADD apple 39
+MAX
+ADD bread 69
+ADD fish 48
+COUNT butter
+REMOVE milk 27
+COUNT fish
+COUNT rice
+ADD egg 28
+REMOVE bread 24
+ADD egg 70
+MAX
+COUNT apple
+REMOVE bread 8
+MAX
+MAX
+ADD bread 83
+COUNT apple
+ADD egg 32
+MAX
+COUNT bread
+ADD butter 27
+COUNT bread
+REMOVE milk 39
+ADD milk 17
+COUNT milk
+ADD apple 17
+ADD bread 76
+REMOVE milk 17
+ADD meat 68
+ADD banana 61
+REMOVE egg 33
+COUNT fish
+COUNT cheese
+ADD butter 39
+REMOVE apple 4
+MAX
+MAX
+REMOVE banana 32
+COUNT fish
+ADD banana 42
+COUNT banana
+ADD cheese 82
+COUNT egg
+REMOVE cheese 34
+ADD butter 78
+REMOVE banana 42
+COUNT butter
+COUNT bread
+REMOVE bread 27
+REMOVE fish 26
+REMOVE banana 21
+REMOVE rice 24
+MAX
+COUNT fish
+ADD banana 12
+REMOVE egg 9
+COUNT cheese
+MAX
+COUNT banana
+REMOVE meat 47
+ADD rice 77
+REMOVE banana 37
+COUNT milk
+COUNT bread
+MAX
+REMOVE butter 24
+ADD rice 74
+ADD meat 72
+MAX
+MAX
+COUNT butter
+ADD rice 4
+ADD rice 44
+REMOVE milk 10
+COUNT meat
+ADD apple 12
+COUNT bread
+REMOVE fish 22
+ADD rice 93
+REMOVE cheese 39
+ADD apple 20
+ADD cheese 7
+COUNT rice
+REMOVE meat 32
+COUNT meat
+ADD butter 15
+REMOVE banana 19
+COUNT cheese
+REMOVE rice 3
+ADD cheese 8
+ADD rice 28
+COUNT rice
+ADD banana 1
+REMOVE meat 12
+ADD butter 91
+ADD butter 86
+MAX
+ADD apple 56
+ADD banana 41
+COUNT cheese
+REMOVE meat 19
+ADD apple 42
+ADD cheese 59
+MAX
+MAX
+ADD banana 32
+REMOVE meat 34
+ADD rice 96
+REMOVE egg 50
+ADD butter 82
+ADD butter 25
+MAX
+REMOVE milk 16
+ADD rice 26
+ADD milk 98
+COUNT banana
+ADD fish 60
+COUNT cheese
+REMOVE cheese 42
+COUNT cheese
+REMOVE egg 10
+REMOVE fish 29
+COUNT rice
+COUNT egg
+COUNT rice
+REMOVE apple 4
+REMOVE rice 5
+COUNT banana
+COUNT butter
+REMOVE cheese 36
+MAX
+COUNT apple
+REMOVE cheese 42
+ADD cheese 61
+COUNT apple
+REMOVE egg 46
+ADD milk 6
+ADD fish 57
+COUNT cheese
+ADD egg 37
+REMOVE egg 44
+COUNT egg
+ADD banana 72
+COUNT rice
+ADD cheese 20
+REMOVE cheese 43
+ADD egg 40
+MAX
+COUNT meat
+ADD banana 40
+COUNT egg
+MAX
+COUNT butter
+ADD meat 66
+REMOVE egg 20
+ADD bread 44
+MAX
+REMOVE bread 9
+ADD rice 13
+COUNT butter
+MAX
+MAX
+ADD egg 99
+COUNT cheese
+REMOVE milk 12
+MAX
+COUNT milk
+COUNT apple
+REMOVE bread 29
+COUNT fish
+ADD bread 40
+MAX
+COUNT bread
+REMOVE cheese 29
+REMOVE rice 50
+REMOVE butter 27
+MAX
+MAX
+MAX
+ADD rice 7
+COUNT egg
+COUNT banana
+COUNT butter
+MAX
+ADD milk 35
+REMOVE butter 10
+MAX
+ADD bread 58
+MAX
+MAX
+REMOVE meat 33
+REMOVE meat 6
+REMOVE apple 21
+MAX
+MAX
+COUNT milk
+ADD rice 61
+COUNT milk
+COUNT fish
+REMOVE apple 6
+ADD bread 20
+COUNT cheese
+COUNT banana
+COUNT bread
+REMOVE apple 16
+REMOVE cheese 30
+ADD fish 77
+COUNT butter
+COUNT milk
+ADD apple 79
+REMOVE cheese 27
+ADD banana 68
+MAX
+ADD butter 70
+COUNT butter
+COUNT meat
+MAX
+ADD meat 48
+ADD apple 46
+COUNT egg
+ADD banana 99
+COUNT egg
+ADD egg 70
+REMOVE milk 50
+COUNT fish
+COUNT milk
+ADD fish 5
+ADD apple 26
+MAX
+REMOVE rice 33
+REMOVE butter 31
+ADD bread 37
+REMOVE apple 42
+REMOVE banana 24
+REMOVE meat 48
+REMOVE meat 22
+MAX
+REMOVE fish 24
+MAX
+COUNT banana
+COUNT banana
+REMOVE milk 35
+ADD banana 11
+REMOVE rice 20
+REMOVE meat 11
+COUNT egg
+REMOVE egg 40
+MAX
+ADD apple 10
+COUNT meat
+REMOVE milk 2
+ADD cheese 87
+COUNT apple
+ADD bread 100
+COUNT egg
+REMOVE cheese 3
+COUNT fish
+MAX
+REMOVE banana 37
+ADD egg 51
+REMOVE rice 16
+MAX
+ADD milk 64
+COUNT butter
+ADD rice 91
+REMOVE cheese 19
+COUNT fish
+ADD milk 10
+REMOVE fish 6
+MAX
+MAX
+MAX
+COUNT banana
+COUNT rice
+MAX
+MAX
+COUNT milk
+COUNT butter
+ADD bread 18
+ADD fish 4
+REMOVE cheese 24
+REMOVE butter 9
+COUNT banana
+ADD meat 92
+COUNT butter
+REMOVE meat 37
+ADD egg 83
+ADD fish 88
+COUNT milk
+MAX
+COUNT cheese
+ADD milk 56
+COUNT apple
+MAX
+COUNT rice
+ADD egg 91
+ADD butter 37
+MAX
+ADD butter 36
+ADD rice 79
+COUNT butter
+COUNT cheese
+MAX
+ADD cheese 93
+MAX
+REMOVE cheese 3
+MAX
+ADD apple 83
+COUNT rice
+COUNT cheese
+REMOVE apple 32
+MAX
+COUNT rice
+REMOVE meat 20
+REMOVE apple 11
+REMOVE fish 30
+ADD cheese 19
+REMOVE egg 47
+MAX
+REMOVE meat 9
+COUNT butter
+COUNT egg
+ADD banana 35
+REMOVE milk 7
+ADD meat 79
+REMOVE milk 21
+MAX
+COUNT bread
+COUNT fish
+MAX
+REMOVE rice 32
+ADD meat 65
+REMOVE bread 14
+COUNT apple
+ADD fish 77
+MAX
+COUNT fish
+ADD apple 14
+REMOVE rice 47
+REMOVE meat 24
+ADD apple 73
+COUNT egg
+COUNT banana
+REMOVE fish 49
+COUNT cheese
+COUNT banana
+ADD banana 51
+REMOVE egg 36
+MAX
+COUNT bread
+COUNT meat
+COUNT apple
+ADD egg 61
+COUNT milk
+COUNT butter
+ADD cheese 41
+ADD cheese 95
+MAX
+COUNT butter
+MAX
+COUNT cheese
+ADD apple 48
+REMOVE banana 27
+COUNT apple
+COUNT rice
+MAX
+COUNT cheese
+COUNT apple
+COUNT milk
+COUNT cheese
+COUNT meat
+ADD bread 5
+COUNT banana
+ADD fish 41
+REMOVE meat 45
+ADD butter 100
+COUNT fish
+MAX
+COUNT apple
+COUNT butter
+ADD egg 85
+REMOVE meat 21
+MAX
+REMOVE butter 22
+COUNT rice
+COUNT bread
+MAX
+ADD rice 29
+MAX
+MAX
+COUNT bread
+COUNT fish
+REMOVE egg 36
+MAX
+COUNT rice
+ADD cheese 87
+COUNT meat
+MAX
+MAX
+MAX
+ADD rice 92
+ADD fish 84
+ADD fish 28
+ADD butter 35
+MAX
+COUNT milk
+ADD cheese 31
+ADD butter 29
+COUNT apple
+ADD egg 92
+REMOVE milk 1
+MAX
+MAX
+ADD fish 62
+COUNT rice
+REMOVE apple 50
+ADD cheese 30
+COUNT apple
+MAX
+ADD milk 5
+MAX
+REMOVE fish 12
+MAX
+MAX
+MAX
+MAX
+ADD cheese 78
+ADD egg 37
+REMOVE butter 34
+REMOVE milk 33
+REMOVE bread 8
+REMOVE fish 42
+ADD milk 2
+COUNT rice
+COUNT bread
+ADD meat 55
+COUNT banana
+REMOVE banana 12
+MAX
+REMOVE bread 1
+ADD bread 58
+COUNT egg
+REMOVE cheese 1
+ADD egg 89
+ADD banana 60
+REMOVE meat 44
+COUNT rice
+COUNT rice
+REMOVE bread 15
+MAX
+REMOVE fish 48
+MAX
+REMOVE butter 31
+COUNT bread
+COUNT cheese
+MAX
+ADD fish 68
+COUNT banana
+MAX
+ADD butter 65
+ADD butter 20
+ADD butter 57
+ADD bread 92
+COUNT banana
+MAX
+REMOVE apple 30
+ADD meat 59
+COUNT butter
+REMOVE rice 47
+ADD rice 1
+COUNT cheese
+ADD meat 45
+COUNT butter
+MAX
+MAX
+ADD fish 5
+ADD milk 99
+ADD meat 48
+MAX
+REMOVE meat 25
+ADD butter 18
+COUNT egg
+ADD butter 51
+COUNT bread
+MAX
+COUNT rice
+REMOVE butter 28
+COUNT bread
+ADD egg 20
+ADD banana 5
+MAX
+REMOVE apple 16
+ADD banana 77
+ADD cheese 87
+COUNT apple
+ADD apple 52
+REMOVE butter 14
+COUNT apple
+ADD rice 30
+MAX
+COUNT egg
+COUNT egg
+ADD milk 85
+COUNT meat
+REMOVE apple 36
+MAX
+MAX
+MAX
+COUNT meat
+COUNT apple
+MAX
+MAX
+COUNT butter
+REMOVE meat 27
+ADD meat 24
+COUNT fish
+ADD bread 39
+MAX
+ADD fish 8
+COUNT meat
+COUNT milk
+REMOVE rice 14
+REMOVE banana 29
+MAX
+ADD bread 7
+ADD cheese 78
+ADD banana 25
+MAX
+COUNT butter
+ADD bread 43
+REMOVE apple 14
+MAX
+MAX
+ADD fish 32
+COUNT bread
+REMOVE bread 36
+REMOVE rice 25
+REMOVE egg 20
+ADD butter 64
+REMOVE fish 49
+MAX
+MAX
+REMOVE meat 3
+COUNT bread
+COUNT apple
+ADD cheese 75
+COUNT rice
+ADD egg 30
+REMOVE bread 32
+COUNT egg
+ADD fish 93
+COUNT fish
+REMOVE egg 11
+ADD butter 63
+ADD butter 83
+MAX
+COUNT banana
+MAX
+COUNT apple
+REMOVE bread 5
+COUNT apple
+ADD fish 48
+ADD cheese 62
+COUNT apple
+ADD butter 53
+ADD butter 93
+ADD rice 3
+COUNT meat
+MAX
+MAX
+ADD banana 68
+ADD bread 80
+COUNT egg
+ADD meat 11
+REMOVE meat 30
+COUNT bread
+ADD banana 84
+MAX
+COUNT apple
+ADD meat 49
+COUNT apple
+COUNT milk
+ADD meat 83
+COUNT cheese
+MAX
+MAX
+MAX
+MAX
+ADD cheese 61
+ADD banana 88
+MAX
+MAX
+COUNT apple
+ADD egg 3
+MAX
+COUNT meat
+MAX
+ADD cheese 31
+COUNT meat
+COUNT butter
+REMOVE milk 45
+COUNT butter
+COUNT egg
+ADD meat 30
+MAX
+REMOVE cheese 39
+REMOVE egg 2
+COUNT fish
+REMOVE egg 36
+MAX
+REMOVE cheese 43
+REMOVE cheese 19
+COUNT banana
+ADD milk 49
+COUNT milk
+COUNT egg
+REMOVE banana 1
+MAX
+REMOVE rice 7
+ADD milk 56
+REMOVE butter 33
+REMOVE apple 6
+REMOVE banana 39
+COUNT egg
+MAX
+ADD meat 50
+COUNT butter
+MAX
+MAX
+COUNT milk
+COUNT milk
+ADD rice 35
+REMOVE banana 11
+REMOVE meat 20
+REMOVE banana 24
+ADD bread 93
+COUNT cheese
+COUNT fish
+ADD rice 1
+MAX
+REMOVE cheese 25
+MAX
+REMOVE egg 28
+MAX
+MAX
+MAX
+ADD egg 78
+MAX
+ADD egg 23
+MAX
+MAX
+ADD fish 74
+COUNT egg
+REMOVE meat 24
+ADD cheese 26
+COUNT butter
+ADD butter 4
+MAX
+REMOVE bread 29
+COUNT banana
+MAX
+COUNT meat
+COUNT milk
+COUNT bread
+ADD milk 92
+REMOVE meat 5
+REMOVE cheese 31
+COUNT butter
+COUNT meat
+COUNT egg
+COUNT butter
+COUNT banana
+ADD bread 85
+COUNT milk
+COUNT apple
+COUNT meat
+MAX
+REMOVE meat 7
+ADD rice 29
+COUNT butter
+COUNT cheese
+ADD egg 51
+REMOVE cheese 45
+COUNT egg
+MAX
+REMOVE rice 27
+MAX
+ADD milk 45
+REMOVE fish 14
+COUNT egg
+REMOVE fish 47
+COUNT egg
+ADD apple 91
+ADD egg 83
+ADD milk 95
+ADD milk 71
+ADD butter 55
+MAX
+ADD meat 81
+ADD meat 51
+ADD cheese 26
+REMOVE meat 25
+ADD bread 27
+ADD banana 74
+ADD butter 24
+REMOVE bread 30
+ADD fish 68
+MAX
+REMOVE meat 40
+REMOVE banana 23
+REMOVE fish 40
+ADD rice 79
+COUNT milk
+REMOVE bread 20
+ADD egg 89
+ADD meat 54
+COUNT cheese
+REMOVE milk 32
+COUNT milk
+COUNT fish
+ADD milk 41
+MAX
+COUNT egg
+MAX
+REMOVE bread 25
+MAX
+COUNT fish
+REMOVE fish 27
+COUNT fish
+REMOVE banana 37
+ADD bread 38
+ADD bread 69
+ADD fish 73
+COUNT fish
+COUNT banana
+COUNT rice
+COUNT egg
+COUNT apple
+COUNT fish
+COUNT meat
+ADD bread 39
+MAX
+ADD rice 45
+MAX
+ADD banana 100
+MAX
+ADD cheese 89
+REMOVE cheese 41
+REMOVE cheese 9
+COUNT bread
+MAX
+COUNT butter
+ADD butter 22
+REMOVE rice 19
+COUNT butter
+MAX
+COUNT banana
+ADD meat 8
+MAX
+MAX
+ADD milk 32
+ADD egg 32
+COUNT meat
+REMOVE cheese 41
+ADD meat 49
+REMOVE banana 26
+COUNT rice
+COUNT egg
+REMOVE fish 21
+COUNT banana
+COUNT fish
+COUNT egg
+MAX
+COUNT meat
+ADD meat 28
+REMOVE egg 19
+REMOVE cheese 9
+COUNT fish
+COUNT apple
+ADD fish 3
+ADD milk 57
+REMOVE meat 13
+MAX
+MAX
+MAX
+REMOVE rice 6
+COUNT rice
+ADD milk 7
+REMOVE rice 47
+COUNT bread
+REMOVE banana 46
+ADD bread 62
+ADD cheese 29
+COUNT fish
+ADD egg 16
+MAX
+REMOVE milk 31
+ADD meat 12
+COUNT banana
+ADD egg 39
+ADD milk 83
+MAX
+ADD butter 73
+ADD milk 57
+REMOVE bread 41
+COUNT meat
+COUNT fish
+MAX
+ADD banana 18
+COUNT cheese
+COUNT egg
+MAX
+REMOVE milk 16
+ADD banana 32
+COUNT cheese
+COUNT rice
+COUNT apple
+MAX
+COUNT rice
+ADD cheese 66
+ADD meat 38
+COUNT bread
+REMOVE banana 16
+REMOVE cheese 5
+COUNT apple
+MAX
+MAX
+ADD cheese 54
+REMOVE milk 49
+REMOVE banana 2
+COUNT apple
+ADD apple 8
+MAX
+REMOVE rice 41
+COUNT meat
+REMOVE meat 6
+COUNT butter
+COUNT rice
+ADD banana 66
+MAX
+MAX
+ADD egg 51
+COUNT banana
+REMOVE meat 47
+MAX
+ADD bread 12
+MAX
+ADD cheese 78
+ADD milk 16
+ADD milk 90
+ADD fish 45
+COUNT rice
+ADD milk 96
+COUNT rice
+COUNT banana
+COUNT apple
+REMOVE meat 18
+COUNT rice
+COUNT cheese
+COUNT fish
+REMOVE egg 4
+REMOVE cheese 11
+REMOVE rice 50
+ADD cheese 87
+COUNT bread
+COUNT apple
+ADD apple 32
+ADD egg 50
+MAX
+ADD apple 71
+MAX
+COUNT meat
+ADD bread 54
+MAX
+REMOVE banana 37
+REMOVE butter 44
+MAX
+ADD butter 6
+MAX
+ADD fish 37
+COUNT rice
+REMOVE butter 30
+ADD bread 38
+COUNT rice
+COUNT bread
+REMOVE cheese 32
+MAX
+COUNT butter
+COUNT bread
+ADD meat 4
+ADD egg 82
+MAX
+MAX
+MAX
+ADD meat 95
+COUNT banana
+ADD bread 54
+REMOVE apple 10
+COUNT banana
+ADD bread 67
+REMOVE egg 30
+MAX
+ADD banana 65
+ADD meat 10
+COUNT apple
+REMOVE milk 16
+ADD egg 51
+COUNT egg
+REMOVE rice 15
+ADD bread 18
+COUNT cheese
+ADD banana 22
+REMOVE egg 27
+ADD egg 99
+ADD rice 60
+ADD banana 12
+ADD rice 91
+COUNT apple
+ADD egg 19
+ADD bread 46
+REMOVE apple 44
+ADD milk 4
+MAX
+MAX
+COUNT butter
+ADD fish 14
+MAX
+ADD apple 8
+MAX
+MAX
+ADD meat 48
+COUNT banana
+COUNT rice
+MAX
+ADD banana 26
+MAX
+REMOVE milk 6
+MAX
+MAX
+REMOVE apple 30
+ADD cheese 56
+MAX
+REMOVE apple 25
+COUNT milk
+REMOVE milk 18
+ADD milk 5
+COUNT cheese
+ADD rice 64
+REMOVE butter 31
+ADD rice 50
+ADD bread 83
+MAX
+COUNT butter
+COUNT meat
+COUNT egg
+REMOVE fish 23
+MAX
+COUNT meat
+ADD apple 41
+COUNT apple
+MAX
+COUNT apple
+MAX
+REMOVE egg 50
+COUNT bread
+MAX
+ADD bread 35
+COUNT apple
+COUNT bread
+COUNT meat
+REMOVE milk 12
+ADD egg 95
+COUNT cheese
+ADD egg 73
+COUNT cheese
+MAX
+MAX
+MAX
+MAX
+COUNT milk
+REMOVE banana 4
+ADD bread 3
+COUNT apple
+REMOVE cheese 13
+MAX
+REMOVE milk 21
+ADD milk 76
+COUNT milk
+COUNT butter
+MAX
+MAX
+REMOVE meat 38
+ADD rice 42
+ADD milk 94
+MAX
+COUNT fish
+COUNT milk
+COUNT butter
+COUNT cheese
+COUNT bread
+COUNT milk
+REMOVE rice 9
+ADD apple 90
+MAX
+REMOVE cheese 3
+ADD egg 79
+ADD cheese 14
+MAX
+ADD banana 31
+REMOVE egg 11
+COUNT banana
+MAX
+COUNT egg
+REMOVE rice 14
+ADD banana 45
+ADD banana 93
+ADD meat 57
+COUNT milk
+MAX
+REMOVE meat 23
+COUNT banana
+MAX
+COUNT cheese
+COUNT bread
+ADD banana 5
+ADD egg 34
+MAX
+ADD milk 49
+ADD banana 71
+MAX
+MAX
+REMOVE cheese 31
+COUNT meat
+MAX
+ADD meat 21
+ADD egg 27
+MAX
+REMOVE butter 47
+MAX
+COUNT rice
+ADD banana 7
+REMOVE butter 32
+ADD egg 1
+REMOVE rice 43
+COUNT fish
+ADD apple 27
+ADD rice 11
+REMOVE banana 20
+COUNT fish
+REMOVE rice 6
+COUNT meat
+ADD meat 48
+ADD apple 34
+REMOVE rice 15
+MAX
+COUNT milk
+COUNT banana
+ADD egg 70
+REMOVE cheese 15
+COUNT meat
+MAX
+REMOVE butter 44
+MAX
+REMOVE bread 31
+ADD meat 92
+ADD cheese 67
+MAX
+COUNT cheese
+ADD fish 23
+MAX
+ADD bread 25
+ADD meat 11
+MAX
+REMOVE milk 39
+ADD banana 12
+REMOVE meat 36
+REMOVE rice 34
+REMOVE apple 45
+COUNT butter
+COUNT banana
+REMOVE milk 37
+COUNT banana
+MAX
+COUNT banana
+COUNT butter
+MAX
+MAX
+ADD fish 74
+COUNT apple
+ADD meat 19
+COUNT meat
+ADD egg 89
+ADD fish 35
+MAX
+ADD rice 40
+ADD fish 90
+COUNT bread
+ADD fish 100
+MAX
+ADD meat 78
+COUNT bread
+REMOVE meat 48
+REMOVE butter 24
+MAX
+COUNT milk
+ADD butter 52
+ADD butter 73
+ADD bread 26
+MAX
+ADD fish 7
+MAX
+COUNT rice
+REMOVE fish 33
+REMOVE banana 44
+ADD egg 63
+COUNT milk
+MAX
+REMOVE butter 23
+REMOVE rice 48
+MAX
+ADD apple 50
+ADD cheese 100
+MAX
+MAX
+COUNT bread
+ADD meat 66
+ADD apple 61
+MAX
+COUNT cheese
+MAX
+ADD cheese 40
+COUNT rice
+REMOVE meat 23
+REMOVE bread 30
+REMOVE butter 40
+REMOVE banana 1
+COUNT egg
+COUNT cheese
+COUNT rice
+COUNT fish
+ADD rice 82
+REMOVE rice 17
+COUNT rice
+ADD butter 98
+ADD apple 77
+REMOVE egg 44
+ADD apple 84
+REMOVE rice 17
+MAX
+REMOVE apple 38
+COUNT cheese
+MAX
+REMOVE bread 44
+COUNT fish
+MAX
+COUNT butter
+REMOVE milk 43
+MAX
+ADD banana 61
+ADD rice 93
+MAX
+COUNT milk
+MAX
+MAX
+COUNT bread
+REMOVE rice 27
+COUNT egg
+REMOVE cheese 19
+REMOVE banana 31
+ADD cheese 75
+MAX
+ADD bread 65
+ADD meat 68
+ADD apple 20
+ADD bread 44
+REMOVE cheese 30
+ADD milk 100
+ADD egg 81
+MAX
+REMOVE apple 1
+REMOVE bread 49
+COUNT cheese
+COUNT fish
+COUNT banana
+ADD meat 82
+REMOVE meat 31
+REMOVE apple 35
+ADD egg 2
+MAX
+COUNT butter
+ADD apple 81
+COUNT bread
+COUNT egg
+REMOVE banana 25
+COUNT rice
+ADD apple 39
+MAX
+REMOVE butter 39
+COUNT meat
+MAX
+MAX
+REMOVE fish 23
+COUNT milk
+MAX
+MAX
+REMOVE bread 15
+COUNT milk
+ADD apple 76
+COUNT banana
+REMOVE apple 25
+MAX
+ADD butter 80
+ADD apple 85
+ADD apple 7
+COUNT meat
+REMOVE banana 36
+ADD milk 27
+COUNT apple
+REMOVE banana 43
+COUNT cheese
+COUNT milk
+REMOVE banana 33
+COUNT banana
+ADD banana 64
+ADD bread 100
+ADD butter 26
+REMOVE meat 19
+ADD butter 64
+MAX
+COUNT fish
+REMOVE apple 1
+COUNT banana
+MAX
+COUNT milk
+MAX
+COUNT banana
+COUNT banana
+MAX
+COUNT fish
+MAX
+ADD fish 7
+ADD milk 6
+MAX
+REMOVE egg 28
+COUNT banana
+MAX
+MAX
+ADD milk 85
+COUNT egg
+REMOVE fish 40
+ADD banana 48
+MAX
+ADD meat 52
+MAX
+ADD meat 89
+MAX
+COUNT milk
+ADD apple 21
+ADD cheese 62
+MAX
+COUNT milk
+COUNT egg
+COUNT milk
+REMOVE fish 8
+MAX
+REMOVE banana 17
+COUNT apple
+COUNT butter
+COUNT cheese
+COUNT bread
+MAX
+COUNT egg
+COUNT cheese
+ADD bread 62
+REMOVE meat 10
+MAX
+COUNT cheese
+ADD milk 65
+MAX
+MAX
+MAX
+ADD fish 42
+ADD rice 7
+COUNT butter
+COUNT meat
+MAX
+ADD fish 74
+REMOVE fish 29
+REMOVE fish 48
+COUNT banana
+REMOVE apple 36
+COUNT banana
+COUNT cheese
+COUNT butter
+COUNT fish
+MAX
+REMOVE apple 15
+MAX
+REMOVE cheese 39
+REMOVE egg 46
+REMOVE banana 49
+COUNT apple
+REMOVE rice 36
+COUNT banana
+ADD milk 64
+ADD meat 14
+ADD bread 25
+ADD meat 28
+REMOVE bread 46
+REMOVE meat 3
+MAX
+MAX
+COUNT fish
+REMOVE cheese 33
+ADD fish 1
+COUNT apple
+COUNT meat
+MAX
+REMOVE butter 50
+MAX
+ADD cheese 23
+COUNT milk
+ADD cheese 78
+MAX
+COUNT meat
+REMOVE cheese 45
+COUNT rice
+REMOVE egg 19
+REMOVE milk 9
+REMOVE butter 20
+MAX
+COUNT egg
+COUNT butter
+COUNT bread
+ADD rice 88
+REMOVE milk 46
+COUNT milk
+COUNT egg
+COUNT egg
+COUNT cheese
+COUNT meat
+COUNT butter
+ADD meat 2
+COUNT apple
+REMOVE apple 43
+ADD rice 97
+COUNT rice
+COUNT milk
+MAX
+COUNT rice
+ADD butter 5
+REMOVE fish 7
+COUNT butter
+MAX
+COUNT butter
+REMOVE butter 45
+ADD apple 49
+REMOVE egg 36
+ADD rice 26
+COUNT fish
+MAX
+MAX
+COUNT egg
+COUNT butter
+COUNT bread
+COUNT bread
+ADD milk 88
+ADD milk 95
+COUNT meat
+ADD rice 72
+ADD milk 75
+MAX
+ADD fish 91
+MAX
+ADD egg 77
+ADD cheese 85
+REMOVE cheese 36
+REMOVE egg 34
+ADD milk 67
+ADD butter 21
+REMOVE butter 26
+ADD bread 28
+COUNT egg
+REMOVE bread 49
+COUNT fish
+MAX
+MAX
+MAX
+ADD egg 58
+ADD cheese 80
+ADD apple 88
+MAX
+REMOVE banana 25
+ADD rice 4
+MAX
+MAX
+REMOVE butter 29
+REMOVE rice 42
+ADD butter 11
+MAX
+ADD butter 69
+ADD banana 27
+COUNT bread
+MAX
+REMOVE banana 14
+COUNT meat
+COUNT banana
+COUNT milk
+ADD egg 5
+ADD apple 23
+COUNT butter
+ADD bread 34
+REMOVE fish 41
+REMOVE egg 2
+REMOVE banana 35
+ADD cheese 9
+COUNT cheese
+ADD banana 46
+MAX
+ADD rice 78
+ADD fish 49
+REMOVE apple 31
+ADD bread 18
+COUNT butter
+ADD milk 39
+COUNT egg
+MAX
+ADD butter 19
+ADD apple 74
+COUNT butter
+COUNT banana
+REMOVE egg 14
+REMOVE butter 10
+ADD bread 79
+MAX
+ADD milk 86
+COUNT apple
+MAX
+MAX
+MAX
+REMOVE butter 5
+ADD banana 33
+ADD cheese 63
+MAX
+REMOVE bread 7
+ADD banana 25
+REMOVE fish 22
+COUNT rice
+COUNT milk
+COUNT egg
+MAX
+MAX
+ADD egg 32
+COUNT meat
+ADD egg 18
+COUNT egg
+MAX
+REMOVE egg 50
+REMOVE butter 7
+ADD cheese 11
+MAX
+MAX
+ADD butter 26
+ADD banana 94
+ADD apple 65
+COUNT cheese
+COUNT cheese
+ADD apple 71
+ADD butter 61
+COUNT milk
+REMOVE bread 50
+COUNT rice
+ADD butter 66
+ADD egg 65
+ADD bread 79
+COUNT butter
+ADD milk 23
+COUNT cheese
+COUNT milk
+COUNT fish
+MAX
+ADD fish 30
+ADD egg 30
+ADD bread 67
+MAX
+REMOVE fish 30
+MAX
+ADD egg 14
+COUNT butter
+COUNT rice
+MAX
+ADD butter 73
+ADD meat 47
+COUNT banana
+COUNT meat
+MAX
+ADD meat 46
+MAX
+REMOVE fish 39
+ADD milk 57
+ADD banana 66
+COUNT bread
+ADD milk 47
+COUNT banana
+COUNT meat
+MAX
+COUNT fish
+COUNT fish
+ADD milk 83
+MAX
+ADD apple 17
+COUNT milk
+ADD butter 6
+MAX
+ADD milk 34
+MAX
+COUNT meat
+COUNT cheese
+COUNT rice
+MAX
+ADD cheese 61
+MAX
+ADD meat 77
+ADD cheese 99
+ADD butter 34
+ADD egg 59
+COUNT banana
+ADD meat 17
+ADD bread 67
+MAX
+COUNT meat
+MAX
+COUNT milk
+REMOVE cheese 39
+ADD butter 65
+COUNT banana
+REMOVE milk 39
+COUNT apple
+MAX
+COUNT meat
+COUNT egg
+MAX
+COUNT meat
+ADD fish 99
+REMOVE cheese 48
+MAX
+MAX
+COUNT meat
+ADD fish 99
+ADD banana 37
+COUNT butter
+REMOVE bread 1
+COUNT apple
+COUNT banana
+COUNT meat
+COUNT egg
+REMOVE banana 10
+REMOVE cheese 17
+ADD butter 55
+COUNT cheese
+ADD meat 97
+ADD butter 72
+REMOVE egg 36
+COUNT rice
+MAX
+COUNT meat
+COUNT banana
+COUNT fish
+COUNT milk
+ADD butter 52
+COUNT butter
+COUNT apple
+ADD apple 12
+MAX
+REMOVE cheese 28
+ADD rice 29
+REMOVE cheese 3
+COUNT meat
+COUNT butter
+ADD cheese 8
+MAX
+MAX
+COUNT fish
+ADD butter 37
+ADD cheese 66
+COUNT bread
+COUNT apple
+REMOVE apple 11
+ADD rice 100
+REMOVE meat 26
+COUNT butter
+ADD banana 12
+COUNT butter
+MAX
+REMOVE rice 15
+COUNT bread
+REMOVE meat 37
+ADD milk 53
+COUNT butter
+ADD rice 44
+MAX
+MAX
+MAX
+MAX
+MAX
+COUNT fish
+MAX
+COUNT bread
+COUNT fish
+COUNT cheese
+MAX
+REMOVE rice 5
+REMOVE bread 44
+COUNT egg
+REMOVE egg 34
+COUNT rice
+ADD banana 52
+COUNT egg
+ADD milk 61
+REMOVE bread 37
+ADD bread 64
+COUNT bread
+COUNT rice
+ADD bread 32
+MAX
+REMOVE banana 8
+MAX
+COUNT fish
+COUNT butter
+MAX
+MAX
+REMOVE egg 32
+MAX
+MAX
+COUNT rice
+REMOVE butter 18
+REMOVE cheese 9
+ADD meat 62
+MAX
+ADD egg 51
+MAX
+COUNT fish
+MAX
+COUNT fish
+REMOVE apple 1
+COUNT meat
+COUNT egg
+REMOVE rice 12
+COUNT bread
+ADD cheese 44
+REMOVE fish 28
+ADD egg 47
+MAX
+ADD milk 74
+ADD cheese 88
+ADD banana 93
+ADD bread 72
+REMOVE meat 13
+ADD milk 61
+MAX
+ADD fish 18
+MAX
+MAX
+COUNT egg
+COUNT rice
+ADD cheese 7
+REMOVE milk 4
+ADD rice 61
+MAX
+ADD egg 34
+REMOVE butter 36
+MAX
+ADD apple 53
+ADD cheese 26
+COUNT butter
+ADD rice 46
+REMOVE butter 32
+COUNT fish
+MAX
+REMOVE rice 30
+COUNT milk
+MAX
+COUNT egg
+REMOVE cheese 37
+REMOVE banana 6
+ADD bread 41
+REMOVE rice 46
+ADD meat 35
+MAX
+COUNT egg
+COUNT butter
+MAX
+REMOVE milk 2
+ADD bread 85
+ADD banana 27
+ADD banana 13
+ADD fish 71
+ADD meat 68
+COUNT banana
+ADD cheese 20
+ADD meat 40
+ADD rice 57
+COUNT milk
+COUNT milk
+ADD egg 42
+MAX
+REMOVE butter 18
+COUNT milk
+MAX
+COUNT milk
+COUNT fish
+COUNT cheese
+REMOVE butter 20
+MAX
+REMOVE bread 6
+REMOVE egg 27
+ADD rice 2
+ADD milk 45
+ADD butter 2
+COUNT fish
+MAX
+REMOVE apple 50
+REMOVE rice 39
+ADD apple 71
+REMOVE meat 36
+REMOVE bread 11
+COUNT meat
+MAX
+ADD banana 55
+COUNT butter
+COUNT cheese
+MAX
+COUNT rice
+COUNT butter
+MAX
+REMOVE banana 12
+ADD banana 82
+REMOVE fish 18
+COUNT fish
+ADD apple 20
+ADD butter 3
+ADD banana 37
+ADD fish 94
+ADD banana 20
+ADD bread 44
+REMOVE fish 24
+REMOVE apple 22
+ADD milk 8
+ADD meat 10
+COUNT milk
+ADD rice 49
+MAX
+ADD bread 50
+COUNT fish
+ADD apple 26
+REMOVE banana 34
+COUNT bread
+REMOVE rice 21
+ADD apple 96
+MAX
+COUNT rice
+REMOVE rice 13
+REMOVE apple 43
+ADD banana 31
+COUNT egg
+ADD rice 75
+ADD bread 2
+MAX
+COUNT fish
+COUNT milk
+REMOVE banana 16
+ADD banana 88
+COUNT apple
+ADD milk 90
+COUNT banana
+ADD bread 41
+MAX
+COUNT egg
+MAX
+REMOVE bread 2
+COUNT egg
+COUNT rice
+MAX
+REMOVE fish 36
+ADD fish 25
+COUNT butter
+REMOVE fish 18
+MAX
+COUNT butter
+ADD butter 20
+REMOVE rice 35
+REMOVE apple 50
+COUNT meat
+COUNT apple
+COUNT egg
+COUNT bread
+REMOVE banana 43
+MAX
+MAX
+ADD fish 99
+COUNT cheese
+ADD meat 83
+REMOVE banana 34
+COUNT apple
+MAX
+ADD apple 26
+ADD bread 13
+ADD meat 85
+REMOVE cheese 45
+COUNT apple
+REMOVE cheese 46
+ADD bread 84
+REMOVE banana 30
+MAX
+ADD butter 96
+MAX
+REMOVE egg 46
+ADD cheese 35
+COUNT banana
+MAX
+ADD bread 67
+ADD bread 69
+REMOVE bread 34
+COUNT cheese
+COUNT milk
+COUNT butter
+REMOVE banana 50
+COUNT egg
+COUNT meat
+MAX
+ADD milk 71
+REMOVE egg 43
+ADD cheese 57
+MAX
+MAX
+COUNT egg
+MAX
+REMOVE meat 47
+REMOVE bread 37
+COUNT meat
+COUNT rice
+REMOVE fish 29
+MAX
+ADD apple 37
+COUNT butter
+ADD rice 1
+REMOVE bread 14
+MAX
+ADD rice 71
+COUNT cheese
+MAX
+ADD apple 59
+REMOVE milk 17
+REMOVE cheese 16
+ADD rice 12
+COUNT cheese
+MAX
+COUNT egg
+COUNT milk
+REMOVE cheese 7
+COUNT rice
+ADD cheese 49
+ADD apple 99
+REMOVE meat 27
+MAX
+ADD bread 96
+COUNT cheese
+MAX
+COUNT meat
+ADD butter 6
+REMOVE cheese 10
+REMOVE bread 10
+ADD meat 58
+COUNT cheese
+COUNT bread
+REMOVE meat 10
+ADD banana 61
+COUNT apple
+COUNT rice
+ADD butter 56
+COUNT milk
+COUNT fish
+COUNT fish
+REMOVE cheese 13
+COUNT butter
+ADD banana 35
+COUNT egg
+COUNT cheese
+ADD meat 55
+REMOVE bread 21
+REMOVE apple 50
+REMOVE egg 40
+MAX
+MAX
+COUNT fish
+ADD bread 26
+COUNT milk
+COUNT banana
+ADD apple 32
+MAX
+MAX
+MAX
+MAX
+ADD banana 40
+REMOVE apple 22
+ADD butter 28
+ADD butter 97
+ADD fish 80
+COUNT milk
+COUNT apple
+REMOVE butter 3
+ADD apple 37
+ADD cheese 35
+ADD apple 9
+REMOVE rice 43
+MAX
+COUNT banana
+ADD meat 30
+MAX
+COUNT banana
+MAX
+REMOVE cheese 35
+ADD bread 65
+MAX
+COUNT apple
+ADD butter 40
+REMOVE meat 48
+ADD egg 88
+REMOVE rice 16
+MAX
+MAX
+ADD apple 81
+ADD meat 4
+MAX
+MAX
+ADD egg 51
+COUNT banana
+COUNT butter
+MAX
+COUNT bread
+REMOVE cheese 10
+REMOVE rice 39
+REMOVE butter 9
+ADD milk 75
+COUNT bread
+MAX
+REMOVE butter 9
+REMOVE milk 42
+MAX
+MAX
+REMOVE butter 35
+MAX
+ADD egg 19
+COUNT egg
+MAX
+REMOVE meat 20
+REMOVE rice 10
+COUNT banana
+ADD apple 98
+MAX
+COUNT cheese
+COUNT bread
+COUNT bread
+COUNT egg
+ADD fish 18
+COUNT cheese
+REMOVE egg 12
+MAX
+REMOVE milk 11
+ADD apple 53
+COUNT apple
+MAX
+MAX
+ADD bread 97
+ADD milk 57
+MAX
+REMOVE egg 30
+MAX
+REMOVE apple 39
+COUNT meat
+COUNT meat
+COUNT cheese
+COUNT butter
+COUNT apple
+COUNT fish
+REMOVE apple 16
+COUNT meat
+MAX
+ADD meat 67
+COUNT apple
+ADD fish 51
+MAX
+COUNT rice
+REMOVE meat 19
+COUNT apple
+COUNT milk
+REMOVE fish 6
+COUNT banana
+ADD cheese 90
+COUNT meat
+REMOVE fish 2
+ADD cheese 92
+MAX
+MAX
+ADD egg 89
+COUNT milk
+COUNT banana
+ADD fish 82
+REMOVE butter 46
+REMOVE butter 40
+MAX
+REMOVE meat 3
+COUNT egg
+COUNT milk
+ADD milk 23
+COUNT apple
+REMOVE rice 47
+COUNT fish
+ADD milk 16
+MAX
+MAX
+ADD rice 2
+REMOVE fish 35
+MAX
+COUNT fish
+ADD cheese 85
+REMOVE meat 29
+ADD cheese 1
+ADD butter 36
+COUNT butter
+MAX
+ADD milk 19
+ADD egg 5
+ADD apple 86
+COUNT cheese
+ADD banana 7
+ADD milk 21
+COUNT cheese
+COUNT cheese
+COUNT butter
+ADD fish 96
+COUNT apple
+ADD rice 42
+REMOVE meat 5
+COUNT butter
+ADD fish 18
+ADD rice 43
+COUNT butter
+ADD bread 79
+ADD cheese 94
+MAX
+COUNT banana
+REMOVE cheese 46
+ADD cheese 41
+ADD cheese 80
+REMOVE milk 40
+COUNT butter
+COUNT fish
+REMOVE milk 40
+ADD rice 25
+ADD apple 60
+COUNT banana
+COUNT bread
+COUNT meat
+REMOVE egg 23
+COUNT bread
+ADD bread 89
+ADD banana 40
+REMOVE butter 21
+COUNT banana
+COUNT egg
+REMOVE cheese 40
+MAX
+MAX
+ADD egg 87
+REMOVE fish 3
+COUNT fish
+ADD fish 69
+MAX
+REMOVE meat 48
+ADD butter 39
+COUNT egg
+COUNT apple
+ADD egg 46
+ADD milk 36
+MAX
+REMOVE meat 41
+COUNT milk
+COUNT meat
+ADD banana 97
+REMOVE egg 46
+ADD meat 12
+REMOVE bread 24
+REMOVE rice 14
+COUNT milk
+ADD apple 100
+ADD banana 57
+COUNT fish
+MAX
+ADD egg 62
+COUNT butter
+REMOVE egg 10
+COUNT banana
+MAX
+MAX
+COUNT milk
+ADD apple 59
+REMOVE butter 8
+ADD apple 88
+MAX
+MAX
+REMOVE apple 7
+COUNT rice
+ADD rice 82
+MAX
+REMOVE bread 19
+ADD egg 99
+REMOVE banana 18
+ADD rice 15
+ADD cheese 72
+COUNT bread
+COUNT butter
+REMOVE milk 46
+MAX
+COUNT milk
+ADD cheese 44
+COUNT apple
+ADD fish 87
+ADD meat 7
+ADD meat 23
+COUNT cheese
+COUNT fish
+COUNT rice
+REMOVE bread 46
+COUNT butter
+ADD fish 73
+ADD fish 13
+REMOVE fish 31
+ADD bread 19
+MAX
+COUNT egg
+REMOVE egg 21
+REMOVE apple 5
+REMOVE egg 31
+REMOVE milk 19
+COUNT cheese
+COUNT butter
+ADD banana 42
+COUNT banana
+COUNT butter
+REMOVE cheese 27
+ADD bread 71
+ADD fish 50
+ADD bread 89
+COUNT meat
+COUNT egg
+COUNT bread
+ADD banana 95
+MAX
+COUNT fish
+ADD cheese 60
+REMOVE banana 29
+ADD meat 9
+COUNT cheese
+COUNT meat
+REMOVE apple 6
+ADD milk 75
+MAX
+COUNT apple
+COUNT milk
+REMOVE rice 25
+COUNT fish
+ADD egg 39
+COUNT rice
+MAX
+MAX
+COUNT egg
+MAX
+COUNT cheese
+MAX
+REMOVE milk 19
+ADD butter 7
+ADD butter 46
+ADD rice 4
+ADD cheese 51
+COUNT meat
+REMOVE meat 35
+ADD milk 61
+ADD butter 50
+MAX
+REMOVE meat 10
+ADD milk 18
+ADD apple 19
+COUNT fish
+COUNT milk
+ADD meat 59
+MAX
+COUNT meat
+COUNT fish
+COUNT butter
+MAX
+REMOVE bread 12
+REMOVE apple 37
+REMOVE bread 46
+COUNT meat
+MAX
+COUNT apple
+MAX
+COUNT egg
+ADD fish 89
+ADD butter 97
+COUNT fish
+COUNT butter
+MAX
+ADD fish 81
+COUNT banana
+COUNT butter
+COUNT rice
+COUNT egg
+COUNT apple
+REMOVE butter 31
+COUNT egg
+REMOVE rice 19
+ADD cheese 96
+REMOVE cheese 17
+ADD fish 75
+ADD apple 85
+MAX
+MAX
+COUNT rice
+REMOVE milk 33
+ADD rice 33
+ADD rice 36
+MAX
+ADD banana 78
+ADD cheese 95
+ADD fish 48
+MAX
+ADD bread 63
+ADD butter 5
+REMOVE banana 10
+COUNT milk
+MAX
+COUNT meat
+COUNT bread
+COUNT milk
+ADD egg 7
+COUNT banana
+ADD fish 52
+REMOVE fish 48
+MAX
+MAX
+ADD meat 61
+ADD butter 56
+ADD fish 49
+COUNT butter
+COUNT apple
+ADD butter 82
+REMOVE meat 40
+MAX
+MAX
+REMOVE rice 7
+ADD cheese 51
+REMOVE bread 47
+COUNT bread
+COUNT milk
+REMOVE apple 44
+ADD banana 2
+REMOVE butter 7
+COUNT egg
+ADD rice 33
+ADD apple 80
+ADD cheese 85
+MAX
+ADD cheese 82
+ADD banana 12
+MAX
+ADD cheese 24
+MAX
+COUNT rice
+ADD banana 82
+REMOVE rice 50
+REMOVE egg 17
+ADD banana 36
+COUNT meat
+REMOVE apple 17
+MAX
+ADD fish 9
+REMOVE bread 40
+REMOVE fish 7
+ADD meat 28
+COUNT banana
+MAX
+COUNT banana
+ADD banana 74
+COUNT fish
+ADD fish 20
+COUNT apple
+MAX
+COUNT rice
+ADD egg 51
+COUNT butter
+COUNT fish
+REMOVE meat 47
+COUNT banana
+COUNT apple
+REMOVE fish 8
+COUNT egg
+REMOVE rice 26
+ADD banana 47
+COUNT egg
+ADD fish 98
+COUNT bread
+ADD apple 50
+COUNT rice
+COUNT banana
+COUNT egg
+REMOVE fish 48
+ADD apple 25
+ADD cheese 31
+REMOVE banana 35
+COUNT fish
+COUNT fish
+MAX
+ADD egg 8
+REMOVE apple 26
+ADD butter 59
+MAX
+MAX
+COUNT cheese
+ADD banana 5
+COUNT fish
+COUNT fish
+MAX
+COUNT bread
+COUNT milk
+ADD apple 40
+MAX
+ADD cheese 22
+MAX
+ADD banana 15
+REMOVE cheese 15
+ADD bread 55
+REMOVE meat 21
+ADD cheese 70
+ADD bread 98
+ADD milk 43
+ADD rice 19
+COUNT milk
+COUNT butter
+ADD bread 75
+ADD banana 81
+COUNT milk
+ADD fish 11
+ADD milk 12
+COUNT cheese
+MAX
+REMOVE fish 45
+ADD milk 82
+ADD fish 53
+ADD milk 79
+COUNT cheese
+ADD fish 79
+MAX
+COUNT rice
+REMOVE apple 36
+ADD banana 68
+MAX
+COUNT butter
+COUNT fish
+COUNT bread
+ADD bread 15
+COUNT fish
+REMOVE milk 43
+MAX
+ADD egg 37
+ADD rice 43
+COUNT fish
+ADD apple 69
+ADD apple 63
+COUNT banana
+MAX
+COUNT cheese
+COUNT meat
+ADD egg 30
+COUNT egg
+ADD bread 95
+REMOVE bread 25
+MAX
+ADD cheese 63
+ADD meat 19
+ADD cheese 59
+ADD egg 18
+REMOVE bread 41
+REMOVE rice 13
+REMOVE apple 45
+COUNT rice
+ADD fish 59
+REMOVE egg 15
+MAX
+COUNT cheese
+MAX
+COUNT butter
+MAX
+ADD butter 63
+MAX
+ADD fish 60
+ADD meat 95
+MAX
+ADD meat 75
+ADD cheese 20
+MAX
+MAX
+REMOVE apple 3
+MAX
+COUNT butter
+ADD butter 51
+REMOVE banana 29
+REMOVE banana 36
+COUNT meat
+MAX
+ADD rice 31
+COUNT banana
+ADD rice 21
+COUNT cheese
+COUNT apple
+MAX
+REMOVE milk 46
+REMOVE egg 41
+REMOVE apple 41
+ADD egg 68
+ADD meat 97
+ADD cheese 70
+COUNT bread
+COUNT banana
+COUNT egg
+COUNT apple
+COUNT egg
+MAX
+ADD egg 60
+COUNT egg
+REMOVE butter 46
+ADD bread 18
+MAX
+ADD banana 84
+REMOVE cheese 45
+ADD bread 42
+REMOVE rice 33
+COUNT rice
+ADD egg 45
+REMOVE butter 34
+MAX
+REMOVE butter 44
+MAX
+MAX
+REMOVE egg 44
+MAX
+MAX
+MAX
+ADD fish 12
+ADD milk 37
+MAX
+ADD milk 36
+ADD milk 64
+ADD bread 67
+MAX
+ADD meat 88
+COUNT milk
+REMOVE meat 29
+COUNT apple
+ADD banana 3
+MAX
+ADD butter 83
+REMOVE cheese 22
+COUNT egg
+REMOVE butter 36
+REMOVE rice 37
+ADD rice 22
+COUNT bread
+REMOVE rice 50
+MAX
+ADD rice 59
+MAX
+COUNT milk
+COUNT rice
+ADD milk 91
+COUNT milk
+ADD banana 6
+MAX
+COUNT fish
+ADD milk 27
+COUNT apple
+COUNT egg
+ADD fish 70
+MAX
+COUNT banana
+MAX
+REMOVE fish 50
+ADD fish 41
+ADD butter 65
+REMOVE rice 31
+MAX
+MAX
+COUNT cheese
+COUNT cheese
+COUNT fish
+REMOVE banana 47
+REMOVE apple 9
+COUNT banana
+REMOVE meat 40
+MAX
+REMOVE banana 21
+ADD bread 75
+COUNT rice
+ADD banana 69
+MAX
+COUNT banana
+MAX
+REMOVE fish 21
+COUNT butter
+MAX
+MAX
+REMOVE milk 46
+MAX
+REMOVE egg 1
+ADD egg 40
+MAX
+MAX
+ADD fish 95
+MAX
+MAX
+ADD meat 94
+MAX
+ADD cheese 77
+ADD bread 39
+REMOVE butter 22
+ADD cheese 97
+REMOVE apple 27
+COUNT rice
+REMOVE butter 30
+COUNT milk
+ADD meat 38
+COUNT apple
+MAX
+REMOVE cheese 20
+REMOVE fish 15
+ADD apple 20
+ADD fish 16
+COUNT rice
+REMOVE fish 45
+COUNT apple
+ADD rice 64
+MAX
+ADD egg 75
+REMOVE meat 17
+COUNT fish
+MAX
+MAX
+REMOVE cheese 2
+MAX
+ADD apple 19
+REMOVE milk 23
+ADD rice 47
+REMOVE egg 4
+ADD butter 82
+MAX
+COUNT milk
+COUNT cheese
+COUNT butter
+REMOVE egg 44
+COUNT rice
+COUNT egg
+ADD cheese 46
+MAX
+ADD butter 37
+REMOVE fish 27
+REMOVE milk 7
+ADD butter 29
+MAX
+COUNT butter
+COUNT butter
+MAX
+COUNT banana
+REMOVE banana 8
+MAX
+MAX
+REMOVE rice 45
+REMOVE fish 39
+COUNT egg
+ADD rice 4
+COUNT banana
+ADD milk 89
+ADD milk 27
+ADD banana 55
+COUNT banana
+ADD fish 97
+REMOVE bread 7
+ADD butter 76
+ADD banana 33
+ADD rice 86
+ADD banana 16
+MAX
+ADD bread 24
+COUNT apple
+ADD rice 75
+REMOVE milk 33
+COUNT cheese
+ADD cheese 9
+ADD cheese 98
+ADD bread 92
+ADD rice 22
+MAX
+COUNT banana
+MAX
+MAX
+MAX
+REMOVE cheese 12
+REMOVE banana 12
+MAX
+MAX
+REMOVE butter 15
+REMOVE egg 8
+REMOVE butter 9
+REMOVE egg 46
+ADD apple 11
+REMOVE banana 25
+ADD cheese 95
+REMOVE fish 15
+COUNT rice
+MAX
+REMOVE banana 31
+MAX
+REMOVE apple 44
+REMOVE banana 26
+REMOVE banana 8
+ADD meat 89
+COUNT banana
+COUNT milk
+ADD bread 44
+ADD meat 16
+ADD meat 93
+REMOVE cheese 38
+ADD meat 46
+REMOVE cheese 26
+MAX
+COUNT milk
+COUNT banana
+ADD fish 64
+ADD milk 4
+ADD apple 9
+REMOVE apple 12
+REMOVE egg 10
+REMOVE cheese 7
+COUNT butter
+COUNT fish
+ADD fish 63
+COUNT butter
+REMOVE butter 35
+ADD apple 56
+MAX
+ADD fish 41
+MAX
+REMOVE apple 3
+ADD rice 91
+ADD meat 18
+REMOVE meat 32
+COUNT cheese
+COUNT butter
+COUNT cheese
+REMOVE butter 11
+COUNT meat
+ADD cheese 49
+COUNT egg
+COUNT rice
+REMOVE apple 38
+ADD egg 45
+MAX
+COUNT egg
+REMOVE meat 23
+MAX
+REMOVE apple 43
+ADD bread 83
+REMOVE banana 45
+ADD rice 15
+REMOVE apple 35
+REMOVE fish 43
+MAX
+COUNT meat
+ADD fish 76
+ADD egg 49
+COUNT egg
+COUNT fish
+ADD bread 44
+REMOVE egg 11
+COUNT egg
+MAX
+ADD banana 69
+ADD rice 7
+ADD cheese 52
+MAX
+COUNT banana
+COUNT cheese
+ADD egg 35
+ADD butter 61
+REMOVE egg 5
+COUNT rice
+COUNT rice
+REMOVE butter 21
+ADD meat 33
+COUNT fish
+COUNT butter
+ADD apple 81
+COUNT milk
+COUNT bread
+COUNT fish
+ADD butter 79
+MAX
+MAX
+MAX
+COUNT apple
+COUNT egg
+REMOVE bread 10
+COUNT rice
+MAX
+REMOVE banana 41
+ADD meat 35
+MAX
+COUNT rice
+COUNT bread
+REMOVE banana 10
+ADD bread 40
+REMOVE butter 28
+REMOVE apple 13
+ADD milk 4
+ADD rice 85
+COUNT apple
+MAX
+REMOVE apple 4
+MAX
+ADD cheese 39
+MAX
+MAX
+REMOVE egg 43
+COUNT banana
+REMOVE milk 16
+ADD butter 16
+COUNT cheese
+MAX
+MAX
+ADD banana 31
+COUNT egg
+REMOVE cheese 48
+REMOVE bread 28
+ADD banana 23
+ADD rice 57
+REMOVE cheese 4
+REMOVE egg 45
+MAX
+REMOVE meat 31
+COUNT rice
+MAX
+MAX
+REMOVE egg 20
+ADD cheese 5
+MAX
+COUNT apple
+COUNT bread
+ADD meat 40
+COUNT egg
+MAX
+COUNT butter
+MAX
+MAX
+REMOVE meat 17
+REMOVE bread 20
+ADD milk 57
+COUNT meat
+COUNT rice
+MAX
+MAX
+MAX
+REMOVE meat 22
+COUNT banana
+MAX
+COUNT butter
+ADD meat 78
+COUNT butter
+COUNT fish
+COUNT apple
+COUNT milk
+COUNT milk
+ADD bread 81
+REMOVE cheese 6
+ADD bread 67
+COUNT milk
+MAX
+COUNT egg
+REMOVE milk 17
+ADD cheese 42
+COUNT bread
+ADD egg 24
+REMOVE meat 37
+ADD apple 72
+COUNT bread
+MAX
+MAX
+ADD milk 7
+REMOVE meat 39
+ADD banana 48
+ADD cheese 16
+ADD butter 56
+COUNT fish
+MAX
+REMOVE bread 46
+ADD rice 37
+COUNT meat
+ADD bread 77
+ADD rice 94
+COUNT meat
+ADD milk 4
+ADD rice 31
+COUNT bread
+REMOVE fish 6
+ADD milk 42
+MAX
+REMOVE bread 46
+REMOVE meat 48
+COUNT banana
+ADD apple 7
+REMOVE bread 31
+MAX
+MAX
+MAX
+MAX
+COUNT apple
+ADD butter 80
+REMOVE meat 43
+REMOVE butter 3
+COUNT rice
+ADD fish 44
+MAX
+ADD egg 91
+COUNT milk
+ADD egg 6
+MAX
+REMOVE rice 48
+REMOVE meat 19
+MAX
+ADD rice 67
+REMOVE milk 21
+COUNT fish
+COUNT milk
+COUNT fish
+ADD milk 7
+ADD apple 61
+ADD fish 56
+ADD fish 6
+REMOVE butter 32
+REMOVE banana 47
+MAX
+ADD banana 27
+MAX
+ADD milk 96
+COUNT rice
+COUNT cheese
+ADD apple 68
+COUNT milk
+REMOVE banana 16
+COUNT banana
+MAX
+ADD banana 51
+REMOVE banana 21
+ADD banana 59
+MAX
+COUNT fish
+COUNT rice
+COUNT apple
+REMOVE apple 42
+COUNT fish
+REMOVE cheese 9
+ADD apple 83
+ADD apple 96
+ADD cheese 49
+ADD rice 23
+ADD meat 12
+ADD bread 21
+REMOVE meat 19
+COUNT milk
+ADD fish 56
+COUNT rice
+MAX
+COUNT egg
+COUNT egg
+COUNT fish
+REMOVE meat 31
+ADD cheese 55
+ADD meat 48
+COUNT meat
+COUNT banana
+ADD egg 60
+COUNT milk
+MAX
+COUNT butter
+ADD fish 56
+ADD fish 39
+ADD milk 88
+MAX
+MAX
+COUNT rice
+COUNT butter
+ADD apple 66
+ADD meat 53
+ADD cheese 33
+REMOVE cheese 6
+COUNT apple
+ADD fish 23
+COUNT meat
+ADD meat 91
+ADD cheese 93
+REMOVE fish 40
+MAX
+REMOVE milk 14
+ADD cheese 34
+MAX
+ADD butter 3
+ADD banana 2
+ADD fish 59
+COUNT cheese
+COUNT rice
+COUNT cheese
+REMOVE meat 20
+ADD milk 2
+ADD apple 90
+MAX
+MAX
+ADD milk 84
+ADD butter 25
+ADD fish 19
+REMOVE apple 8
+ADD milk 95
+COUNT fish
+REMOVE fish 38
+ADD rice 73
+MAX
+REMOVE egg 1
+ADD meat 54
+MAX
+COUNT cheese
+COUNT rice
+ADD meat 63
+COUNT cheese
+MAX
+MAX
+MAX
+ADD apple 68
+ADD cheese 41
+COUNT rice
+MAX
+REMOVE fish 8
+REMOVE egg 29
+COUNT apple
+ADD bread 61
+REMOVE bread 33
+ADD egg 78
+MAX
+COUNT fish
+ADD rice 93
+COUNT meat
+MAX
+COUNT egg
+COUNT milk
+COUNT rice
+COUNT banana
+COUNT milk
+ADD milk 78
+REMOVE meat 32
+REMOVE bread 36
+ADD apple 46
+MAX
+REMOVE milk 12
+MAX
+MAX
+ADD banana 44
+REMOVE cheese 15
+ADD bread 63
+ADD egg 46
+COUNT butter
+ADD milk 89
+MAX
+COUNT banana
+COUNT fish
+COUNT banana
+MAX
+COUNT cheese
+COUNT banana
+MAX
+ADD banana 22
+COUNT bread
+MAX
+ADD rice 91
+REMOVE butter 32
+COUNT banana
+ADD egg 43
+MAX
+ADD bread 57
+MAX
+COUNT apple
+ADD fish 44
+ADD milk 11
+ADD meat 47
+COUNT bread
+ADD butter 54
+COUNT milk
+MAX
+REMOVE meat 30
+MAX
+COUNT egg
+MAX
+REMOVE apple 46
+MAX
+MAX
+ADD egg 52
+MAX
+ADD apple 51
+COUNT milk
+MAX
+ADD butter 38
+REMOVE butter 20
+COUNT egg
+MAX
+ADD rice 68
+COUNT milk
+COUNT fish
+COUNT butter
+COUNT cheese
+COUNT egg
+MAX
+COUNT meat
+COUNT rice
+ADD butter 43
+REMOVE milk 34
+MAX
+ADD banana 66
+COUNT butter
+REMOVE milk 2
+ADD butter 76
+ADD rice 93
+REMOVE butter 8
+COUNT egg
+ADD butter 46
+ADD banana 58
+ADD apple 59
+REMOVE bread 48
+MAX
+COUNT butter
+MAX
+ADD rice 37
+COUNT cheese
+COUNT meat
+COUNT bread
+ADD butter 75
+ADD egg 59
+ADD meat 53
+ADD apple 55
+MAX
+REMOVE fish 5
+REMOVE butter 26
+COUNT butter
+COUNT rice
+COUNT meat
+MAX
+COUNT fish
+COUNT meat
+MAX
+ADD milk 63
+COUNT milk
+MAX
+COUNT butter
+ADD bread 59
+REMOVE milk 36
+REMOVE banana 39
+MAX
+ADD egg 74
+ADD butter 20
+ADD rice 48
+REMOVE fish 2
+COUNT milk
+COUNT meat
+ADD rice 37
+ADD fish 1
+ADD egg 9
+MAX
+REMOVE cheese 20
+COUNT egg
+COUNT fish
+MAX
+MAX
+ADD milk 65
+COUNT fish
+COUNT milk
+MAX
+REMOVE cheese 43
+COUNT meat
+ADD meat 44
+COUNT fish
+COUNT banana
+MAX
+COUNT cheese
+COUNT rice
+COUNT banana
+COUNT banana
+ADD cheese 70
+COUNT apple
+MAX
+COUNT fish
+COUNT apple
+ADD butter 24
+MAX
+ADD bread 32
+MAX
+MAX
+COUNT banana
+MAX
+COUNT meat
+COUNT fish
+MAX
+ADD meat 24
+REMOVE butter 21
+REMOVE banana 8
+MAX
+COUNT rice
+ADD rice 99
+ADD rice 53
+COUNT apple
+COUNT egg
+ADD apple 39
+REMOVE egg 10
+REMOVE egg 17
+REMOVE banana 4
+ADD cheese 76
+ADD butter 97
+COUNT banana
+ADD egg 60
+COUNT banana
+REMOVE meat 41
+ADD apple 35
+COUNT cheese
+COUNT bread
+COUNT milk
+REMOVE meat 29
+ADD butter 27
+COUNT milk
+REMOVE milk 16
+COUNT meat
+MAX
+COUNT apple
+ADD fish 80
+ADD milk 1
+ADD fish 35
+COUNT meat
+MAX
+MAX
+ADD butter 37
+ADD butter 73
+ADD banana 51
+COUNT milk
+COUNT rice
+MAX
+ADD butter 41
+MAX
+MAX
+COUNT fish
+ADD egg 44
+ADD cheese 43
+ADD milk 83
+MAX
+COUNT apple
+MAX
+COUNT meat
+COUNT fish
+COUNT butter
+ADD banana 69
+ADD fish 87
+ADD meat 77
+REMOVE milk 50
+MAX
+MAX
+ADD egg 25
+REMOVE bread 48
+ADD rice 88
+MAX
+REMOVE banana 40
+COUNT bread
+ADD fish 47
+ADD fish 91
+COUNT bread
+ADD meat 15
+MAX
+COUNT fish
+ADD bread 85
+COUNT cheese
+COUNT banana
+COUNT banana
+ADD cheese 30
+MAX
+COUNT rice
+ADD apple 89
+COUNT cheese
+ADD butter 59
+ADD meat 83
+COUNT apple
+MAX
+REMOVE meat 18
+ADD butter 60
+REMOVE butter 49
+ADD bread 7
+ADD meat 69
+REMOVE apple 26
+ADD banana 74
+MAX
+MAX
+ADD meat 10
+MAX
+ADD egg 40
+ADD banana 4
+REMOVE apple 38
+COUNT egg
+MAX
+ADD fish 31
+MAX
+MAX
+MAX
+COUNT bread
+MAX
+COUNT cheese
+REMOVE banana 41
+REMOVE banana 6
+MAX
+MAX
+REMOVE banana 9
+ADD fish 8
+REMOVE meat 5
+ADD apple 72
+ADD meat 52
+ADD meat 30
+MAX
+COUNT cheese
+ADD meat 60
+COUNT cheese
+COUNT egg
+COUNT apple
+REMOVE egg 38
+ADD banana 2
+COUNT banana
+COUNT bread
+MAX
+ADD butter 33
+REMOVE fish 47
+COUNT milk
+ADD apple 8
+ADD cheese 56
+COUNT egg
+REMOVE butter 50
+ADD fish 40
+COUNT rice
+REMOVE apple 34
+COUNT milk
+ADD butter 72
+MAX
+REMOVE bread 13
+COUNT bread
+COUNT egg
+ADD fish 89
+COUNT fish
+COUNT egg
+MAX
+COUNT egg
+COUNT meat
+REMOVE banana 30
+MAX
+MAX
+REMOVE apple 41
+ADD bread 60
+COUNT bread
+REMOVE egg 48
+REMOVE meat 12
+MAX
+ADD apple 10
+REMOVE butter 8
+ADD fish 25
+COUNT egg
+ADD apple 26
+ADD milk 29
+MAX
+COUNT egg
+MAX
+ADD bread 3
+ADD rice 13
+ADD milk 49
+COUNT banana
+REMOVE bread 20
+REMOVE egg 24
+COUNT butter
+MAX
+MAX
+MAX
+MAX
+ADD milk 17
+COUNT bread
+COUNT egg
+REMOVE meat 41
+ADD apple 98
+COUNT bread
+MAX
+ADD milk 42
+ADD rice 17
+MAX
+MAX
+MAX
+ADD banana 61
+COUNT cheese
+ADD butter 50
+COUNT butter
+REMOVE butter 30
+ADD egg 68
+COUNT fish
+REMOVE cheese 26
+COUNT cheese
+COUNT bread
+ADD bread 58
+MAX
+REMOVE rice 28
+MAX
+COUNT egg
+ADD banana 18
+COUNT rice
+REMOVE egg 15
+COUNT fish
+COUNT egg
+REMOVE fish 28
+REMOVE fish 21
+ADD apple 23
+REMOVE rice 42
+ADD banana 38
+MAX
+COUNT banana
+COUNT bread
+ADD banana 47
+ADD bread 43
+ADD egg 33
+REMOVE rice 13
+COUNT milk
+MAX
+COUNT butter
+MAX
+ADD rice 37
+MAX
+COUNT meat
+MAX
+MAX
+COUNT apple
+REMOVE butter 49
+MAX
+MAX
+ADD bread 61
+ADD cheese 71
+COUNT fish
+REMOVE banana 21
+MAX
+REMOVE meat 14
+REMOVE butter 2
+REMOVE cheese 9
+REMOVE apple 32
+MAX
+MAX
+REMOVE meat 28
+COUNT meat
+COUNT butter
+ADD cheese 3
+COUNT apple
+MAX
+ADD egg 73
+COUNT cheese
+MAX
+COUNT meat
+MAX
+ADD meat 9
+COUNT bread
+REMOVE egg 37
+MAX
+COUNT rice
+ADD banana 87
+COUNT apple
+MAX
+COUNT apple
+ADD banana 50
+ADD bread 38
+COUNT banana
+REMOVE egg 34
+ADD egg 53
+REMOVE banana 9
+COUNT fish
+COUNT meat
+MAX
+MAX
+ADD bread 40
+REMOVE fish 11
+COUNT rice
+COUNT butter
+COUNT fish
+ADD apple 19
+REMOVE meat 39
+MAX
+COUNT cheese
+MAX
+REMOVE cheese 3
+COUNT rice
+COUNT fish
+REMOVE rice 26
+COUNT milk
+REMOVE milk 40
+COUNT fish
+REMOVE milk 45
+COUNT meat
+COUNT apple
+ADD milk 36
+MAX
+COUNT banana
+COUNT bread
+MAX
+REMOVE butter 8
+MAX
+ADD banana 65
+COUNT egg
+REMOVE milk 17
+ADD apple 60
+ADD fish 49
+REMOVE meat 13
+REMOVE apple 17
+ADD milk 42
+COUNT fish
+REMOVE banana 6
+COUNT bread
+COUNT fish
+ADD rice 21
+ADD apple 78
+ADD rice 16
+COUNT meat
+ADD apple 87
+ADD fish 46
+ADD apple 87
+COUNT fish
+COUNT butter
+COUNT banana
+REMOVE rice 29
+ADD apple 7
+COUNT bread
+MAX
+REMOVE bread 13
+ADD meat 4
+MAX
+REMOVE bread 44
+COUNT bread
+MAX
+ADD milk 93
+ADD meat 66
+ADD egg 42
+COUNT bread
+COUNT butter
+REMOVE meat 8
+ADD banana 46
+REMOVE apple 26
+COUNT apple
+REMOVE fish 15
+ADD rice 84
+COUNT apple
+ADD bread 53
+REMOVE cheese 32
+MAX
+ADD butter 73
+ADD banana 77
+REMOVE meat 44
+MAX
+COUNT milk
+REMOVE egg 43
+REMOVE egg 2
+COUNT cheese
+REMOVE butter 41
+COUNT butter
+COUNT apple
+ADD cheese 98
+MAX
+REMOVE meat 49
+ADD banana 8
+ADD fish 38
+ADD meat 27
+COUNT bread
+MAX
+COUNT fish
+COUNT egg
+ADD egg 83
+COUNT apple
+COUNT meat
+COUNT rice
+COUNT bread
+MAX
+REMOVE bread 14
+COUNT bread
+MAX
+COUNT bread
+COUNT meat
+COUNT milk
+REMOVE apple 5
+MAX
+ADD bread 7
+COUNT milk
+MAX
+ADD milk 76
+COUNT bread
+ADD banana 55
+COUNT rice
+ADD bread 32
+REMOVE cheese 16
+REMOVE cheese 29
+MAX
+ADD fish 11
+MAX
+REMOVE meat 11
+REMOVE meat 33
+COUNT meat
+COUNT fish
+ADD meat 55
+MAX
+COUNT rice
+COUNT milk
+COUNT milk
+ADD fish 40
+REMOVE meat 36
+COUNT banana
+REMOVE fish 13
+ADD bread 1
+ADD butter 94
+COUNT fish
+REMOVE meat 26
+MAX
+REMOVE fish 20
+COUNT cheese
+ADD apple 16
+REMOVE cheese 11
+ADD meat 33
+COUNT egg
+COUNT fish
+COUNT egg
+COUNT meat
+MAX
+COUNT bread
+REMOVE egg 41
+COUNT apple
+COUNT milk
+ADD fish 88
+ADD bread 78
+COUNT milk
+ADD banana 83
+COUNT meat
+REMOVE cheese 6
+COUNT bread
+MAX
+ADD meat 33
+COUNT butter
+MAX
+COUNT meat
+COUNT meat
+COUNT banana
+ADD cheese 100
+COUNT milk
+ADD bread 96
+REMOVE rice 1
+MAX
+MAX
+ADD banana 100
+COUNT butter
+REMOVE rice 47
+REMOVE milk 24
+ADD milk 26
+REMOVE butter 8
+REMOVE bread 12
+ADD milk 98
+ADD meat 57
+COUNT cheese
+ADD milk 11
+ADD meat 16
+ADD egg 4
+COUNT fish
+REMOVE banana 1
+ADD apple 86
+COUNT apple
+ADD butter 1
+REMOVE butter 49
+ADD fish 61
+COUNT cheese
+REMOVE egg 44
+MAX
+MAX
+MAX
+MAX
+COUNT meat
+COUNT egg
+MAX
+MAX
+ADD meat 93
+MAX
+MAX
+ADD banana 68
+ADD bread 48
+REMOVE fish 33
+REMOVE bread 1
+MAX
+MAX
+MAX
+ADD egg 6
+MAX
+COUNT fish
+ADD fish 52
+COUNT banana
+REMOVE fish 43
+MAX
+MAX
+COUNT rice
+COUNT milk
+MAX
+MAX
+COUNT butter
+ADD fish 12
+REMOVE butter 30
+ADD fish 15
+REMOVE butter 16
+ADD milk 97
+MAX
+COUNT banana
+REMOVE apple 11
+MAX
+REMOVE meat 50
+ADD rice 86
+REMOVE banana 43
+ADD butter 82
+COUNT banana
+COUNT egg
+MAX
+MAX
+COUNT cheese
+ADD egg 49
+MAX
+COUNT meat
+COUNT butter
+MAX
+REMOVE bread 15
+ADD rice 12
+ADD egg 95
+COUNT bread
+COUNT banana
+COUNT milk
+MAX
+MAX
+COUNT apple
+REMOVE cheese 35
+ADD meat 55
+REMOVE egg 44
+MAX
+ADD cheese 76
+ADD meat 2
+COUNT fish
+REMOVE rice 15
+REMOVE fish 10
+COUNT milk
+COUNT apple
+COUNT rice
+COUNT banana
+ADD cheese 62
+COUNT bread
+REMOVE meat 4
+MAX
+REMOVE bread 47
+MAX
+ADD apple 100
+ADD fish 94
+REMOVE milk 2
+COUNT egg
+REMOVE fish 23
+COUNT meat
+ADD rice 37
+COUNT bread
+COUNT butter
+REMOVE milk 21
+COUNT cheese
+MAX
+ADD rice 59
+COUNT cheese
+ADD fish 38
+MAX
+ADD bread 95
+COUNT egg
+COUNT cheese
+ADD milk 49
+MAX
+REMOVE milk 4
+ADD fish 23
+MAX
+ADD butter 84
+REMOVE meat 10
+COUNT meat
+ADD banana 31
+REMOVE rice 45
+COUNT milk
+COUNT meat
+COUNT banana
+COUNT meat
+ADD fish 48
+ADD banana 11
+ADD butter 29
+ADD cheese 74
+REMOVE banana 38
+ADD fish 83
+COUNT rice
+COUNT banana
+REMOVE butter 12
+REMOVE apple 26
+COUNT butter
+COUNT butter
+REMOVE butter 38
+COUNT banana
+COUNT bread
+MAX
+MAX
+ADD cheese 89
+ADD butter 58
+MAX
+ADD milk 74
+ADD milk 12
+COUNT apple
+ADD banana 65
+ADD butter 22
+REMOVE apple 16
+REMOVE butter 19
+COUNT fish
+ADD fish 89
+REMOVE egg 39
+COUNT bread
+COUNT apple
+ADD bread 19
+ADD bread 18
+COUNT bread
+COUNT rice
+ADD cheese 55
+ADD rice 34
+REMOVE milk 26
+REMOVE rice 44
+REMOVE milk 35
+ADD rice 82
+COUNT bread
+COUNT cheese
+COUNT butter
+COUNT meat
+MAX
+REMOVE meat 25
+ADD cheese 32
+ADD banana 69
+ADD butter 53
+ADD banana 47
+MAX
+COUNT milk
+MAX
+ADD apple 13
+REMOVE bread 25
+MAX
+COUNT banana
+ADD rice 76
+MAX
+REMOVE butter 23
+COUNT rice
+COUNT cheese
+ADD apple 22
+REMOVE meat 12
+REMOVE butter 36
+COUNT meat
+REMOVE milk 17
+ADD butter 92
+ADD milk 19
+REMOVE rice 4
+MAX
+COUNT egg
+COUNT bread
+COUNT meat
+COUNT milk
+REMOVE egg 30
+COUNT rice
+MAX
+COUNT bread
+REMOVE banana 20
+REMOVE egg 6
+COUNT banana
+COUNT banana
+ADD apple 11
+COUNT butter
+MAX
+MAX
+ADD meat 87
+COUNT milk
+REMOVE butter 44
+MAX
+MAX
+COUNT meat
+ADD bread 96
+ADD meat 90
+COUNT egg
+ADD butter 88
+COUNT cheese
+REMOVE milk 44
+MAX
+COUNT bread
+ADD egg 18
+COUNT apple
+REMOVE meat 11
+REMOVE banana 22
+MAX
+ADD butter 99
+MAX
+ADD fish 38
+ADD apple 95
+COUNT meat
+ADD rice 83
+COUNT apple
+MAX
+MAX
+MAX
+ADD apple 79
+REMOVE rice 23
+ADD egg 93
+ADD egg 2
+ADD fish 26
+ADD butter 20
+REMOVE fish 1
+ADD rice 29
+REMOVE egg 20
+REMOVE milk 35
+MAX
+ADD fish 85
+MAX
+ADD egg 96
+REMOVE egg 46
+ADD bread 37
+ADD meat 54
+COUNT apple
+ADD bread 62
+MAX
+MAX
+ADD fish 71
+REMOVE milk 21
+COUNT meat
+COUNT meat
+ADD banana 3
+ADD egg 65
+ADD bread 7
+COUNT egg
+REMOVE cheese 48
+ADD fish 38
+ADD banana 98
+REMOVE cheese 10
+COUNT milk
+ADD banana 34
+MAX
+ADD meat 26
+REMOVE banana 45
+COUNT cheese
+ADD cheese 81
+COUNT bread
+ADD meat 5
+ADD bread 19
+REMOVE cheese 13
+ADD apple 49
+REMOVE rice 45
+COUNT bread
+ADD meat 62
+ADD meat 83
+ADD banana 35
+REMOVE egg 46
+REMOVE egg 4
+ADD apple 7
+COUNT egg
+ADD fish 36
+MAX
+ADD milk 33
+MAX
+REMOVE rice 8
+ADD apple 88
+COUNT milk
+REMOVE egg 48
+COUNT butter
+COUNT bread
+COUNT bread
+COUNT banana
+MAX
+ADD cheese 16
+ADD bread 25
+COUNT banana
+ADD butter 80
+REMOVE fish 49
+ADD milk 6
+ADD meat 71
+COUNT butter
+MAX
+MAX
+REMOVE banana 28
+ADD meat 68
+MAX
+COUNT apple
+ADD rice 90
+MAX
+ADD cheese 8
+COUNT bread
+COUNT meat
+REMOVE butter 33
+MAX
+ADD butter 50
+COUNT meat
+REMOVE rice 14
+ADD milk 74
+ADD apple 66
+REMOVE butter 17
+REMOVE bread 19
+COUNT butter
+ADD bread 6
+COUNT rice
+ADD milk 36
+MAX
+ADD apple 83
+MAX
+MAX
+ADD banana 1
+COUNT cheese
+MAX
+REMOVE butter 17
+COUNT meat
+MAX
+ADD apple 81
+MAX
+MAX
+ADD rice 23
+ADD apple 69
+COUNT cheese
+ADD meat 84
+ADD cheese 71
+ADD fish 29
+REMOVE bread 38
+COUNT meat
+ADD bread 94
+COUNT egg
+ADD fish 12
+REMOVE fish 12
+MAX
+ADD cheese 63
+MAX
+ADD rice 3
+REMOVE milk 26
+COUNT bread
+ADD banana 55
+ADD meat 13
+COUNT milk
+COUNT apple
+COUNT meat
+REMOVE banana 1
+COUNT apple
+ADD banana 35
+ADD cheese 2
+COUNT apple
+MAX
+ADD egg 91
+ADD milk 62
+COUNT fish
+MAX
+REMOVE fish 10
+ADD butter 89
+ADD butter 16
+ADD apple 14
+COUNT banana
+COUNT meat
+ADD bread 4
+ADD meat 19
+REMOVE rice 15
+MAX
+COUNT banana
+REMOVE banana 15
+ADD rice 46
+ADD egg 16
+REMOVE banana 3
+COUNT milk
+REMOVE egg 39
+ADD meat 20
+MAX
+COUNT cheese
+MAX
+REMOVE banana 18
+MAX
+COUNT rice
+MAX
+COUNT banana
+COUNT milk
+COUNT milk
+REMOVE meat 29
+COUNT fish
+MAX
+ADD meat 94
+ADD banana 42
+MAX
+ADD meat 46
+REMOVE meat 31
+COUNT meat
+COUNT egg
+ADD bread 50
+REMOVE fish 35
+COUNT butter
+COUNT bread
+REMOVE cheese 46
+REMOVE cheese 50
+COUNT bread
+COUNT bread
+REMOVE bread 2
+REMOVE fish 9
+MAX
+ADD egg 47
+MAX
+MAX
+MAX
+ADD milk 71
+MAX
+MAX
+ADD bread 8
+COUNT banana
+MAX
+COUNT meat
+COUNT meat
+REMOVE banana 43
+COUNT fish
+MAX
+MAX
+ADD egg 19
+ADD banana 2
+COUNT meat
+ADD milk 61
+COUNT butter
+COUNT rice
+REMOVE egg 29
+COUNT apple
+ADD milk 8
+MAX
+ADD milk 65
+ADD meat 55
+COUNT fish
+COUNT rice
+MAX
+COUNT bread
+REMOVE milk 18
+MAX
+COUNT milk
+COUNT meat
+COUNT bread
+REMOVE butter 39
+MAX
+MAX
+REMOVE egg 42
+COUNT meat
+ADD egg 83
+REMOVE rice 7
+ADD egg 78
+COUNT egg
+ADD rice 21
+COUNT banana
+ADD apple 97
+MAX
+ADD bread 82
+MAX
+ADD banana 73
+COUNT cheese
+MAX
+REMOVE apple 21
+ADD rice 2
+MAX
+COUNT meat
+COUNT egg
+COUNT egg
+MAX
+COUNT banana
+REMOVE butter 7
+COUNT milk
+ADD meat 62
+COUNT apple
+ADD milk 88
+REMOVE banana 46
+ADD bread 88
+COUNT milk
+MAX
+COUNT cheese
+COUNT egg
+REMOVE milk 22
+ADD cheese 56
+ADD meat 31
+ADD cheese 78
+ADD milk 73
+COUNT fish
+ADD apple 19
+COUNT rice
+COUNT banana
+REMOVE fish 21
+ADD rice 21
+ADD cheese 47
+REMOVE banana 12
+COUNT fish
+ADD fish 33
+COUNT fish
+COUNT milk
+MAX
+MAX
+REMOVE egg 19
+REMOVE cheese 44
+ADD egg 66
+MAX
+MAX
+REMOVE meat 33
+REMOVE apple 40
+MAX
+ADD bread 90
+MAX
+ADD banana 38
+REMOVE cheese 26
+MAX
+ADD fish 86
+ADD fish 60
+COUNT fish
+ADD milk 94
+ADD meat 99
+REMOVE meat 22
+ADD egg 78
+REMOVE fish 8
+ADD apple 70
+ADD fish 19
+COUNT egg
+COUNT cheese
+COUNT apple
+MAX
+REMOVE meat 31
+ADD bread 3
+MAX
+COUNT rice
+ADD milk 11
+ADD rice 52
+ADD fish 54
+COUNT rice
+ADD apple 12
+MAX
+REMOVE rice 11
+ADD meat 62
+REMOVE milk 45
+REMOVE cheese 25
+MAX
+COUNT cheese
+ADD cheese 79
+ADD egg 2
+ADD fish 19
+REMOVE egg 8
+COUNT meat
+ADD apple 58
+MAX
+MAX
+COUNT cheese
+ADD bread 96
+MAX
+REMOVE butter 50
+ADD meat 28
+REMOVE bread 44
+COUNT apple
+REMOVE egg 2
+REMOVE rice 33
+MAX
+ADD fish 84
+MAX
+REMOVE egg 23
+MAX
+REMOVE egg 8
+MAX
+REMOVE egg 12
+COUNT milk
+COUNT meat
+ADD meat 82
+ADD cheese 13
+MAX
+MAX
+ADD apple 79
+MAX
+ADD cheese 70
+ADD fish 65
+COUNT apple
+COUNT meat
+ADD fish 71
+REMOVE bread 31
+MAX
+REMOVE fish 27
+MAX
+COUNT meat
+ADD egg 29
+COUNT rice
+MAX
+ADD meat 87
+ADD meat 5
+ADD milk 48
+MAX
+COUNT cheese
+REMOVE milk 37
+MAX
+ADD meat 25
+COUNT meat
+MAX
+MAX
+COUNT milk
+MAX
+REMOVE milk 26
+MAX
+COUNT meat
+ADD milk 65
+ADD cheese 51
+MAX
+COUNT rice
+MAX
+ADD egg 27
+ADD apple 56
+ADD cheese 20
+ADD butter 11
+COUNT apple
+COUNT milk
+MAX
+COUNT egg
+ADD bread 39
+ADD bread 93
+COUNT meat
+COUNT apple
+ADD milk 81
+ADD cheese 14
+ADD cheese 16
+ADD rice 34
+MAX
+ADD fish 47
+MAX
+ADD banana 63
+COUNT meat
+ADD banana 27
+COUNT meat
+MAX
+COUNT fish
+MAX
+ADD apple 23
+COUNT cheese
+MAX
+ADD egg 45
+REMOVE cheese 39
+COUNT milk
+COUNT rice
+MAX
+ADD apple 69
+ADD butter 98
+ADD egg 15
+MAX
+ADD milk 29
+ADD milk 35
+ADD bread 12
+REMOVE butter 42
+ADD fish 56
+COUNT meat
+MAX
+ADD bread 88
+MAX
+COUNT meat
+ADD cheese 40
+ADD bread 93
+REMOVE fish 28
+COUNT rice
+MAX
+COUNT cheese
+REMOVE bread 37
+REMOVE banana 29
+ADD apple 66
+ADD meat 38
+COUNT butter
+REMOVE apple 8
+ADD egg 55
+COUNT egg
+ADD bread 85
+REMOVE milk 50
+REMOVE apple 21
+COUNT egg
+ADD cheese 42
+MAX
+COUNT meat
+ADD bread 68
+ADD butter 36
+COUNT banana
+COUNT meat
+COUNT meat
+REMOVE egg 13
+ADD fish 64
+ADD rice 54
+ADD fish 22
+COUNT cheese
+REMOVE cheese 2
+ADD cheese 1
+MAX
+ADD meat 5
+MAX
+MAX
+ADD apple 9
+REMOVE meat 47
+REMOVE egg 49
+REMOVE banana 36
+COUNT fish
+COUNT meat
+ADD fish 64
+MAX
+MAX
+ADD egg 80
+ADD bread 7
+MAX
+ADD egg 89
+COUNT bread
+ADD bread 93
+MAX
+REMOVE butter 1
+MAX
+MAX
+ADD apple 15
+ADD rice 10
+ADD cheese 49
+ADD milk 18
+COUNT banana
+ADD milk 97
+COUNT meat
+COUNT banana
+COUNT bread
+COUNT fish
+MAX
+REMOVE fish 15
+ADD rice 92
+ADD butter 32
+COUNT bread
+COUNT banana
+MAX
+ADD apple 86
+ADD meat 25
+REMOVE egg 14
+MAX
+COUNT butter
+MAX
+COUNT rice
+COUNT milk
+MAX
+ADD milk 29
+MAX
+REMOVE fish 40
+COUNT meat
+ADD rice 55
+ADD rice 74
+COUNT milk
+REMOVE banana 48
+ADD apple 59
+ADD apple 61
+COUNT fish
+REMOVE banana 36
+ADD meat 28
+ADD butter 56
+COUNT apple
+REMOVE egg 7
+ADD meat 94
+MAX
+ADD bread 52
+ADD rice 68
+COUNT butter
+REMOVE apple 42
+ADD banana 29
+ADD apple 74
+ADD banana 69
+ADD bread 80
+COUNT meat
+REMOVE banana 15
+COUNT rice
+REMOVE milk 14
+REMOVE rice 46
+COUNT apple
+ADD butter 90
+COUNT rice
+MAX
+COUNT milk
+REMOVE banana 11
+ADD fish 19
+MAX
+COUNT meat
+REMOVE milk 17
+MAX
+ADD apple 77
+REMOVE fish 38
+ADD bread 61
+ADD apple 73
+COUNT rice
+MAX
+COUNT milk
+COUNT banana
+ADD egg 58
+REMOVE egg 35
+ADD fish 33
+REMOVE apple 23
+REMOVE egg 34
+COUNT cheese
+REMOVE rice 44
+COUNT apple
+ADD meat 29
+COUNT milk
+REMOVE apple 16
+COUNT meat
+REMOVE banana 13
+MAX
+REMOVE banana 18
+MAX
+COUNT fish
+MAX
+MAX
+ADD egg 43
+REMOVE meat 18
+REMOVE apple 38
+COUNT egg
+MAX
+ADD fish 73
+MAX
+COUNT rice
+ADD apple 64
+MAX
+ADD milk 67
+MAX
+COUNT milk
+REMOVE rice 5
+COUNT apple
+REMOVE bread 19
+MAX
+ADD fish 40
+ADD egg 85
+MAX
+ADD milk 45
+MAX
+COUNT butter
+COUNT butter
+ADD banana 92
+ADD bread 56
+COUNT banana
+ADD apple 61
+MAX
+ADD meat 55
+REMOVE banana 17
+MAX
+COUNT milk
+COUNT egg
+MAX
+ADD bread 33
+ADD butter 26
+REMOVE banana 20
+COUNT fish
+COUNT meat
+COUNT meat
+ADD butter 57
+COUNT butter
+MAX
+COUNT fish
+REMOVE fish 27
+MAX
+REMOVE butter 2
+MAX
+REMOVE milk 40
+MAX
+COUNT cheese
+COUNT milk
+COUNT cheese
+MAX
+ADD meat 17
+REMOVE apple 30
+MAX
+MAX
+REMOVE apple 6
+ADD banana 43
+COUNT rice
+COUNT egg
+MAX
+ADD cheese 87
+COUNT apple
+COUNT butter
+ADD fish 18
+ADD milk 39
+COUNT apple
+MAX
+COUNT bread
+ADD apple 20
+COUNT banana
+COUNT bread
+ADD fish 4
+MAX
+REMOVE apple 8
+ADD fish 24
+MAX
+MAX
+COUNT cheese
+COUNT cheese
+ADD milk 82
+ADD milk 96
+COUNT milk
+COUNT butter
+ADD fish 38
+ADD banana 76
+REMOVE rice 26
+REMOVE banana 30
+REMOVE meat 10
+ADD fish 16
+COUNT apple
+COUNT apple
+COUNT cheese
+REMOVE egg 9
+REMOVE fish 18
+ADD milk 46
+COUNT butter
+ADD butter 50
+COUNT milk
+COUNT egg
+COUNT cheese
+REMOVE milk 18
+COUNT rice
+MAX
+ADD fish 49
+MAX
+COUNT milk
+COUNT butter
+COUNT butter
+ADD egg 76
+MAX
+REMOVE cheese 26
+ADD apple 94
+ADD banana 86
+ADD fish 42
+COUNT bread
+ADD milk 94
+MAX
+COUNT meat
+MAX
+ADD rice 15
+ADD banana 57
+COUNT cheese
+COUNT apple
+MAX
+REMOVE fish 25
+ADD cheese 72
+ADD rice 63
+REMOVE rice 15
+ADD milk 56
+MAX
+MAX
+ADD cheese 4
+COUNT banana
+ADD milk 1
+REMOVE meat 37
+COUNT banana
+REMOVE butter 32
+ADD bread 74
+MAX
+COUNT egg
+COUNT butter
+MAX
+MAX
+REMOVE meat 5
+COUNT milk
+COUNT rice
+ADD fish 30
+ADD butter 43
+ADD rice 33
+REMOVE egg 5
+MAX
+ADD rice 10
+COUNT bread
+MAX
+MAX
+COUNT meat
+COUNT butter
+COUNT banana
+COUNT rice
+COUNT apple
+REMOVE rice 13
+REMOVE apple 9
+ADD egg 97
+COUNT apple
+ADD banana 73
+MAX
+COUNT apple
+REMOVE banana 27
+COUNT cheese
+MAX
+MAX
+REMOVE milk 18
+COUNT banana
+ADD butter 29
+COUNT meat
+REMOVE bread 2
+MAX
+ADD bread 69
+COUNT meat
+COUNT apple
+COUNT apple
+REMOVE meat 45
+ADD meat 71
+ADD fish 16
+MAX
+MAX
+REMOVE bread 22
+REMOVE apple 16
+ADD cheese 2
+ADD butter 73
+ADD apple 93
+ADD apple 10
+ADD fish 24
+ADD egg 45
+COUNT bread
+MAX
+ADD meat 62
+COUNT banana
+ADD butter 27
+REMOVE egg 15
+REMOVE rice 24
+COUNT rice
+MAX
+ADD rice 41
+COUNT butter
+ADD egg 53
+COUNT cheese
+REMOVE banana 14
+MAX
+MAX
+COUNT rice
+COUNT bread
+ADD milk 5
+MAX
+COUNT fish
+MAX
+ADD apple 35
+ADD meat 39
+MAX
+ADD rice 79
+REMOVE apple 25
+REMOVE apple 15
+ADD milk 85
+REMOVE apple 43
+REMOVE butter 49
+REMOVE apple 39
+COUNT egg
+MAX
+MAX
+MAX
+COUNT apple
+REMOVE cheese 28
+MAX
+COUNT apple
+MAX
+COUNT rice
+MAX
+MAX
+REMOVE cheese 47
+COUNT butter
+ADD meat 60
+COUNT bread
+ADD apple 36
+COUNT rice
+ADD bread 99
+COUNT egg
+COUNT apple
+COUNT egg
+ADD rice 84
+MAX
+COUNT banana
+REMOVE egg 17
+MAX
+REMOVE apple 29
+ADD apple 46
+REMOVE butter 14
+REMOVE cheese 6
+ADD cheese 71
+REMOVE banana 29
+ADD rice 34
+MAX
+ADD milk 19
+MAX
+COUNT bread
+ADD apple 24
+COUNT fish
+COUNT apple
+COUNT bread
+ADD rice 33
+ADD egg 70
+COUNT cheese
+ADD banana 10
+COUNT banana
+COUNT bread
+ADD cheese 48
+MAX
+COUNT banana
+COUNT rice
+ADD egg 78
+COUNT egg
+MAX
+MAX
+REMOVE rice 40
+ADD egg 6
+ADD milk 76
+ADD cheese 28
+MAX
+COUNT butter
+COUNT egg
+MAX
+REMOVE cheese 3
+COUNT milk
+REMOVE banana 5
+MAX
+MAX
+COUNT cheese
+COUNT meat
+COUNT banana
+MAX
+COUNT apple
+COUNT butter
+COUNT egg
+ADD cheese 38
+MAX
+REMOVE egg 15
+REMOVE banana 45
+ADD meat 47
+ADD butter 65
+ADD egg 84
+REMOVE bread 29
+COUNT bread
+COUNT milk
+MAX
+ADD meat 87
+COUNT milk
+COUNT rice
+REMOVE banana 6
+REMOVE butter 10
+COUNT bread
+MAX
+MAX
+ADD banana 54
+ADD butter 92
+MAX
+COUNT milk
+MAX
+MAX
+ADD milk 10
+ADD butter 50
+MAX
+REMOVE meat 45
+COUNT rice
+ADD egg 76
+COUNT banana
+MAX
+ADD egg 58
+MAX
+COUNT meat
+ADD fish 90
+ADD milk 93
+COUNT butter
+ADD apple 76
+COUNT fish
+REMOVE fish 12
+COUNT cheese
+ADD banana 30
+ADD egg 7
+COUNT butter
+COUNT meat
+ADD meat 41
+COUNT milk
+ADD bread 56
+COUNT cheese
+MAX
+REMOVE egg 19
+ADD rice 36
+REMOVE bread 11
+ADD rice 78
+COUNT bread
+COUNT milk
+ADD butter 66
+COUNT apple
+COUNT apple
+MAX
+COUNT bread
+ADD apple 48
+ADD cheese 55
+COUNT butter
+ADD fish 38
+MAX
+COUNT banana
+REMOVE meat 32
+ADD milk 36
+COUNT banana
+MAX
+MAX
+COUNT bread
+COUNT egg
+ADD egg 36
+REMOVE butter 44
+COUNT egg
+MAX
+ADD banana 91
+COUNT egg
+ADD butter 85
+MAX
+COUNT apple
+ADD cheese 49
+MAX
+ADD bread 34
+REMOVE fish 12
+COUNT rice
+ADD banana 67
+MAX
+COUNT apple
+REMOVE fish 36
+COUNT milk
+ADD rice 79
+REMOVE cheese 16
+COUNT fish
+COUNT milk
+MAX
+MAX
+MAX
+COUNT fish
+COUNT meat
+COUNT butter
+REMOVE banana 15
+ADD rice 54
+MAX
+REMOVE meat 8
+ADD egg 85
+ADD meat 91
+ADD fish 63
+COUNT bread
+ADD rice 65
+ADD meat 8
+COUNT egg
+ADD egg 53
+REMOVE fish 28
+REMOVE apple 18
+REMOVE bread 22
+COUNT apple
+REMOVE meat 15
+COUNT milk
+COUNT banana
+MAX
+COUNT egg
+ADD butter 3
+MAX
+ADD meat 12
+COUNT egg
+MAX
+COUNT butter
+ADD apple 67
+ADD butter 26
+MAX
+MAX
+REMOVE bread 19
+MAX
+MAX
+REMOVE bread 36
+COUNT apple
+ADD apple 97
+MAX
+ADD meat 63
+ADD rice 39
+ADD bread 5
+ADD banana 49
+COUNT milk
+MAX
+MAX
+MAX
+ADD butter 93
+COUNT meat
+ADD butter 78
+MAX
+ADD cheese 51
+ADD cheese 40
+COUNT meat
+COUNT apple
+REMOVE fish 13
+ADD cheese 61
+REMOVE meat 6
+ADD meat 72
+ADD rice 90
+COUNT bread
+REMOVE fish 47
+REMOVE egg 49
+COUNT banana
+REMOVE cheese 2
+REMOVE bread 29
+REMOVE cheese 7
+COUNT egg
+ADD banana 13
+COUNT bread
+MAX
+REMOVE bread 6
+ADD cheese 61
+COUNT cheese
+COUNT apple
+COUNT rice
+REMOVE egg 10
+ADD cheese 77
+REMOVE apple 18
+COUNT butter
+COUNT butter
+REMOVE bread 21
+REMOVE fish 33
+COUNT banana
+MAX
+REMOVE banana 25
+ADD apple 21
+COUNT banana
+ADD fish 15
+ADD meat 64
+ADD butter 63
+ADD butter 54
+REMOVE rice 8
+REMOVE rice 47
+MAX
+COUNT butter
+REMOVE egg 37
+COUNT milk
+ADD bread 79
+MAX
+REMOVE cheese 17
+REMOVE bread 22
+MAX
+COUNT milk
+ADD fish 2
+REMOVE milk 10
+REMOVE apple 20
+COUNT bread
+COUNT butter
+REMOVE banana 4
+COUNT cheese
+ADD egg 82
+COUNT bread
+REMOVE apple 13
+ADD meat 75
+COUNT egg
+COUNT meat
+MAX
+COUNT bread
+ADD milk 14
+COUNT rice
+ADD cheese 14
+ADD butter 76
+COUNT meat
+REMOVE cheese 39
+ADD cheese 86
+MAX
+ADD apple 30
+MAX
+ADD cheese 19
+ADD fish 1
+REMOVE apple 9
+COUNT fish
+REMOVE fish 21
+REMOVE banana 16
+COUNT meat
+COUNT fish
+REMOVE butter 21
+COUNT cheese
+MAX
+MAX
+MAX
+MAX
+COUNT meat
+COUNT fish
+COUNT rice
+COUNT butter
+MAX
+COUNT milk
+ADD egg 60
+COUNT egg
+COUNT bread
+COUNT bread
+REMOVE milk 48
+MAX
+ADD egg 68
+ADD cheese 40
+REMOVE egg 17
+COUNT apple
+COUNT apple
+COUNT fish
+REMOVE rice 18
+COUNT cheese
+MAX
+MAX
+MAX
+MAX
+COUNT fish
+ADD butter 14
+ADD apple 79
+MAX
+ADD milk 17
+ADD banana 8
+REMOVE apple 21
+ADD butter 36
+MAX
+ADD cheese 95
+ADD egg 91
+ADD cheese 93
+MAX
+COUNT meat
+REMOVE apple 5
+ADD butter 19
+COUNT banana
+ADD apple 36
+COUNT butter
+REMOVE apple 20
+ADD egg 16
+REMOVE cheese 45
+ADD fish 12
+ADD banana 24
+COUNT milk
+REMOVE apple 50
+ADD apple 28
+COUNT fish
+ADD bread 40
+MAX
+COUNT bread
+COUNT milk
+REMOVE meat 46
+ADD rice 18
+COUNT meat
+ADD bread 35
+MAX
+ADD rice 34
+COUNT rice
+ADD egg 75
+REMOVE butter 29
+MAX
+COUNT milk
+ADD cheese 50
+ADD cheese 27
+MAX
+REMOVE rice 14
+REMOVE butter 36
+MAX
+COUNT banana
+COUNT bread
+ADD fish 34
+ADD banana 67
+COUNT milk
+REMOVE fish 38
+REMOVE cheese 25
+COUNT apple
+REMOVE banana 41
+REMOVE apple 11
+REMOVE egg 22
+COUNT banana
+ADD egg 40
+ADD butter 24
+COUNT fish
+MAX
+REMOVE cheese 45
+REMOVE meat 31
+MAX
+ADD egg 77
+REMOVE meat 20
+ADD bread 98
+MAX
+MAX
+ADD meat 100
+ADD cheese 52
+COUNT milk
+COUNT rice
+MAX
+MAX
+MAX
+ADD cheese 97
+ADD egg 7
+MAX
+REMOVE milk 23
+REMOVE milk 30
+ADD milk 26
+MAX
+REMOVE banana 12
+ADD bread 56
+ADD bread 20
+COUNT egg
+ADD milk 45
+ADD butter 88
+REMOVE bread 31
+COUNT fish
+COUNT banana
+REMOVE egg 49
+MAX
+REMOVE egg 19
+MAX
+COUNT meat
+COUNT butter
+ADD fish 86
+COUNT cheese
+ADD cheese 23
+COUNT egg
+REMOVE butter 1
+COUNT meat
+MAX
+COUNT milk
+REMOVE apple 14
+REMOVE banana 22
+REMOVE milk 28
+ADD rice 50
+COUNT fish
+ADD meat 23
+ADD butter 14
+REMOVE banana 23
+COUNT banana
+COUNT meat
+MAX
+ADD egg 17
+COUNT meat
+COUNT apple
+REMOVE meat 28
+COUNT rice
+REMOVE banana 39
+MAX
+MAX
+COUNT fish
+COUNT butter
+MAX
+ADD milk 55
+COUNT meat
+MAX
+ADD apple 44
+MAX
+COUNT rice
+ADD cheese 94
+MAX
+REMOVE fish 19
+ADD fish 59
+REMOVE cheese 44
+REMOVE meat 22
+COUNT apple
+COUNT milk
+ADD meat 3
+REMOVE rice 41
+ADD banana 46
+COUNT butter
+COUNT bread
+ADD butter 13
+ADD milk 82
+REMOVE rice 23
+MAX
+COUNT bread
+MAX
+MAX
+MAX
+MAX
+COUNT apple
+ADD egg 5
+ADD banana 49
+COUNT banana
+REMOVE rice 28
+REMOVE milk 48
+ADD banana 56
+MAX
+COUNT cheese
+ADD rice 79
+COUNT bread
+COUNT apple
+REMOVE fish 14
+COUNT meat
+ADD milk 36
+COUNT apple
+COUNT milk
+COUNT rice
+ADD bread 3
+COUNT milk
+ADD fish 77
+COUNT egg
+ADD bread 3
+COUNT bread
+ADD rice 94
+COUNT fish
+COUNT cheese
+REMOVE meat 31
+MAX
+ADD egg 41
+REMOVE fish 10
+REMOVE fish 14
+COUNT milk
+COUNT rice
+REMOVE cheese 6
+COUNT butter
+MAX
+ADD butter 48
+REMOVE egg 29
+COUNT apple
+ADD cheese 22
+COUNT cheese
+REMOVE apple 49
+MAX
+COUNT fish
+MAX
+REMOVE butter 9
+REMOVE banana 7
+REMOVE bread 8
+COUNT milk
+MAX
+COUNT meat
+COUNT egg
+COUNT meat
+MAX
+ADD egg 81
+ADD egg 65
+COUNT meat
+ADD meat 64
+COUNT rice
+MAX
+REMOVE milk 26
+ADD butter 43
+COUNT milk
+COUNT banana
+REMOVE meat 27
+REMOVE apple 40
+ADD cheese 80
+COUNT banana
+COUNT meat
+MAX
+REMOVE bread 11
+COUNT fish
+COUNT egg
+ADD cheese 84
+REMOVE butter 13
+MAX
+ADD egg 93
+MAX
+ADD bread 42
+ADD banana 4
+ADD fish 59
+ADD cheese 57
+MAX
+COUNT fish
+COUNT banana
+MAX
+MAX
+MAX
+MAX
+ADD banana 1
+COUNT meat
+MAX
+MAX
+MAX
+ADD meat 34
+MAX
+COUNT cheese
+COUNT butter
+COUNT fish
+REMOVE apple 19
+MAX
+MAX
+COUNT apple
+REMOVE butter 41
+COUNT meat
+COUNT banana
+ADD rice 98
+MAX
+COUNT banana
+COUNT egg
+REMOVE egg 10
+MAX
+COUNT bread
+ADD egg 83
+COUNT fish
+MAX
+REMOVE bread 49
+ADD rice 89
+REMOVE fish 45
+ADD rice 77
+ADD milk 19
+COUNT apple
+ADD egg 73
+REMOVE rice 20
+MAX
+ADD rice 61
+COUNT rice
+ADD milk 19
+COUNT meat
+ADD bread 4
+MAX
+COUNT milk
+COUNT rice
+REMOVE butter 48
+MAX
+COUNT fish
+COUNT milk
+MAX
+COUNT cheese
+MAX
+REMOVE egg 25
+MAX
+REMOVE milk 34
+REMOVE fish 25
+ADD banana 44
+ADD bread 29
+ADD cheese 100
+COUNT banana
+COUNT egg
+REMOVE cheese 41
+MAX
+MAX
+MAX
+COUNT butter
+MAX
+COUNT egg
+COUNT meat
+COUNT egg
+COUNT rice
+COUNT butter
+MAX
+COUNT banana
+MAX
+ADD cheese 67
+ADD rice 95
+ADD bread 30
+COUNT fish
+ADD cheese 35
+COUNT banana
+COUNT banana
+MAX
+ADD rice 8
+ADD bread 75
+COUNT fish
+REMOVE butter 4
+REMOVE banana 13
+REMOVE fish 6
+REMOVE banana 35
+COUNT cheese
+REMOVE cheese 1
+COUNT banana
+COUNT fish
+COUNT bread
+COUNT cheese
+COUNT apple
+ADD meat 77
+ADD milk 43
+COUNT butter
+ADD rice 34
+MAX
+ADD rice 87
+COUNT rice
+COUNT banana
+MAX
+MAX
+REMOVE egg 33
+REMOVE milk 12
+ADD meat 87
+REMOVE fish 22
+COUNT butter
+MAX
+ADD banana 98
+ADD rice 65
+REMOVE butter 31
+ADD rice 79
+ADD milk 42
+ADD meat 22
+MAX
+COUNT milk
+REMOVE butter 31
+COUNT meat
+COUNT rice
+ADD rice 61
+MAX
+MAX
+REMOVE rice 22
+COUNT egg
+REMOVE meat 37
+REMOVE meat 1
+COUNT meat
+ADD meat 46
+COUNT milk
+MAX
+COUNT apple
+MAX
+ADD rice 38
+MAX
+ADD meat 49
+REMOVE butter 48
+ADD bread 80
+COUNT rice
+ADD bread 21
+REMOVE fish 47
+COUNT apple
+COUNT meat
+COUNT fish
+ADD cheese 76
+REMOVE banana 4
+COUNT rice
+COUNT fish
+MAX
+ADD milk 96
+ADD meat 20
+MAX
+COUNT cheese
+ADD banana 57
+ADD cheese 70
+COUNT rice
+COUNT rice
+COUNT milk
+COUNT banana
+MAX
+COUNT egg
+MAX
+REMOVE fish 48
+MAX
+ADD fish 30
+REMOVE egg 13
+COUNT rice
+ADD apple 18
+ADD meat 55
+REMOVE fish 4
+MAX
+ADD butter 48
+ADD meat 5
+MAX
+MAX
+REMOVE butter 32
+ADD egg 82
+ADD banana 73
+ADD butter 100
+ADD milk 66
+MAX
+ADD fish 79
+COUNT bread
+COUNT meat
+MAX
+REMOVE milk 42
+REMOVE milk 42
+COUNT fish
+COUNT meat
+MAX
+REMOVE rice 1
+COUNT meat
+ADD bread 42
+REMOVE rice 15
+COUNT egg
+COUNT bread
+COUNT cheese
+MAX
+MAX
+COUNT cheese
+ADD milk 27
+REMOVE banana 2
+COUNT apple
+COUNT butter
+REMOVE banana 21
+MAX
+MAX
+COUNT bread
+REMOVE meat 18
+ADD bread 99
+REMOVE milk 29
+ADD meat 4
+REMOVE bread 25
+ADD fish 52
+ADD meat 76
+MAX
+ADD milk 65
+MAX
+COUNT banana
+ADD bread 16
+MAX
+COUNT egg
+COUNT egg
+REMOVE bread 6
+COUNT egg
+REMOVE butter 8
+MAX
+ADD meat 54
+REMOVE banana 23
+REMOVE rice 5
+REMOVE rice 15
+MAX
+ADD meat 61
+ADD rice 94
+COUNT egg
+ADD bread 23
+COUNT milk
+COUNT milk
+COUNT apple
+ADD bread 95
+COUNT egg
+COUNT milk
+REMOVE milk 34
+MAX
+COUNT milk
+REMOVE banana 11
+ADD bread 40
+REMOVE egg 17
+COUNT apple
+COUNT egg
+ADD fish 5
+COUNT milk
+MAX
+ADD meat 98
+COUNT butter
+ADD banana 2
+REMOVE bread 6
+REMOVE banana 8
+MAX
+REMOVE meat 35
+REMOVE cheese 41
+ADD fish 61
+MAX
+ADD egg 85
+COUNT cheese
+COUNT banana
+REMOVE cheese 13
+ADD butter 17
+MAX
+ADD banana 96
+ADD meat 37
+MAX
+ADD bread 33
+ADD rice 43
+COUNT fish
+COUNT butter
+COUNT rice
+COUNT milk
+REMOVE egg 43
+ADD apple 96
+MAX
+REMOVE apple 13
+MAX
+ADD apple 31
+ADD egg 2
+COUNT fish
+MAX
+ADD cheese 52
+REMOVE bread 30
+COUNT butter
+REMOVE rice 42
+COUNT egg
+REMOVE milk 17
+REMOVE fish 50
+COUNT banana
+COUNT egg
+COUNT rice
+ADD egg 55
+COUNT butter
+ADD bread 59
+MAX
+ADD rice 17
+MAX
+REMOVE meat 36
+MAX
+ADD butter 24
+REMOVE butter 13
+ADD bread 100
+ADD egg 68
+COUNT milk
+COUNT butter
+COUNT butter
+REMOVE bread 45
+MAX
+COUNT egg
+ADD milk 82
+COUNT cheese
+ADD milk 70
+MAX
+COUNT bread
+ADD meat 38
+REMOVE butter 27
+MAX
+REMOVE milk 47
+MAX
+ADD rice 91
+COUNT rice
+ADD cheese 77
+MAX
+ADD meat 18
+ADD milk 98
+MAX
+MAX
+MAX
+REMOVE milk 42
+REMOVE cheese 13
+ADD egg 10
+ADD rice 18
+MAX
+ADD cheese 87
+ADD fish 19
+COUNT egg
+ADD banana 67
+REMOVE banana 50
+COUNT fish
+ADD fish 39
+MAX
+COUNT cheese
+REMOVE banana 49
+MAX
+REMOVE rice 3
+REMOVE rice 8
+COUNT meat
+COUNT fish
+COUNT bread
+COUNT banana
+MAX
+COUNT cheese
+MAX
+ADD fish 90
+MAX
+REMOVE banana 50
+ADD rice 33
+COUNT egg
+REMOVE rice 23
+ADD banana 92
+MAX
+ADD fish 29
+COUNT rice
+ADD fish 72
+COUNT cheese
+REMOVE butter 43
+REMOVE cheese 7
+COUNT banana
+COUNT banana
+MAX
+ADD cheese 87
+COUNT cheese
+REMOVE meat 46
+COUNT egg
+COUNT fish
+MAX
+COUNT butter
+ADD meat 81
+COUNT meat
+COUNT apple
+ADD milk 4
+COUNT egg
+ADD meat 4
+COUNT rice
+REMOVE egg 23
+MAX
+ADD fish 7
+REMOVE rice 50
+COUNT bread
+COUNT butter
+COUNT meat
+COUNT milk
+MAX
+MAX
+REMOVE cheese 35
+COUNT bread
+REMOVE rice 7
+MAX
+ADD meat 41
+COUNT milk
+COUNT bread
+ADD fish 45
+REMOVE fish 24
+COUNT milk
+REMOVE banana 13
+COUNT butter
+COUNT butter
+ADD butter 69
+ADD cheese 90
+ADD banana 12
+COUNT meat
+MAX
+ADD egg 69
+REMOVE milk 25
+ADD rice 79
+COUNT banana
+REMOVE bread 29
+MAX
+ADD milk 86
+MAX
+ADD bread 89
+MAX
+ADD bread 57
+COUNT bread
+ADD rice 32
+MAX
+MAX
+REMOVE fish 27
+COUNT cheese
+ADD milk 67
+COUNT cheese
+MAX
+MAX
+COUNT egg
+MAX
+ADD egg 47
+MAX
+MAX
+REMOVE egg 5
+MAX
+ADD bread 69
+COUNT banana
+MAX
+COUNT butter
+COUNT butter
+REMOVE cheese 15
+COUNT butter
+MAX
+ADD rice 74
+MAX
+REMOVE fish 32
+COUNT banana
+MAX
+ADD butter 58
+COUNT apple
+MAX
+REMOVE milk 5
+COUNT banana
+MAX
+ADD rice 94
+ADD cheese 63
+REMOVE milk 26
+ADD fish 40
+COUNT rice
+REMOVE cheese 33
+MAX
+ADD butter 88
+COUNT apple
+MAX
+ADD egg 76
+ADD banana 79
+ADD meat 94
+ADD bread 32
+MAX
+COUNT milk
+MAX
+ADD fish 94
+ADD banana 13
+MAX
+COUNT meat
+MAX
+REMOVE fish 9
+MAX
+ADD rice 46
+ADD meat 33
+REMOVE milk 17
+REMOVE bread 23
+MAX
+COUNT egg
+REMOVE banana 34
+ADD cheese 8
+MAX
+ADD egg 13
+ADD butter 2
+ADD meat 40
+ADD cheese 73
+REMOVE banana 12
+ADD cheese 64
+ADD bread 45
+ADD milk 77
+REMOVE milk 29
+COUNT milk
+COUNT fish
+ADD apple 69
+MAX
+COUNT banana
+MAX
+REMOVE rice 7
+REMOVE milk 38
+COUNT banana
+REMOVE cheese 10
+MAX
+MAX
+MAX
+MAX
+COUNT meat
+COUNT banana
+COUNT banana
+REMOVE egg 10
+ADD fish 25
+COUNT apple
+REMOVE fish 43
+COUNT cheese
+ADD butter 12
+COUNT egg
+MAX
+COUNT butter
+COUNT butter
+COUNT rice
+REMOVE fish 49
+ADD meat 52
+REMOVE banana 32
+ADD banana 42
+COUNT cheese
+REMOVE fish 50
+ADD apple 68
+MAX
+ADD banana 40
+MAX
+COUNT cheese
+COUNT egg
+COUNT butter
+ADD rice 50
+ADD butter 7
+MAX
+COUNT meat
+COUNT butter
+MAX
+COUNT apple
+MAX
+ADD milk 29
+COUNT banana
+COUNT fish
+ADD cheese 2
+ADD meat 27
+MAX
+ADD rice 1
+MAX
+COUNT egg
+MAX
+MAX
+MAX
+REMOVE meat 3
+ADD cheese 32
+COUNT rice
+MAX
+REMOVE cheese 46
+MAX
+COUNT bread
+MAX
+COUNT rice
+REMOVE apple 27
+MAX
+REMOVE bread 50
+REMOVE cheese 1
+COUNT meat
+ADD fish 17
+COUNT bread
+ADD banana 15
+ADD fish 9
+ADD egg 22
+MAX
+ADD meat 37
+COUNT rice
+MAX
+ADD banana 51
+MAX
+MAX
+MAX
+COUNT fish
+ADD butter 5
+REMOVE banana 8
+ADD meat 24
+ADD banana 31
+REMOVE egg 29
+COUNT fish
+COUNT apple
+COUNT butter
+COUNT bread
+COUNT egg
+ADD apple 20
+REMOVE rice 12
+REMOVE bread 42
+ADD meat 20
+MAX
+COUNT bread
+ADD bread 43
+COUNT fish
+ADD fish 9
+MAX
+COUNT rice
+COUNT milk
+COUNT egg
+ADD banana 53
+COUNT apple
+COUNT milk
+COUNT egg
+REMOVE milk 7
+COUNT apple
+REMOVE cheese 4
+MAX
+COUNT banana
+MAX
+COUNT apple
+COUNT banana
+ADD fish 74
+COUNT rice
+COUNT meat
+REMOVE bread 44
+REMOVE rice 23
+MAX
+COUNT fish
+MAX
+ADD butter 47
+ADD rice 82
+COUNT meat
+MAX
+MAX
+REMOVE apple 28
+MAX
+ADD fish 53
+COUNT butter
+MAX
+MAX
+ADD egg 27
+MAX
+REMOVE meat 30
+COUNT fish
+MAX
+REMOVE egg 21
+COUNT milk
+COUNT bread
+ADD bread 73
+ADD cheese 47
+MAX
+COUNT meat
+REMOVE rice 14
+REMOVE fish 7
+COUNT fish
+REMOVE cheese 27
+ADD bread 44
+COUNT milk
+COUNT butter
+REMOVE fish 2
+COUNT meat
+COUNT milk
+ADD cheese 99
+ADD meat 74
+COUNT bread
+ADD egg 60
+ADD milk 98
+MAX
+REMOVE cheese 34
+COUNT apple
+COUNT banana
+ADD apple 7
+REMOVE banana 21
+MAX
+REMOVE milk 14
+REMOVE banana 24
+COUNT egg
+COUNT fish
+REMOVE milk 19
+REMOVE butter 11
+MAX
+ADD meat 16
+COUNT cheese
+REMOVE butter 36
+COUNT rice
+COUNT bread
+MAX
+COUNT milk
+MAX
+ADD apple 18
+MAX
+REMOVE fish 11
+COUNT cheese
+COUNT egg
+MAX
+COUNT milk
+REMOVE apple 32
+MAX
+COUNT egg
+MAX
+MAX
+ADD milk 80
+REMOVE meat 10
+ADD bread 82
+REMOVE banana 23
+COUNT fish
+ADD cheese 54
+MAX
+REMOVE rice 13
+COUNT butter
+MAX
+ADD egg 22
+ADD bread 90
+REMOVE fish 28
+REMOVE rice 48
+MAX
+COUNT banana
+REMOVE apple 9
+MAX
+MAX
+ADD cheese 3
+REMOVE bread 31
+REMOVE apple 45
+COUNT meat
+REMOVE butter 28
+REMOVE egg 9
+MAX
+COUNT butter
+ADD rice 35
+ADD fish 86
+ADD egg 66
+MAX
+ADD milk 98
+ADD banana 23
+REMOVE milk 37
+MAX
+COUNT banana
+ADD apple 95
+MAX
+MAX
+COUNT milk
+COUNT fish
+COUNT egg
+COUNT banana
+COUNT apple
+COUNT bread
+MAX
+MAX
+ADD banana 1
+REMOVE bread 14
+ADD banana 50
+REMOVE butter 13
+REMOVE bread 46
+MAX
+COUNT milk
+REMOVE cheese 4
+REMOVE butter 1
+ADD bread 34
+ADD butter 74
+MAX
+COUNT banana
+ADD egg 97
+MAX
+ADD cheese 38
+COUNT butter
+COUNT bread
+REMOVE egg 48
+ADD apple 84
+MAX
+COUNT rice
+COUNT banana
+ADD fish 45
+MAX
+ADD meat 11
+COUNT fish
+ADD banana 41
+COUNT egg
+COUNT cheese
+COUNT banana
+COUNT egg
+REMOVE fish 24
+REMOVE fish 21
+COUNT bread
+ADD milk 6
+COUNT meat
+REMOVE fish 21
+MAX
+MAX
+MAX
+REMOVE fish 29
+ADD meat 54
+MAX
+MAX
+COUNT meat
+MAX
+COUNT meat
+REMOVE meat 43
+MAX
+ADD milk 28
+ADD meat 61
+ADD egg 26
+ADD meat 21
+REMOVE butter 18
+ADD fish 78
+COUNT meat
+REMOVE milk 32
+MAX
+ADD banana 9
+MAX
+COUNT cheese
+ADD bread 67
+MAX
+MAX
+REMOVE apple 20
+COUNT egg
+COUNT cheese
+REMOVE banana 39
+ADD rice 44
+COUNT milk
+REMOVE fish 5
+ADD egg 54
+ADD egg 89
+ADD egg 82
+MAX
+MAX
+COUNT butter
+REMOVE egg 45
+ADD milk 42
+COUNT cheese
+MAX
+ADD cheese 79
+ADD bread 63
+COUNT apple
+REMOVE banana 25
+COUNT cheese
+REMOVE butter 32
+REMOVE rice 5
+REMOVE bread 50
+ADD milk 47
+MAX
+ADD bread 29
+COUNT egg
+REMOVE cheese 31
+COUNT rice
+MAX
+REMOVE egg 39
+MAX
+ADD bread 77
+COUNT rice
+COUNT bread
+COUNT butter
+ADD meat 55
+COUNT apple
+ADD bread 19
+ADD apple 84
+COUNT meat
+ADD fish 100
+MAX
+ADD meat 72
+ADD fish 98
+REMOVE rice 30
+ADD cheese 59
+ADD cheese 17
+REMOVE apple 8
+ADD egg 71
+REMOVE milk 21
+MAX
+REMOVE apple 41
+REMOVE egg 26
+ADD cheese 98
+ADD rice 42
+COUNT cheese
+ADD butter 8
+COUNT milk
+REMOVE banana 9
+ADD butter 21
+MAX
+ADD egg 46
+REMOVE meat 22
+COUNT fish
+REMOVE apple 34
+REMOVE meat 45
+ADD banana 27
+REMOVE banana 49
+MAX
+ADD bread 8
+COUNT butter
+ADD bread 62
+ADD bread 98
+ADD milk 18
+COUNT egg
+REMOVE meat 2
+COUNT rice
+REMOVE meat 36
+ADD bread 76
+ADD bread 75
+REMOVE egg 45
+ADD egg 66
+MAX
+ADD bread 20
+COUNT cheese
+ADD butter 48
+COUNT milk
+MAX
+COUNT rice
+REMOVE egg 17
+REMOVE rice 29
+ADD cheese 84
+COUNT meat
+ADD banana 6
+REMOVE banana 48
+MAX
+ADD cheese 95
+COUNT bread
+MAX
+MAX
+REMOVE apple 42
+COUNT cheese
+MAX
+MAX
+ADD apple 40
+ADD milk 43
+ADD meat 93
+REMOVE meat 39
+COUNT fish
+REMOVE cheese 19
+COUNT bread
+ADD banana 1
+MAX
+COUNT apple
+MAX
+MAX
+REMOVE meat 47
+COUNT milk
+ADD egg 28
+COUNT meat
+COUNT egg
+ADD meat 84
+ADD apple 16
+REMOVE rice 30
+MAX
+MAX
+MAX
+ADD apple 61
+ADD banana 12
+COUNT fish
+MAX
+COUNT butter
+ADD apple 90
+COUNT banana
+COUNT milk
+ADD meat 87
+REMOVE apple 32
+REMOVE fish 27
+ADD apple 74
+MAX
+COUNT rice
+COUNT fish
+ADD rice 4
+COUNT bread
+ADD fish 1
+MAX
+ADD cheese 56
+COUNT fish
+COUNT apple
+ADD banana 77
+REMOVE fish 35
+ADD egg 93
+COUNT milk
+REMOVE egg 27
+ADD meat 48
+REMOVE egg 50
+ADD fish 87
+COUNT egg
+MAX
+ADD rice 18
+REMOVE egg 42
+REMOVE butter 44
+ADD apple 44
+COUNT milk
+COUNT butter
+COUNT milk
+MAX
+COUNT bread
+MAX
+REMOVE meat 8
+MAX
+COUNT butter
+ADD apple 33
+MAX
+COUNT milk
+COUNT egg
+REMOVE egg 47
+MAX
+REMOVE meat 34
+COUNT meat
+ADD egg 96
+REMOVE banana 15
+COUNT fish
+ADD bread 92
+ADD butter 14
+REMOVE banana 45
+MAX
+ADD meat 39
+MAX
+COUNT banana
+MAX
+ADD apple 4
+ADD bread 24
+MAX
+COUNT banana
+ADD banana 55
+MAX
+COUNT apple
+COUNT rice
+REMOVE egg 14
+REMOVE cheese 38
+MAX
+COUNT cheese
+ADD fish 5
+REMOVE egg 2
+ADD fish 50
+COUNT banana
+REMOVE cheese 40
+MAX
+MAX
+COUNT apple
+REMOVE fish 49
+MAX
+REMOVE butter 6
+ADD banana 59
+REMOVE egg 16
+COUNT fish
+ADD rice 71
+COUNT fish
+ADD meat 13
+ADD milk 76
+MAX
+COUNT butter
+REMOVE butter 12
+REMOVE cheese 25
+MAX
+COUNT apple
+ADD banana 90
+COUNT milk
+MAX
+ADD milk 6
+ADD egg 55
+ADD milk 10
+ADD fish 32
+ADD milk 99
+REMOVE rice 12
+ADD cheese 64
+ADD fish 90
+MAX
+ADD milk 18
+ADD cheese 73
+ADD fish 47
+COUNT meat
+ADD butter 89
+REMOVE butter 7
+REMOVE apple 18
+REMOVE meat 5
+ADD rice 86
+REMOVE meat 33
+MAX
+MAX
+MAX
+ADD milk 12
+COUNT bread
+REMOVE butter 24
+COUNT fish
+ADD milk 75
+REMOVE butter 3
+ADD milk 39
+ADD meat 2
+REMOVE butter 1
+ADD rice 75
+COUNT rice
+MAX
+ADD bread 62
+MAX
+ADD fish 62
+REMOVE banana 12
+REMOVE butter 5
+ADD milk 66
+ADD banana 62
+COUNT banana
+COUNT bread
+COUNT meat
+MAX
+REMOVE bread 17
+REMOVE meat 3
+MAX
+COUNT apple
+ADD egg 51
+REMOVE bread 48
+MAX
+REMOVE butter 27
+COUNT milk
+ADD butter 37
+REMOVE banana 28
+COUNT meat
+ADD banana 91
+MAX
+ADD apple 48
+ADD rice 60
+COUNT egg
+REMOVE butter 39
+REMOVE rice 31
+COUNT meat
+COUNT cheese
+COUNT cheese
+COUNT cheese
+ADD egg 12
+COUNT egg
+COUNT cheese
+COUNT rice
+COUNT rice
+MAX
+COUNT bread
+REMOVE egg 16
+COUNT egg
+MAX
+ADD egg 67
+COUNT rice
+ADD meat 86
+COUNT cheese
+MAX
+ADD rice 25
+COUNT egg
+COUNT butter
+REMOVE fish 38
+COUNT banana
+COUNT rice
+COUNT bread
+COUNT egg
+ADD fish 48
+ADD fish 92
+ADD cheese 59
+COUNT milk
+ADD banana 33
+ADD meat 71
+MAX
+ADD bread 33
+MAX
+REMOVE butter 38
+MAX
+COUNT meat
+ADD apple 55
+COUNT fish
+COUNT fish
+REMOVE egg 8
+ADD banana 47
+COUNT apple
+ADD banana 36
+ADD butter 35
+ADD banana 96
+COUNT bread
+ADD cheese 8
+ADD egg 80
+COUNT rice
+REMOVE bread 15
+COUNT cheese
+COUNT butter
+REMOVE bread 10
+ADD cheese 41
+COUNT milk
+MAX
+MAX
+ADD cheese 3
+MAX
+ADD cheese 35
+MAX
+ADD bread 53
+ADD fish 79
+ADD milk 29
+ADD apple 31
+COUNT meat
+COUNT cheese
+MAX
+REMOVE bread 7
+MAX
+REMOVE fish 29
+ADD meat 79
+COUNT apple
+COUNT rice
+ADD fish 56
+COUNT butter
+REMOVE apple 32
+COUNT meat
+MAX
+COUNT egg
+ADD banana 77
+MAX
+COUNT milk
+COUNT bread
+ADD egg 52
+ADD rice 30
+REMOVE fish 2
+COUNT cheese
+ADD banana 58
+COUNT apple
+REMOVE egg 24
+REMOVE fish 28
+COUNT meat
+ADD rice 45
+ADD egg 34
+REMOVE milk 15
+MAX
+COUNT cheese
+COUNT bread
+MAX
+MAX
+REMOVE bread 6
+COUNT milk
+ADD butter 7
+ADD butter 33
+REMOVE rice 10
+MAX
+ADD milk 30
+REMOVE milk 34
+ADD banana 80
+ADD milk 37
+COUNT meat
+MAX
+ADD bread 78
+COUNT banana
+COUNT rice
+MAX
+ADD banana 100
+REMOVE egg 47
+ADD butter 24
+ADD apple 42
+MAX
+COUNT butter
+MAX
+COUNT apple
+REMOVE milk 4
+REMOVE milk 16
+MAX
+MAX
+COUNT rice
+REMOVE fish 12
+COUNT bread
+ADD cheese 97
+ADD meat 18
+ADD fish 68
+COUNT meat
+COUNT meat
+MAX
+REMOVE butter 23
+COUNT cheese
+COUNT meat
+COUNT butter
+MAX
+ADD fish 17
+MAX
+ADD cheese 48
+MAX
+ADD meat 49
+REMOVE egg 2
+REMOVE bread 49
+ADD meat 100
+COUNT milk
+REMOVE cheese 49
+COUNT rice
+REMOVE milk 2
+MAX
+MAX
+ADD meat 60
+COUNT egg
+MAX
+REMOVE meat 4
+ADD milk 82
+MAX
+ADD apple 45
+REMOVE meat 42
+MAX
+ADD rice 46
+MAX
+COUNT apple
+MAX
+MAX
+REMOVE egg 22
+ADD butter 22
+ADD banana 19
+COUNT butter
+ADD apple 66
+ADD butter 48
+ADD meat 43
+COUNT fish
+REMOVE egg 19
+REMOVE butter 38
+ADD fish 98
+REMOVE butter 3
+COUNT butter
+COUNT cheese
+COUNT milk
+MAX
+REMOVE fish 47
+COUNT rice
+ADD bread 12
+COUNT rice
+REMOVE apple 3
+REMOVE milk 13
+REMOVE bread 27
+COUNT milk
+REMOVE cheese 17
+MAX
+ADD banana 21
+MAX
+ADD fish 9
+ADD milk 87
+REMOVE banana 43
+REMOVE egg 40
+COUNT egg
+MAX
+MAX
+ADD butter 71
+MAX
+MAX
+REMOVE egg 34
+ADD cheese 67
+COUNT cheese
+COUNT bread
+ADD apple 56
+REMOVE egg 33
+REMOVE meat 4
+MAX
+REMOVE rice 7
+MAX
+COUNT bread
+MAX
+ADD milk 13
+COUNT butter
+REMOVE meat 27
+COUNT rice
+ADD milk 80
+REMOVE banana 50
+REMOVE apple 28
+REMOVE meat 10
+REMOVE apple 22
+MAX
+ADD bread 63
+MAX
+REMOVE meat 38
+ADD meat 31
+ADD cheese 22
+REMOVE cheese 21
+COUNT banana
+ADD banana 95
+ADD butter 55
+REMOVE banana 45
+COUNT apple
+ADD milk 5
+ADD egg 87
+COUNT egg
+COUNT banana
+ADD rice 43
+ADD cheese 11
+MAX
+COUNT bread
+COUNT meat
+MAX
+REMOVE rice 38
+ADD butter 10
+MAX
+ADD banana 60
+COUNT rice
+ADD butter 13
+REMOVE bread 45
+ADD meat 44
+COUNT fish
+MAX
+REMOVE butter 20
+ADD meat 54
+MAX
+ADD rice 86
+REMOVE bread 30
+ADD milk 5
+ADD cheese 16
+ADD fish 17
+ADD banana 37
+COUNT egg
+COUNT fish
+REMOVE banana 42
+COUNT butter
+COUNT rice
+MAX
+ADD fish 84
+ADD milk 51
+ADD banana 7
+ADD rice 50
+ADD fish 60
+COUNT meat
+COUNT egg
+REMOVE egg 48
+MAX
+REMOVE egg 49
+COUNT milk
+ADD milk 33
+REMOVE fish 22
+ADD milk 31
+COUNT fish
+MAX
+MAX
+COUNT meat
+ADD apple 81
+REMOVE egg 40
+REMOVE apple 7
+REMOVE butter 13
+ADD egg 88
+COUNT butter
+ADD meat 68
+MAX
+COUNT cheese
+ADD apple 59
+MAX
+COUNT rice
+COUNT fish
+ADD egg 3
+REMOVE banana 31
+MAX
+REMOVE fish 39
+COUNT egg
+MAX
+ADD rice 39
+MAX
+MAX
+MAX
+COUNT cheese
+ADD rice 1
+COUNT apple
+ADD fish 31
+REMOVE meat 4
+MAX
+MAX
+ADD butter 54
+ADD rice 99
+COUNT apple
+REMOVE cheese 14
+COUNT butter
+ADD banana 31
+MAX
+REMOVE egg 12
+COUNT bread
+ADD meat 11
+REMOVE bread 31
+ADD milk 96
+COUNT milk
+COUNT rice
+REMOVE meat 14
+COUNT egg
+ADD rice 40
+MAX
+COUNT banana
+ADD milk 16
+MAX
+ADD bread 9
+COUNT rice
+MAX
+ADD fish 44
+ADD butter 60
+COUNT fish
+COUNT rice
+COUNT egg
+COUNT egg
+ADD bread 70
+MAX
+COUNT cheese
+MAX
+COUNT banana
+MAX
+ADD egg 21
+COUNT butter
+ADD egg 4
+REMOVE meat 49
+REMOVE butter 50
+MAX
+ADD bread 80
+COUNT cheese
+COUNT banana
+MAX
+COUNT fish
+COUNT fish
+REMOVE egg 13
+MAX
+ADD bread 1
+COUNT apple
+MAX
+MAX
+COUNT meat
+COUNT apple
+MAX
+MAX
+ADD banana 77
+COUNT banana
+COUNT fish
+REMOVE butter 47
+COUNT banana
+COUNT apple
+COUNT egg
+ADD butter 55
+ADD banana 8
+MAX
+COUNT milk
+COUNT meat
+MAX
+ADD meat 10
+MAX
+REMOVE fish 20
+COUNT meat
+ADD rice 42
+ADD banana 18
+MAX
+COUNT banana
+REMOVE banana 17
+COUNT egg
+MAX
+ADD bread 75
+MAX
+ADD rice 40
+MAX
+COUNT butter
+MAX
+ADD butter 74
+MAX
+COUNT butter
+COUNT banana
+MAX
+COUNT apple
+REMOVE meat 6
+COUNT rice
+COUNT milk
+ADD cheese 1
+ADD fish 6
+REMOVE egg 26
+COUNT rice
+ADD butter 32
+ADD milk 24
+COUNT cheese
+COUNT banana
+COUNT apple
+REMOVE milk 11
+COUNT butter
+ADD meat 1
+COUNT rice
+COUNT bread
+REMOVE bread 4
+REMOVE cheese 43
+REMOVE butter 19
+REMOVE meat 38
+REMOVE cheese 19
+ADD cheese 16
+COUNT rice
+COUNT fish
+ADD banana 52
+COUNT rice
+COUNT cheese
+ADD cheese 16
+MAX
+ADD apple 30
+MAX
+COUNT banana
+COUNT milk
+MAX
+ADD banana 74
+ADD bread 92
+ADD apple 53
+ADD bread 58
+ADD banana 48
+REMOVE meat 25
+COUNT rice
+REMOVE bread 41
+ADD meat 46
+ADD bread 63
+REMOVE rice 28
+ADD apple 56
+REMOVE apple 4
+COUNT butter
+ADD meat 15
+MAX
+ADD rice 23
+REMOVE apple 31
+COUNT butter
+ADD fish 45
+REMOVE bread 29
+ADD rice 62
+MAX
+ADD fish 29
+REMOVE milk 2
+COUNT fish
+REMOVE butter 33
+COUNT milk
+ADD egg 67
+ADD banana 35
+MAX
+COUNT rice
+COUNT apple
+ADD banana 31
+MAX
+ADD bread 97
+MAX
+MAX
+MAX
+COUNT butter
+MAX
+COUNT butter
+ADD apple 42
+COUNT butter
+REMOVE egg 1
+REMOVE milk 7
+COUNT meat
+ADD rice 76
+ADD meat 86
+MAX
+COUNT cheese
+REMOVE meat 31
+COUNT bread
+REMOVE egg 23
+REMOVE bread 35
+REMOVE bread 28
+MAX
+ADD banana 14
+COUNT milk
+ADD apple 27
+REMOVE butter 48
+ADD butter 57
+COUNT bread
+COUNT bread
+REMOVE apple 17
+ADD cheese 53
+ADD rice 83
+COUNT fish
+MAX
+ADD bread 79
+ADD rice 77
+COUNT bread
+ADD rice 70
+ADD apple 63
+MAX
+ADD meat 43
+ADD butter 75
+ADD cheese 36
+ADD egg 46
+COUNT butter
+COUNT apple
+COUNT cheese
+ADD rice 25
+ADD milk 30
+COUNT milk
+ADD bread 26
+ADD fish 8
+COUNT bread
+COUNT apple
+ADD bread 47
+COUNT rice
+MAX
+REMOVE banana 11
+REMOVE apple 11
+REMOVE butter 12
+COUNT meat
+ADD milk 28
+ADD meat 14
+REMOVE milk 18
+COUNT butter
+MAX
+COUNT cheese
+MAX
+MAX
+MAX
+MAX
+ADD cheese 69
+COUNT bread
+MAX
+REMOVE cheese 29
+ADD rice 78
+ADD apple 26
+REMOVE meat 50
+COUNT banana
+MAX
+ADD milk 7
+ADD butter 15
+COUNT meat
+MAX
+COUNT milk
+ADD milk 69
+MAX
+COUNT bread
+MAX
+COUNT cheese
+COUNT banana
+ADD butter 11
+REMOVE butter 6
+ADD egg 71
+ADD milk 6
+REMOVE bread 9
+MAX
+ADD banana 67
+ADD fish 10
+REMOVE butter 6
+COUNT egg
+REMOVE rice 22
+ADD apple 100
+ADD apple 93
+ADD egg 22
+COUNT cheese
+ADD bread 62
+MAX
+ADD butter 83
+REMOVE cheese 2
+COUNT egg
+REMOVE banana 33
+COUNT rice
+ADD banana 70
+MAX
+COUNT cheese
+COUNT rice
+REMOVE banana 10
+ADD rice 65
+COUNT apple
+REMOVE fish 3
+COUNT fish
+ADD cheese 7
+ADD rice 32
+REMOVE egg 6
+REMOVE butter 18
+COUNT meat
+REMOVE banana 16
+REMOVE rice 33
+ADD egg 48
+COUNT egg
+REMOVE milk 37
+REMOVE apple 36
+COUNT fish
+ADD bread 31
+REMOVE cheese 36
+REMOVE egg 2
+COUNT butter
+ADD banana 8
+ADD apple 16
+MAX
+ADD butter 16
+MAX
+MAX
+COUNT rice
+COUNT rice
+MAX
+COUNT butter
+MAX
+REMOVE bread 34
+ADD bread 68
+COUNT meat
+ADD milk 87
+ADD meat 80
+COUNT milk
+COUNT rice
+REMOVE milk 2
+ADD meat 97
+COUNT egg
+COUNT butter
+REMOVE banana 20
+MAX
+ADD fish 6
+MAX
+ADD meat 21
+REMOVE egg 49
+ADD apple 24
+REMOVE bread 47
+COUNT egg
+COUNT milk
+ADD apple 86
+ADD meat 40
+REMOVE rice 19
+COUNT butter
+COUNT apple
+COUNT banana
+REMOVE butter 45
+COUNT milk
+MAX
+ADD milk 60
+COUNT apple
+COUNT egg
+ADD apple 38
+ADD bread 27
+MAX
+MAX
+ADD butter 33
+COUNT banana
+REMOVE bread 10
+MAX
+ADD cheese 59
+COUNT banana
+COUNT cheese
+MAX
+ADD banana 81
+COUNT fish
+ADD meat 83
+REMOVE bread 3
+MAX
+MAX
+COUNT banana
+MAX
+COUNT butter
+REMOVE egg 25
+ADD butter 53
+COUNT butter
+MAX
+ADD milk 27
+MAX
+MAX
+ADD banana 43
+COUNT banana
+COUNT cheese
+COUNT apple
+ADD meat 43
+REMOVE fish 17
+COUNT cheese
+ADD meat 1
+MAX
+COUNT meat
+REMOVE egg 9
+MAX
+ADD cheese 10
+MAX
+MAX
+COUNT cheese
+ADD butter 38
+ADD meat 68
+REMOVE apple 38
+ADD meat 25
+ADD milk 28
+COUNT butter
+ADD bread 58
+ADD egg 54
+ADD rice 5
+COUNT rice
+ADD butter 53
+MAX
+ADD egg 81
+ADD egg 31
+REMOVE meat 28
+REMOVE apple 34
+COUNT banana
+COUNT meat
+COUNT apple
+MAX
+MAX
+MAX
+ADD bread 47
+REMOVE cheese 6
+MAX
+COUNT meat
+ADD fish 10
+REMOVE bread 7
+MAX
+COUNT rice
+MAX
+REMOVE meat 33
+COUNT meat
+COUNT fish
+COUNT fish
+REMOVE butter 42
+MAX
+COUNT butter
+MAX
+ADD apple 15
+ADD butter 1
+COUNT fish
+COUNT egg
+ADD fish 86
+MAX
+COUNT butter
+ADD apple 28
+ADD egg 79
+COUNT apple
+ADD egg 58
+COUNT apple
+COUNT apple
+COUNT cheese
+COUNT banana
+MAX
+ADD milk 3
+COUNT fish
+MAX
+COUNT milk
+REMOVE cheese 46
+COUNT meat
+COUNT cheese
+MAX
+MAX
+COUNT butter
+COUNT cheese
+COUNT fish
+ADD butter 38
+ADD egg 75
+REMOVE cheese 16
+ADD cheese 14
+ADD butter 40
+COUNT bread
+MAX
+MAX
+ADD bread 38
+COUNT meat
+REMOVE butter 4
+REMOVE apple 36
+REMOVE meat 41
+ADD meat 4
+COUNT milk
+COUNT rice
+COUNT bread
+COUNT bread
+REMOVE cheese 24
+COUNT butter
+ADD butter 97
+ADD rice 1
+MAX
+MAX
+MAX
+ADD milk 89
+COUNT meat
+REMOVE butter 10
+REMOVE egg 35
+COUNT meat
+COUNT banana
+COUNT meat
+COUNT egg
+REMOVE banana 14
+ADD fish 55
+ADD milk 99
+ADD butter 41
+COUNT banana
+ADD bread 100
+ADD butter 20
+ADD rice 66
+ADD apple 4
+MAX
+ADD bread 1
+ADD butter 56
+COUNT meat
+ADD apple 15
+MAX
+COUNT butter
+ADD banana 86
+ADD cheese 43
+MAX
+MAX
+ADD banana 49
+COUNT cheese
+COUNT banana
+ADD cheese 10
+MAX
+REMOVE fish 27
+COUNT butter
+ADD cheese 57
+COUNT milk
+ADD egg 29
+COUNT rice
+ADD fish 57
+REMOVE rice 26
+ADD fish 18
+COUNT meat
+COUNT cheese
+ADD apple 72
+COUNT fish
+COUNT fish
+MAX
+MAX
+MAX
+COUNT cheese
+ADD rice 3
+REMOVE butter 44
+COUNT banana
+MAX
+ADD fish 30
+ADD milk 41
+REMOVE milk 13
+REMOVE meat 7
+REMOVE banana 30
+ADD milk 87
+ADD cheese 21
+ADD banana 29
+COUNT bread
+MAX
+MAX
+REMOVE fish 32
+COUNT egg
+REMOVE bread 14
+REMOVE butter 19
+REMOVE cheese 4
+COUNT milk
+MAX
+REMOVE milk 26
+ADD apple 13
+REMOVE rice 4
+ADD bread 88
+ADD banana 51
+REMOVE banana 10
+MAX
+COUNT fish
+COUNT milk
+MAX
+ADD milk 82
+ADD fish 76
+COUNT milk
+ADD bread 34
+COUNT meat
+ADD butter 44
+COUNT fish
+COUNT cheese
+REMOVE meat 15
+MAX
+COUNT banana
+MAX
+ADD egg 53
+ADD bread 74
+COUNT apple
+REMOVE cheese 35
+COUNT meat
+REMOVE banana 30
+REMOVE apple 26
+MAX
+REMOVE meat 34
+COUNT milk
+MAX
+ADD apple 49
+COUNT banana
+COUNT milk
+ADD egg 42
+COUNT banana
+MAX
+COUNT egg
+ADD egg 70
+MAX
+MAX
+COUNT meat
+COUNT banana
+COUNT milk
+ADD cheese 18
+REMOVE meat 30
+COUNT apple
+COUNT butter
+COUNT rice
+ADD cheese 78
+COUNT butter
+MAX
+MAX
+ADD apple 43
+COUNT cheese
+COUNT bread
+COUNT butter
+REMOVE cheese 46
+COUNT butter
+MAX
+COUNT rice
+MAX
+REMOVE cheese 33
+COUNT banana
+COUNT rice
+REMOVE butter 33
+REMOVE apple 45
+COUNT banana
+REMOVE milk 16
+MAX
+REMOVE meat 31
+ADD milk 4
+MAX
+REMOVE meat 50
+ADD cheese 9
+COUNT fish
+REMOVE butter 32
+REMOVE milk 40
+COUNT meat
+COUNT milk
+MAX
+ADD butter 74
+ADD apple 83
+COUNT butter
+ADD milk 88
+COUNT bread
+REMOVE rice 2
+COUNT egg
+COUNT meat
+REMOVE cheese 22
+COUNT cheese
+ADD banana 22
+ADD butter 23
+COUNT egg
+MAX
+ADD milk 68
+REMOVE cheese 26
+ADD egg 79
+ADD bread 82
+MAX
+COUNT cheese
+MAX
+COUNT bread
+MAX
+ADD cheese 14
+REMOVE milk 17
+ADD egg 24
+COUNT egg
+COUNT fish
+ADD egg 50
+ADD cheese 22
+REMOVE cheese 15
+MAX
+ADD butter 78
+COUNT egg
+ADD butter 14
+COUNT meat
+REMOVE apple 42
+REMOVE rice 25
+MAX
+COUNT apple
+COUNT fish
+COUNT rice
+MAX
+ADD bread 40
+COUNT banana
+MAX
+MAX
+MAX
+ADD banana 62
+COUNT milk
+ADD butter 91
+REMOVE bread 18
+COUNT banana
+MAX
+ADD rice 12
+REMOVE fish 7
+REMOVE egg 13
+ADD milk 47
+COUNT bread
+MAX
+REMOVE butter 7
+ADD meat 58
+MAX
+ADD cheese 35
+MAX
+ADD banana 37
+MAX
+COUNT apple
+COUNT milk
+REMOVE cheese 34
+MAX
+ADD cheese 68
+REMOVE apple 39
+COUNT milk
+COUNT apple
+ADD milk 31
+MAX
+COUNT egg
+REMOVE milk 22
+COUNT meat
+REMOVE egg 50
+COUNT meat
+COUNT fish
+COUNT rice
+ADD milk 18
+REMOVE egg 33
+REMOVE rice 35
+COUNT cheese
+REMOVE egg 21
+COUNT cheese
+ADD butter 17
+REMOVE cheese 8
+MAX
+MAX
+REMOVE egg 2
+ADD apple 6
+ADD rice 48
+COUNT cheese
+COUNT bread
+ADD bread 17
+COUNT banana
+COUNT egg
+ADD apple 42
+REMOVE apple 34
+ADD meat 72
+COUNT banana
+ADD rice 67
+COUNT meat
+REMOVE cheese 46
+REMOVE fish 45
+MAX
+ADD fish 82
+COUNT rice
+COUNT milk
+COUNT milk
+REMOVE butter 48
+COUNT egg
+ADD banana 68
+ADD milk 91
+COUNT banana
+COUNT bread
+MAX
+ADD cheese 19
+MAX
+COUNT rice
+COUNT apple
+REMOVE apple 6
+COUNT meat
+ADD milk 27
+COUNT fish
+REMOVE butter 11
+COUNT meat
+COUNT banana
+COUNT milk
+COUNT egg
+REMOVE egg 17
+COUNT egg
+COUNT rice
+REMOVE meat 10
+MAX
+MAX
+REMOVE cheese 6
+COUNT fish
+REMOVE butter 16
+COUNT meat
+ADD milk 92
+REMOVE banana 42
+REMOVE banana 30
+COUNT bread
+REMOVE bread 37
+COUNT milk
+MAX
+MAX
+REMOVE milk 10
+COUNT cheese
+MAX
+ADD meat 22
+MAX
+COUNT egg
+COUNT cheese
+ADD rice 31
+COUNT milk
+ADD milk 42
+COUNT bread
+COUNT butter
+ADD butter 40
+ADD banana 63
+COUNT fish
+COUNT fish
+ADD meat 38
+ADD apple 74
+REMOVE rice 37
+MAX
+COUNT cheese
+COUNT banana
+ADD fish 78
+MAX
+MAX
+REMOVE milk 37
+ADD banana 21
+ADD bread 86
+MAX
+REMOVE butter 32
+COUNT bread
+REMOVE egg 9
+COUNT butter
+MAX
+COUNT milk
+ADD banana 18
+COUNT meat
+COUNT apple
+COUNT milk
+ADD apple 34
+COUNT fish
+COUNT fish
+COUNT butter
+MAX
+REMOVE bread 45
+COUNT egg
+COUNT egg
+ADD butter 51
+MAX
+COUNT apple
+ADD rice 39
+ADD meat 83
+ADD cheese 74
+REMOVE fish 5
+REMOVE milk 14
+MAX
+COUNT banana
+ADD milk 83
+COUNT cheese
+COUNT apple
+ADD bread 62
+ADD butter 25
+ADD bread 1
+COUNT fish
+ADD cheese 64
+ADD banana 19
+REMOVE milk 47
+ADD bread 21
+ADD fish 53
+REMOVE milk 4
+ADD banana 15
+ADD meat 14
+ADD milk 6
+ADD apple 58
+ADD egg 85
+COUNT butter
+COUNT bread
+ADD cheese 96
+COUNT apple
+ADD bread 56
+REMOVE bread 35
+ADD milk 59
+COUNT rice
+COUNT banana
+ADD rice 23
+ADD rice 3
+COUNT meat
+COUNT milk
+MAX
+MAX
+COUNT egg
+MAX
+ADD rice 49
+ADD cheese 25
+COUNT egg
+MAX
+REMOVE meat 5
+MAX
+COUNT apple
+MAX
+ADD cheese 77
+REMOVE cheese 32
+MAX
+COUNT bread
+MAX
+ADD rice 25
+REMOVE egg 36
+REMOVE egg 25
+REMOVE milk 14
+MAX
+ADD banana 96
+COUNT apple
+ADD fish 7
+REMOVE egg 40
+ADD bread 72
+REMOVE apple 11
+COUNT apple
+REMOVE banana 28
+REMOVE cheese 2
+REMOVE milk 9
+MAX
+COUNT banana
+REMOVE rice 11
+MAX
+COUNT apple
+ADD rice 5
+ADD banana 3
+COUNT meat
+MAX
+COUNT fish
+REMOVE rice 40
+ADD fish 76
+COUNT egg
+REMOVE meat 12
+MAX
+ADD banana 18
+MAX
+ADD meat 1
+ADD butter 8
+COUNT butter
+ADD bread 4
+MAX
+COUNT meat
+COUNT banana
+REMOVE rice 49
+MAX
+REMOVE meat 34
+ADD apple 67
+ADD egg 58
+ADD cheese 4
+MAX
+ADD egg 91
+ADD banana 26
+COUNT meat
+REMOVE bread 4
+REMOVE bread 22
+ADD apple 37
+REMOVE butter 18
+REMOVE bread 26
+ADD bread 4
+ADD meat 24
+REMOVE butter 44
+REMOVE meat 46
+REMOVE rice 32
+ADD banana 72
+ADD bread 86
+MAX
+COUNT cheese
+REMOVE fish 17
+MAX
+MAX
+REMOVE milk 6
+REMOVE banana 34
+ADD milk 90
+MAX
+ADD apple 35
+REMOVE meat 7
+REMOVE egg 41
+COUNT banana
+COUNT apple
+REMOVE fish 43
+REMOVE rice 3
+ADD rice 75
+ADD butter 9
+MAX
+COUNT rice
+COUNT egg
+ADD banana 41
+COUNT apple
+ADD cheese 65
+ADD cheese 39
+COUNT cheese
+MAX
+MAX
+REMOVE cheese 34
+MAX
+COUNT banana
+ADD cheese 57
+COUNT meat
+REMOVE butter 48
+ADD meat 49
+MAX
+ADD fish 37
+MAX
+REMOVE cheese 18
+ADD milk 98
+REMOVE milk 14
+COUNT butter
+COUNT cheese
+ADD cheese 15
+MAX
+REMOVE apple 5
+COUNT rice
+ADD meat 85
+ADD bread 60
+ADD fish 70
+MAX
+ADD meat 8
+MAX
+COUNT apple
+COUNT rice
+ADD butter 11
+ADD cheese 74
+COUNT butter
+MAX
+COUNT fish
+MAX
+MAX
+ADD fish 3
+COUNT butter
+COUNT cheese
+MAX
+MAX
+COUNT banana
+MAX
+MAX
+MAX
+REMOVE milk 11
+COUNT fish
+MAX
+MAX
+COUNT bread
+COUNT fish
+MAX
+REMOVE apple 35
+ADD apple 34
+COUNT meat
+REMOVE fish 43
+ADD milk 25
+REMOVE banana 20
+COUNT banana
+COUNT banana
+MAX
+COUNT fish
+COUNT cheese
+ADD milk 77
+COUNT butter
+MAX
+ADD meat 75
+MAX
+COUNT fish
+COUNT apple
+ADD cheese 46
+ADD banana 34
+MAX
+ADD cheese 55
+ADD meat 6
+REMOVE butter 42
+ADD fish 37
+COUNT butter
+COUNT egg
+COUNT egg
+ADD fish 75
+COUNT meat
+ADD apple 78
+MAX
+COUNT rice
+MAX
+REMOVE butter 16
+COUNT cheese
+REMOVE rice 29
+COUNT milk
+ADD apple 20
+COUNT banana
+REMOVE milk 23
+COUNT bread
+MAX
+REMOVE butter 35
+ADD butter 74
+MAX
+COUNT rice
+COUNT butter
+COUNT bread
+COUNT meat
+ADD rice 51
+REMOVE butter 29
+COUNT banana
+REMOVE cheese 5
+ADD banana 28
+MAX
+ADD bread 46
+COUNT cheese
+COUNT milk
+MAX
+MAX
+COUNT banana
+ADD fish 93
+REMOVE apple 22
+ADD bread 6
+MAX
+REMOVE butter 7
+REMOVE apple 11
+REMOVE rice 49
+REMOVE milk 17
+ADD banana 55
+REMOVE apple 13
+COUNT rice
+ADD cheese 54
+REMOVE banana 31
+COUNT fish
+MAX
+MAX
+ADD butter 17
+COUNT cheese
+COUNT butter
+COUNT butter
+COUNT apple
+MAX
+REMOVE butter 10
+ADD banana 57
+ADD butter 14
+COUNT egg
+COUNT meat
+COUNT rice
+COUNT cheese
+COUNT cheese
+MAX
+ADD cheese 51
+COUNT butter
+REMOVE butter 25
+COUNT banana
+REMOVE cheese 17
+MAX
+MAX
+ADD banana 79
+ADD cheese 87
+ADD fish 47
+ADD meat 89
+ADD banana 10
+REMOVE meat 44
+COUNT bread
+MAX
+COUNT butter
+MAX
+ADD egg 32
+REMOVE milk 7
+COUNT rice
+REMOVE cheese 4
+REMOVE apple 4
+ADD cheese 39
+MAX
+ADD cheese 33
+ADD rice 49
+MAX
+COUNT rice
+COUNT butter
+COUNT meat
+REMOVE apple 21
+COUNT rice
+ADD rice 41
+REMOVE egg 32
+COUNT egg
+COUNT apple
+COUNT rice
+COUNT bread
+ADD butter 78
+ADD milk 32
+MAX
+REMOVE meat 25
+COUNT milk
+COUNT egg
+COUNT apple
+ADD egg 78
+COUNT bread
+MAX
+ADD meat 21
+MAX
+ADD milk 38
+ADD fish 55
+MAX
+REMOVE fish 20
+REMOVE egg 40
+ADD apple 14
+ADD rice 91
+MAX
+ADD butter 33
+COUNT butter
+COUNT apple
+ADD butter 2
+ADD cheese 67
+MAX
+REMOVE fish 36
+ADD banana 23
+COUNT egg
+REMOVE apple 18
+REMOVE meat 17
+MAX
+COUNT meat
+ADD banana 22
+ADD butter 33
+ADD fish 44
+ADD egg 90
+COUNT meat
+MAX
+COUNT fish
+COUNT milk
+REMOVE rice 33
+ADD milk 16
+COUNT bread
+COUNT rice
+REMOVE rice 4
+ADD meat 33
+REMOVE egg 19
+COUNT egg
+COUNT bread
+MAX
+ADD milk 25
+ADD fish 37
+COUNT cheese
+COUNT fish
+COUNT cheese
+COUNT banana
+REMOVE meat 49
+ADD rice 83
+COUNT milk
+REMOVE apple 13
+MAX
+COUNT meat
+COUNT banana
+MAX
+REMOVE apple 42
+COUNT banana
+COUNT meat
+MAX
+MAX
+ADD bread 5
+REMOVE bread 21
+COUNT butter
+MAX
+ADD bread 43
+MAX
+MAX
+ADD banana 66
+ADD meat 57
+REMOVE rice 33
+MAX
+MAX
+REMOVE milk 18
+ADD egg 34
+ADD apple 69
+ADD butter 47
+COUNT fish
+COUNT bread
+REMOVE butter 7
+ADD egg 31
+COUNT banana
+ADD fish 65
+COUNT rice
+MAX
+COUNT cheese
+COUNT meat
+MAX
+COUNT milk
+MAX
+COUNT cheese
+ADD egg 62
+COUNT milk
+MAX
+ADD fish 88
+ADD meat 30
+ADD banana 94
+MAX
+COUNT meat
+COUNT milk
+ADD bread 72
+COUNT cheese
+REMOVE butter 16
+ADD banana 20
+MAX
+MAX
+COUNT fish
+ADD milk 73
+ADD milk 67
+MAX
+MAX
+COUNT butter
+MAX
+ADD banana 6
+MAX
+ADD bread 23
+MAX
+ADD butter 50
+REMOVE meat 8
+ADD apple 66
+MAX
+COUNT butter
+MAX
+COUNT meat
+ADD butter 11
+MAX
+ADD meat 12
+ADD bread 71
+ADD egg 84
+ADD banana 76
+COUNT apple
+COUNT rice
+REMOVE butter 42
+ADD egg 40
+REMOVE cheese 21
+MAX
+COUNT apple
+ADD apple 59
+MAX
+REMOVE milk 1
+REMOVE rice 22
+MAX
+COUNT fish
+MAX
+REMOVE apple 28
+REMOVE meat 28
+ADD banana 2
+MAX
+REMOVE egg 20
+MAX
+COUNT bread
+MAX
+ADD fish 70
+REMOVE meat 40
+MAX
+MAX
+ADD cheese 61
+ADD cheese 2
+REMOVE butter 49
+ADD meat 71
+ADD butter 19
+REMOVE cheese 37
+COUNT milk
+REMOVE fish 1
+COUNT butter
+REMOVE butter 34
+MAX
+COUNT fish
+COUNT fish
+COUNT banana
+REMOVE egg 38
+REMOVE egg 30
+MAX
+COUNT meat
+ADD cheese 31
+ADD banana 17
+REMOVE egg 30
+MAX
+COUNT cheese
+COUNT milk
+REMOVE rice 6
+COUNT apple
+COUNT cheese
+REMOVE milk 5
+COUNT egg
+REMOVE egg 8
+REMOVE fish 19
+COUNT milk
+REMOVE meat 39
+ADD banana 13
+COUNT butter
+ADD banana 78
+COUNT meat
+MAX
+REMOVE milk 11
+ADD fish 43
+COUNT banana
+REMOVE rice 47
+COUNT rice
+MAX
+ADD butter 45
+COUNT egg
+REMOVE apple 21
+REMOVE butter 9
+ADD cheese 19
+ADD egg 64
+MAX
+COUNT apple
+MAX
+ADD meat 29
+MAX
+MAX
+REMOVE apple 30
+ADD milk 36
+MAX
+REMOVE milk 33
+ADD butter 79
+REMOVE rice 1
+ADD fish 67
+COUNT butter
+ADD rice 92
+REMOVE banana 9
+MAX
+ADD butter 99
+REMOVE fish 5
+ADD egg 72
+COUNT apple
+ADD cheese 48
+MAX
+COUNT fish
+MAX
+ADD banana 41
+ADD banana 96
+MAX
+COUNT bread
+MAX
+MAX
+REMOVE cheese 9
+ADD apple 60
+ADD meat 76
+REMOVE apple 1
+MAX
+ADD banana 65
+COUNT rice
+COUNT egg
+COUNT bread
+MAX
+ADD cheese 67
+REMOVE cheese 36
+COUNT meat
+REMOVE cheese 17
+ADD fish 99
+ADD banana 80
+COUNT butter
+MAX
+MAX
+ADD rice 69
+ADD banana 5
+ADD apple 20
+REMOVE butter 43
+COUNT bread
+COUNT banana
+REMOVE rice 14
+MAX
+COUNT egg
+REMOVE butter 49
+MAX
+ADD milk 54
+COUNT meat
+MAX
+MAX
+REMOVE meat 29
+ADD butter 29
+MAX
+MAX
+MAX
+MAX
+COUNT butter
+REMOVE milk 21
+MAX
+REMOVE rice 26
+MAX
+COUNT egg
+REMOVE fish 29
+MAX
+COUNT meat
+REMOVE cheese 22
+REMOVE egg 26
+ADD cheese 24
+COUNT apple
+COUNT butter
+MAX
+MAX
+REMOVE apple 32
+COUNT rice
+COUNT cheese
+ADD bread 13
+MAX
+MAX
+REMOVE butter 25
+ADD apple 19
+REMOVE rice 46
+MAX
+COUNT apple
+COUNT milk
+ADD apple 52
+COUNT egg
+MAX
+REMOVE rice 45
+MAX
+COUNT apple
+MAX
+COUNT milk
+REMOVE egg 37
+REMOVE apple 1
+ADD meat 98
+MAX
+MAX
+ADD banana 44
+ADD milk 45
+MAX
+COUNT cheese
+ADD cheese 44
+ADD rice 6
+MAX
+REMOVE fish 46
+ADD milk 60
+COUNT apple
+MAX
+COUNT cheese
+COUNT apple
+MAX
+COUNT banana
+ADD meat 37
+MAX
+COUNT rice
+COUNT apple
+ADD cheese 16
+ADD egg 17
+MAX
+MAX
+REMOVE butter 40
+COUNT rice
+ADD butter 39
+COUNT banana
+MAX
+MAX
+REMOVE cheese 40
+MAX
+MAX
+REMOVE bread 24
+COUNT egg
+ADD egg 50
+ADD apple 53
+MAX
+COUNT cheese
+ADD apple 51
+COUNT butter
+ADD butter 50
+COUNT fish
+ADD bread 62
+COUNT milk
+COUNT bread
+COUNT cheese
+MAX
+REMOVE egg 15
+ADD meat 63
+REMOVE milk 22
+REMOVE bread 11
+COUNT apple
+ADD bread 49
+REMOVE milk 26
+ADD banana 59
+COUNT milk
+COUNT milk
+COUNT cheese
+COUNT milk
+ADD bread 40
+REMOVE banana 5
+ADD apple 74
+ADD meat 87
+ADD bread 1
+COUNT butter
+COUNT meat
+COUNT bread
+ADD banana 12
+REMOVE fish 15
+COUNT cheese
+MAX
+ADD egg 59
+REMOVE cheese 36
+COUNT butter
+REMOVE cheese 12
+ADD cheese 95
+COUNT meat
+REMOVE meat 3
+ADD bread 54
+COUNT milk
+COUNT milk
+REMOVE egg 34
+ADD rice 60
+MAX
+MAX
+COUNT milk
+ADD fish 15
+ADD egg 21
+ADD butter 1
+ADD meat 90
+MAX
+ADD cheese 93
+COUNT banana
+REMOVE butter 8
+COUNT fish
+COUNT egg
+COUNT meat
+ADD banana 65
+REMOVE butter 24
+REMOVE butter 6
+COUNT egg
+COUNT fish
+COUNT fish
+ADD banana 49
+COUNT apple
+COUNT egg
+MAX
+REMOVE cheese 14
+ADD meat 78
+MAX
+COUNT cheese
+REMOVE milk 33
+ADD rice 7
+COUNT butter
+ADD fish 21
+ADD milk 71
+ADD rice 69
+ADD bread 18
+COUNT milk
+ADD banana 36
+ADD rice 84
+ADD milk 96
+MAX
+COUNT banana
+REMOVE egg 37
+COUNT bread
+COUNT milk
+COUNT apple
+ADD bread 7
+ADD milk 29
+MAX
+ADD fish 64
+REMOVE milk 45
+MAX
+ADD bread 6
+MAX
+COUNT butter
+ADD egg 7
+REMOVE meat 13
+ADD apple 45
+COUNT cheese
+ADD fish 59
+REMOVE meat 38
+ADD butter 29
+ADD banana 88
+ADD milk 77
+ADD banana 61
+ADD cheese 6
+MAX
+ADD butter 28
+ADD apple 34
+ADD butter 36
+ADD meat 51
+ADD cheese 11
+MAX
+ADD banana 54
+REMOVE butter 4
+REMOVE butter 24
+MAX
+REMOVE meat 30
+MAX
+MAX
+ADD bread 90
+REMOVE milk 6
+COUNT meat
+REMOVE apple 20
+COUNT rice
+REMOVE apple 29
+MAX
+REMOVE bread 44
+REMOVE bread 46
+ADD meat 45
+ADD cheese 49
+ADD bread 17
+MAX
+REMOVE meat 8
+ADD milk 33
+ADD meat 86
+ADD egg 84
+COUNT egg
+ADD milk 13
+COUNT butter
+COUNT apple
+COUNT fish
+MAX
+COUNT cheese
+ADD cheese 53
+ADD bread 93
+REMOVE banana 43
+COUNT meat
+ADD bread 72
+REMOVE bread 9
+COUNT rice
+MAX
+MAX
+ADD egg 86
+ADD butter 31
+ADD rice 26
+MAX
+ADD bread 10
+ADD egg 86
+COUNT meat
+ADD rice 48
+MAX
+COUNT meat
+MAX
+COUNT rice
+REMOVE fish 26
+COUNT rice
+COUNT egg
+MAX
+REMOVE bread 28
+REMOVE fish 18
+REMOVE cheese 50
+COUNT banana
+REMOVE rice 9
+ADD egg 37
+REMOVE butter 45
+MAX
+COUNT cheese
+MAX
+REMOVE banana 22
+ADD meat 77
+ADD egg 74
+REMOVE rice 29
+ADD bread 2
+REMOVE rice 9
+ADD cheese 16
+ADD meat 16
+MAX
+ADD rice 84
+COUNT bread
+ADD milk 54
+MAX
+REMOVE egg 20
+ADD apple 58
+COUNT bread
+COUNT fish
+ADD apple 4
+COUNT banana
+REMOVE butter 23
+MAX
+ADD banana 11
+REMOVE butter 29
+ADD butter 36
+REMOVE bread 24
+MAX
+COUNT milk
+REMOVE butter 30
+ADD fish 7
+ADD bread 83
+MAX
+MAX
+MAX
+COUNT butter
+REMOVE egg 48
+MAX
+ADD fish 60
+REMOVE cheese 28
+REMOVE egg 27
+ADD fish 1
+ADD apple 83
+MAX
+MAX
+COUNT egg
+MAX
+MAX
+MAX
+ADD egg 42
+COUNT apple
+ADD milk 62
+MAX
+ADD milk 9
+REMOVE egg 30
+COUNT bread
+ADD apple 78
+REMOVE cheese 45
+COUNT bread
+COUNT butter
+MAX
+COUNT fish
+MAX
+MAX
+ADD bread 49
+COUNT egg
+COUNT butter
+COUNT milk
+MAX
+ADD milk 74
+COUNT fish
+COUNT egg
+ADD egg 79
+REMOVE bread 16
+ADD milk 82
+COUNT fish
+ADD cheese 25
+MAX
+COUNT milk
+ADD egg 61
+COUNT bread
+COUNT bread
+ADD meat 55
+ADD egg 5
+REMOVE banana 4
+COUNT fish
+ADD milk 50
+COUNT banana
+COUNT milk
+MAX
+ADD apple 13
+ADD banana 20
+REMOVE egg 42
+MAX
+MAX
+COUNT butter
+COUNT milk
+COUNT fish
+COUNT meat
+MAX
+COUNT butter
+MAX
+COUNT fish
+ADD fish 97
+ADD milk 27
+MAX
+MAX
+MAX
+MAX
+ADD milk 92
+COUNT banana
+COUNT rice
+ADD milk 45
+COUNT cheese
+ADD milk 23
+COUNT egg
+REMOVE meat 12
+MAX
+COUNT egg
+ADD apple 50
+ADD fish 32
+ADD banana 69
+ADD meat 88
+COUNT rice
+ADD bread 1
+REMOVE egg 15
+MAX
+MAX
+COUNT butter
+REMOVE apple 43
+ADD meat 23
+REMOVE apple 33
+COUNT meat
+ADD fish 85
+REMOVE banana 21
+COUNT fish
+ADD egg 33
+COUNT milk
+MAX
+COUNT egg
+ADD rice 10
+ADD egg 43
+REMOVE apple 37
+MAX
+ADD meat 76
+MAX
+COUNT fish
+COUNT egg
+MAX
+ADD apple 18
+ADD milk 56
+MAX
+COUNT banana
+COUNT fish
+ADD banana 20
+REMOVE bread 37
+ADD meat 80
+REMOVE butter 37
+COUNT meat
+ADD butter 61
+ADD milk 55
+REMOVE fish 15
+ADD cheese 99
+ADD fish 84
+REMOVE apple 30
+MAX
+COUNT butter
+COUNT fish
+COUNT meat
+REMOVE bread 41
+COUNT rice
+ADD cheese 12
+COUNT meat
+REMOVE bread 2
+MAX
+COUNT cheese
+COUNT milk
+ADD milk 6
+ADD cheese 9
+REMOVE apple 50
+REMOVE meat 18
+MAX
+COUNT fish
+COUNT rice
+REMOVE apple 1
+ADD butter 60
+REMOVE rice 35
+COUNT meat
+REMOVE rice 37
+REMOVE fish 20
+MAX
+ADD bread 50
+MAX
+REMOVE apple 17
+MAX
+ADD meat 32
+REMOVE bread 31
+ADD cheese 95
+REMOVE rice 37
+REMOVE milk 30
+REMOVE banana 41
+COUNT egg
+ADD meat 29
+REMOVE apple 45
+REMOVE fish 47
+ADD egg 45
+ADD butter 21
+REMOVE bread 28
+ADD banana 41
+COUNT butter
+COUNT butter
+MAX
+COUNT cheese
+REMOVE rice 27
+COUNT bread
+ADD egg 97
+ADD rice 96
+ADD rice 10
+COUNT rice
+COUNT meat
+COUNT cheese
+COUNT cheese
+ADD rice 36
+COUNT rice
+ADD rice 53
+ADD butter 98
+COUNT butter
+ADD bread 7
+COUNT butter
+REMOVE cheese 47
+REMOVE bread 37
+COUNT butter
+COUNT butter
+COUNT rice
+ADD milk 14
+MAX
+MAX
+COUNT fish
+ADD milk 15
+MAX
+COUNT fish
+REMOVE butter 23
+ADD meat 48
+REMOVE cheese 9
+MAX
+ADD bread 2
+ADD rice 73
+REMOVE rice 25
+MAX
+ADD cheese 29
+COUNT apple
+ADD egg 14
+ADD banana 27
+COUNT fish
+REMOVE meat 23
+COUNT cheese
+REMOVE egg 38
+REMOVE fish 1
+COUNT meat
+MAX
+ADD cheese 79
+ADD banana 34
+COUNT butter
+ADD rice 90
+REMOVE meat 15
+ADD bread 70
+COUNT apple
+MAX
+ADD milk 25
+MAX
+ADD milk 5
+MAX
+ADD fish 38
+ADD meat 27
+COUNT apple
+REMOVE fish 46
+COUNT butter
+COUNT meat
+COUNT butter
+MAX
+ADD egg 91
+COUNT milk
+COUNT rice
+REMOVE cheese 4
+ADD banana 83
+COUNT fish
+REMOVE rice 5
+REMOVE bread 3
+REMOVE egg 4
+ADD butter 47
+MAX
+ADD butter 79
+MAX
+REMOVE egg 12
+REMOVE egg 47
+MAX
+MAX
+ADD bread 18
+COUNT milk
+COUNT bread
+ADD apple 18
+REMOVE cheese 7
+ADD apple 30
+ADD bread 33
+REMOVE fish 5
+COUNT banana
+COUNT meat
+COUNT egg
+MAX
+ADD meat 19
+COUNT cheese
+COUNT egg
+ADD apple 23
+ADD egg 27
+ADD milk 30
+COUNT butter
+COUNT fish
+ADD apple 28
+ADD milk 6
+ADD rice 59
+ADD cheese 95
+COUNT apple
+ADD milk 21
+COUNT milk
+ADD egg 8
+REMOVE meat 17
+COUNT butter
+REMOVE banana 31
+COUNT fish
+REMOVE rice 27
+ADD cheese 24
+MAX
+ADD egg 82
+COUNT butter
+MAX
+REMOVE fish 41
+ADD butter 9
+ADD egg 77
+ADD cheese 89
+REMOVE meat 49
+COUNT rice
+MAX
+COUNT milk
+MAX
+REMOVE bread 29
+COUNT banana
+COUNT banana
+ADD banana 7
+ADD fish 66
+ADD egg 89
+COUNT cheese
+ADD banana 59
+MAX
+MAX
+REMOVE apple 41
+MAX
+COUNT egg
+ADD cheese 80
+ADD egg 23
+COUNT banana
+REMOVE milk 12
+ADD fish 50
+COUNT bread
+ADD fish 24
+ADD egg 38
+ADD banana 49
+ADD egg 88
+MAX
+COUNT meat
+MAX
+ADD bread 95
+COUNT butter
+MAX
+ADD rice 38
+REMOVE apple 20
+COUNT butter
+REMOVE cheese 38
+MAX
+ADD fish 3
+MAX
+ADD egg 79
+COUNT butter
+COUNT banana
+COUNT egg
+ADD fish 64
+ADD milk 51
+REMOVE bread 11
+MAX
+COUNT egg
+REMOVE rice 12
+REMOVE fish 31
+REMOVE milk 11
+MAX
+COUNT apple
+REMOVE meat 23
+COUNT milk
+MAX
+ADD egg 74
+COUNT milk
+ADD rice 15
+ADD meat 28
+ADD cheese 41
+REMOVE cheese 26
+ADD bread 60
+COUNT milk
+COUNT milk
+MAX
+COUNT milk
+ADD meat 10
+REMOVE rice 40
+COUNT butter
+REMOVE bread 14
+COUNT bread
+COUNT apple
+ADD cheese 69
+MAX
+ADD milk 9
+MAX
+ADD milk 13
+MAX
+ADD banana 48
+COUNT butter
+COUNT banana
+COUNT butter
+ADD meat 70
+REMOVE fish 26
+ADD apple 14
+COUNT banana
+COUNT rice
+COUNT apple
+REMOVE rice 49
+ADD apple 6
+COUNT milk
+COUNT butter
+MAX
+REMOVE butter 31
+ADD egg 67
+REMOVE meat 41
+REMOVE meat 48
+REMOVE banana 39
+REMOVE milk 14
+ADD milk 15
+COUNT meat
+MAX
+ADD bread 24
+ADD banana 6
+ADD cheese 33
+COUNT banana
+ADD fish 66
+MAX
+COUNT banana
+ADD cheese 58
+ADD meat 76
+COUNT cheese
+ADD butter 13
+COUNT butter
+COUNT banana
+COUNT apple
+ADD meat 55
+REMOVE milk 46
+ADD apple 45
+MAX
+COUNT butter
+REMOVE butter 26
+ADD banana 1
+REMOVE apple 21
+MAX
+ADD butter 31
+COUNT apple
+MAX
+COUNT milk
+MAX
+MAX
+COUNT cheese
+COUNT apple
+ADD meat 69
+COUNT milk
+MAX
+COUNT bread
+MAX
+ADD butter 27
+MAX
+COUNT meat
+COUNT bread
+ADD fish 53
+MAX
+ADD egg 82
+ADD butter 97
+MAX
+REMOVE meat 30
+ADD meat 71
+REMOVE banana 1
+MAX
+ADD butter 21
+ADD bread 92
+COUNT banana
+COUNT butter
+COUNT bread
+REMOVE milk 30
+COUNT banana
+COUNT egg
+COUNT apple
+REMOVE fish 32
+REMOVE apple 28
+COUNT egg
+MAX
+ADD butter 67
+ADD rice 32
+COUNT cheese
+ADD cheese 57
+MAX
+ADD butter 89
+ADD cheese 54
+COUNT butter
+COUNT butter
+COUNT egg
+COUNT milk
+COUNT apple
+MAX
+MAX
+ADD meat 49
+REMOVE meat 35
+REMOVE milk 40
+MAX
+COUNT banana
+ADD fish 27
+REMOVE butter 38
+COUNT milk
+REMOVE bread 39
+ADD meat 81
+COUNT fish
+COUNT milk
+COUNT cheese
+ADD rice 81
+REMOVE cheese 27
+REMOVE rice 5
+COUNT cheese
+COUNT fish
+ADD apple 71
+COUNT fish
+REMOVE fish 17
+COUNT cheese
+MAX
+ADD rice 10
+MAX
+ADD cheese 65
+MAX
+ADD fish 32
+ADD fish 67
+MAX
+REMOVE meat 47
+COUNT butter
+ADD meat 38
+COUNT butter
+ADD rice 41
+ADD cheese 22
+COUNT butter
+MAX
+MAX
+REMOVE milk 8
+MAX
+MAX
+ADD milk 59
+ADD meat 38
+COUNT apple
+ADD butter 23
+ADD rice 46
+COUNT bread
+ADD butter 74
+COUNT apple
+REMOVE rice 43
+MAX
+COUNT cheese
+COUNT fish
+ADD banana 71
+REMOVE bread 1
+ADD fish 48
+MAX
+ADD bread 6
+COUNT meat
+COUNT meat
+ADD cheese 46
+COUNT apple
+MAX
+MAX
+REMOVE banana 36
+ADD cheese 25
+MAX
+MAX
+COUNT rice
+REMOVE cheese 4
+COUNT fish
+MAX
+MAX
+COUNT butter
+REMOVE meat 42
+MAX
+ADD bread 55
+REMOVE banana 4
+ADD rice 39
+MAX
+ADD cheese 77
+MAX
+REMOVE rice 43
+REMOVE meat 36
+MAX
+REMOVE egg 11
+REMOVE apple 25
+ADD milk 15
+REMOVE egg 40
+COUNT fish
+ADD meat 99
+ADD milk 16
+COUNT egg
+ADD rice 57
+COUNT rice
+REMOVE fish 25
+REMOVE rice 44
+COUNT egg
+COUNT cheese
+REMOVE milk 7
+MAX
+MAX
+COUNT egg
+ADD banana 18
+ADD egg 28
+ADD cheese 8
+ADD bread 51
+ADD milk 12
+MAX
+ADD fish 31
+MAX
+COUNT fish
+REMOVE meat 50
+ADD butter 94
+ADD egg 72
+REMOVE egg 36
+REMOVE milk 38
+COUNT milk
+COUNT egg
+ADD egg 13
+REMOVE butter 21
+REMOVE cheese 6
+REMOVE apple 22
+MAX
+COUNT apple
+REMOVE cheese 6
+ADD fish 40
+ADD bread 98
+REMOVE bread 23
+COUNT rice
+REMOVE butter 47
+COUNT rice
+ADD fish 16
+REMOVE rice 45
+MAX
+COUNT bread
+ADD cheese 27
+ADD bread 63
+COUNT apple
+ADD banana 68
+ADD banana 9
+COUNT bread
+MAX
+COUNT cheese
+MAX
+REMOVE apple 33
+REMOVE butter 12
+MAX
+COUNT egg
+COUNT fish
+COUNT bread
+ADD butter 56
+ADD banana 41
+ADD fish 89
+REMOVE egg 43
+ADD egg 94
+ADD butter 7
+ADD cheese 14
+REMOVE fish 13
+ADD meat 64
+ADD fish 57
+COUNT milk
+COUNT meat
+COUNT banana
+MAX
+ADD meat 18
+COUNT cheese
+ADD meat 81
+COUNT rice
+MAX
+REMOVE cheese 38
+COUNT apple
+COUNT banana
+ADD cheese 71
+REMOVE bread 37
+ADD bread 88
+COUNT milk
+ADD banana 70
+COUNT butter
+ADD rice 22
+COUNT meat
+ADD butter 100
+COUNT cheese
+COUNT cheese
+COUNT cheese
+REMOVE milk 36
+MAX
+REMOVE fish 22
+COUNT cheese
+REMOVE butter 9
+MAX
+COUNT cheese
+ADD milk 10
+REMOVE cheese 30
+COUNT cheese
+COUNT banana
+MAX
+ADD butter 25
+COUNT fish
+MAX
+REMOVE egg 49
+COUNT rice
+MAX
+ADD egg 13
+COUNT bread
+REMOVE milk 34
+MAX
+MAX
+ADD milk 93
+ADD apple 27
+COUNT egg
+COUNT butter
+ADD banana 74
+ADD fish 69
+ADD egg 74
+ADD apple 95
+COUNT cheese
+COUNT milk
+MAX
+REMOVE cheese 4
+REMOVE milk 36
+MAX
+MAX
+COUNT bread
+MAX
+REMOVE egg 48
+COUNT apple
+COUNT fish
+MAX
+ADD egg 25
+ADD meat 3
+COUNT banana
+ADD bread 75
+ADD bread 69
+ADD cheese 61
+REMOVE egg 23
+ADD meat 6
+COUNT butter
+REMOVE butter 7
+MAX
+COUNT apple
+ADD apple 18
+ADD fish 27
+REMOVE egg 45
+COUNT butter
+REMOVE meat 49
+REMOVE fish 6
+ADD egg 66
+COUNT meat
+COUNT bread
+REMOVE cheese 4
+COUNT egg
+COUNT meat
+ADD rice 58
+COUNT banana
+COUNT meat
+MAX
+ADD fish 73
+ADD egg 15
+ADD rice 32
+REMOVE cheese 3
+COUNT butter
+MAX
+REMOVE milk 30
+ADD milk 70
+COUNT meat
+REMOVE egg 16
+ADD butter 11
+REMOVE rice 17
+ADD meat 10
+ADD banana 80
+MAX
+REMOVE egg 41
+MAX
+REMOVE rice 27
+MAX
+ADD egg 16
+ADD butter 70
+ADD fish 28
+ADD milk 63
+REMOVE meat 9
+MAX
+COUNT banana
+ADD rice 87
+ADD banana 68
+COUNT bread
+COUNT bread
+MAX
+COUNT cheese
+COUNT meat
+REMOVE rice 45
+COUNT cheese
+COUNT apple
+COUNT milk
+COUNT rice
+MAX
+COUNT rice
+MAX
+COUNT egg
+ADD bread 99
+REMOVE fish 9
+MAX
+ADD rice 26
+ADD meat 71
+MAX
+MAX
+COUNT meat
+MAX
+MAX
+COUNT apple
+ADD bread 76
+COUNT butter
+MAX
+COUNT bread
+COUNT fish
+COUNT egg
+MAX
+ADD bread 28
+REMOVE fish 29
+ADD rice 13
+ADD apple 78
+ADD banana 45
+ADD meat 3
+ADD milk 51
+ADD rice 22
+MAX
+MAX
+ADD milk 30
+MAX
+COUNT egg
+REMOVE milk 1
+ADD rice 9
+ADD fish 89
+COUNT rice
+ADD bread 21
+ADD bread 71
+COUNT apple
+COUNT cheese
+REMOVE milk 10
+COUNT butter
+MAX
+ADD butter 61
+ADD meat 33
+MAX
+COUNT bread
+ADD egg 11
+MAX
+MAX
+COUNT milk
+ADD rice 89
+COUNT bread
+ADD banana 14
+COUNT cheese
+ADD bread 40
+REMOVE meat 7
+COUNT bread
+ADD apple 20
+COUNT fish
+COUNT milk
+ADD milk 100
+ADD cheese 43
+COUNT bread
+REMOVE meat 47
+ADD cheese 47
+ADD butter 75
+ADD egg 60
+REMOVE egg 2
+ADD fish 32
+ADD cheese 2
+ADD fish 28
+COUNT banana
+ADD apple 84
+REMOVE milk 6
+ADD butter 49
+COUNT butter
+REMOVE banana 42
+REMOVE milk 12
+ADD rice 41
+MAX
+COUNT rice
+COUNT banana
+MAX
+ADD milk 71
+MAX
+MAX
+REMOVE apple 30
+ADD bread 53
+ADD milk 29
+COUNT rice
+MAX
+MAX
+ADD egg 19
+ADD meat 2
+ADD milk 28
+MAX
+ADD banana 19
+MAX
+MAX
+COUNT apple
+COUNT rice
+COUNT fish
+COUNT fish
+MAX
+REMOVE apple 14
+COUNT meat
+COUNT egg
+REMOVE bread 9
+REMOVE banana 42
+REMOVE rice 47
+COUNT milk
+ADD egg 89
+REMOVE butter 23
+ADD apple 17
+ADD cheese 86
+ADD butter 75
+MAX
+ADD meat 70
+MAX
+MAX
+COUNT cheese
+MAX
+MAX
+ADD butter 55
+COUNT butter
+COUNT milk
+ADD meat 8
+MAX
+COUNT rice
+REMOVE rice 2
+COUNT bread
+REMOVE butter 6
+MAX
+ADD apple 63
+ADD cheese 17
+ADD rice 6
+ADD cheese 95
+COUNT butter
+MAX
+COUNT bread
+REMOVE milk 13
+COUNT bread
+ADD rice 66
+REMOVE fish 3
+COUNT banana
+ADD butter 53
+REMOVE meat 12
+ADD apple 22
+ADD milk 26
+COUNT fish
+COUNT milk
+MAX
+REMOVE egg 1
+MAX
+COUNT apple
+ADD apple 71
+COUNT bread
+COUNT meat
+REMOVE cheese 8
+COUNT apple
+COUNT cheese
+COUNT cheese
+MAX
+ADD banana 52
+COUNT apple
+COUNT banana
+REMOVE milk 16
+ADD fish 26
+MAX
+COUNT cheese
+COUNT cheese
+COUNT cheese
+ADD apple 70
+COUNT egg
+REMOVE banana 36
+REMOVE rice 25
+ADD apple 3
+MAX
+MAX
+MAX
+COUNT bread
+ADD banana 13
+COUNT bread
+MAX
+ADD banana 67
+MAX
+REMOVE cheese 36
+COUNT rice
+REMOVE milk 49
+COUNT rice
+ADD apple 25
+COUNT apple
+ADD bread 42
+COUNT rice
+REMOVE apple 29
+REMOVE cheese 39
+COUNT rice
+COUNT rice
+MAX
+REMOVE milk 46
+ADD apple 71
+ADD apple 18
+COUNT butter
+MAX
+COUNT milk
+MAX
+COUNT butter
+REMOVE rice 1
+ADD meat 19
+ADD egg 65
+MAX
+REMOVE egg 9
+REMOVE egg 41
+MAX
+REMOVE milk 15
+REMOVE fish 2
+ADD banana 21
+COUNT butter
+MAX
+COUNT egg
+ADD banana 88
+REMOVE banana 41
+ADD egg 45
+COUNT rice
+COUNT meat
+ADD apple 8
+REMOVE milk 15
+ADD meat 53
+ADD banana 17
+COUNT butter
+ADD banana 4
+ADD milk 26
+MAX
+ADD meat 9
+REMOVE milk 2
+COUNT rice
+MAX
+COUNT apple
+REMOVE meat 28
+COUNT bread
+MAX
+COUNT rice
+REMOVE apple 20
+COUNT milk
+MAX
+REMOVE bread 41
+ADD apple 14
+COUNT egg
+ADD egg 64
+COUNT bread
+MAX
+REMOVE milk 17
+ADD butter 54
+ADD meat 69
+ADD egg 97
+ADD milk 59
+COUNT milk
+REMOVE apple 33
+REMOVE meat 46
+MAX
+MAX
+MAX
+COUNT milk
+MAX

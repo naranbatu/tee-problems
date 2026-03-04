@@ -1,0 +1,16 @@
+5 10
+one neg
+two hoyor
+three gurav
+four dorov
+five tav
+one
+hoyor
+five
+neg
+xyz
+three
+gurav
+abc
+two
+dorov

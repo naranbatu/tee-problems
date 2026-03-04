@@ -1,0 +1,1501 @@
+500 1000
+eng0 mon0
+eng1 mon1
+eng2 mon2
+eng3 mon3
+eng4 mon4
+eng5 mon5
+eng6 mon6
+eng7 mon7
+eng8 mon8
+eng9 mon9
+eng10 mon10
+eng11 mon11
+eng12 mon12
+eng13 mon13
+eng14 mon14
+eng15 mon15
+eng16 mon16
+eng17 mon17
+eng18 mon18
+eng19 mon19
+eng20 mon20
+eng21 mon21
+eng22 mon22
+eng23 mon23
+eng24 mon24
+eng25 mon25
+eng26 mon26
+eng27 mon27
+eng28 mon28
+eng29 mon29
+eng30 mon30
+eng31 mon31
+eng32 mon32
+eng33 mon33
+eng34 mon34
+eng35 mon35
+eng36 mon36
+eng37 mon37
+eng38 mon38
+eng39 mon39
+eng40 mon40
+eng41 mon41
+eng42 mon42
+eng43 mon43
+eng44 mon44
+eng45 mon45
+eng46 mon46
+eng47 mon47
+eng48 mon48
+eng49 mon49
+eng50 mon50
+eng51 mon51
+eng52 mon52
+eng53 mon53
+eng54 mon54
+eng55 mon55
+eng56 mon56
+eng57 mon57
+eng58 mon58
+eng59 mon59
+eng60 mon60
+eng61 mon61
+eng62 mon62
+eng63 mon63
+eng64 mon64
+eng65 mon65
+eng66 mon66
+eng67 mon67
+eng68 mon68
+eng69 mon69
+eng70 mon70
+eng71 mon71
+eng72 mon72
+eng73 mon73
+eng74 mon74
+eng75 mon75
+eng76 mon76
+eng77 mon77
+eng78 mon78
+eng79 mon79
+eng80 mon80
+eng81 mon81
+eng82 mon82
+eng83 mon83
+eng84 mon84
+eng85 mon85
+eng86 mon86
+eng87 mon87
+eng88 mon88
+eng89 mon89
+eng90 mon90
+eng91 mon91
+eng92 mon92
+eng93 mon93
+eng94 mon94
+eng95 mon95
+eng96 mon96
+eng97 mon97
+eng98 mon98
+eng99 mon99
+eng100 mon100
+eng101 mon101
+eng102 mon102
+eng103 mon103
+eng104 mon104
+eng105 mon105
+eng106 mon106
+eng107 mon107
+eng108 mon108
+eng109 mon109
+eng110 mon110
+eng111 mon111
+eng112 mon112
+eng113 mon113
+eng114 mon114
+eng115 mon115
+eng116 mon116
+eng117 mon117
+eng118 mon118
+eng119 mon119
+eng120 mon120
+eng121 mon121
+eng122 mon122
+eng123 mon123
+eng124 mon124
+eng125 mon125
+eng126 mon126
+eng127 mon127
+eng128 mon128
+eng129 mon129
+eng130 mon130
+eng131 mon131
+eng132 mon132
+eng133 mon133
+eng134 mon134
+eng135 mon135
+eng136 mon136
+eng137 mon137
+eng138 mon138
+eng139 mon139
+eng140 mon140
+eng141 mon141
+eng142 mon142
+eng143 mon143
+eng144 mon144
+eng145 mon145
+eng146 mon146
+eng147 mon147
+eng148 mon148
+eng149 mon149
+eng150 mon150
+eng151 mon151
+eng152 mon152
+eng153 mon153
+eng154 mon154
+eng155 mon155
+eng156 mon156
+eng157 mon157
+eng158 mon158
+eng159 mon159
+eng160 mon160
+eng161 mon161
+eng162 mon162
+eng163 mon163
+eng164 mon164
+eng165 mon165
+eng166 mon166
+eng167 mon167
+eng168 mon168
+eng169 mon169
+eng170 mon170
+eng171 mon171
+eng172 mon172
+eng173 mon173
+eng174 mon174
+eng175 mon175
+eng176 mon176
+eng177 mon177
+eng178 mon178
+eng179 mon179
+eng180 mon180
+eng181 mon181
+eng182 mon182
+eng183 mon183
+eng184 mon184
+eng185 mon185
+eng186 mon186
+eng187 mon187
+eng188 mon188
+eng189 mon189
+eng190 mon190
+eng191 mon191
+eng192 mon192
+eng193 mon193
+eng194 mon194
+eng195 mon195
+eng196 mon196
+eng197 mon197
+eng198 mon198
+eng199 mon199
+eng200 mon200
+eng201 mon201
+eng202 mon202
+eng203 mon203
+eng204 mon204
+eng205 mon205
+eng206 mon206
+eng207 mon207
+eng208 mon208
+eng209 mon209
+eng210 mon210
+eng211 mon211
+eng212 mon212
+eng213 mon213
+eng214 mon214
+eng215 mon215
+eng216 mon216
+eng217 mon217
+eng218 mon218
+eng219 mon219
+eng220 mon220
+eng221 mon221
+eng222 mon222
+eng223 mon223
+eng224 mon224
+eng225 mon225
+eng226 mon226
+eng227 mon227
+eng228 mon228
+eng229 mon229
+eng230 mon230
+eng231 mon231
+eng232 mon232
+eng233 mon233
+eng234 mon234
+eng235 mon235
+eng236 mon236
+eng237 mon237
+eng238 mon238
+eng239 mon239
+eng240 mon240
+eng241 mon241
+eng242 mon242
+eng243 mon243
+eng244 mon244
+eng245 mon245
+eng246 mon246
+eng247 mon247
+eng248 mon248
+eng249 mon249
+eng250 mon250
+eng251 mon251
+eng252 mon252
+eng253 mon253
+eng254 mon254
+eng255 mon255
+eng256 mon256
+eng257 mon257
+eng258 mon258
+eng259 mon259
+eng260 mon260
+eng261 mon261
+eng262 mon262
+eng263 mon263
+eng264 mon264
+eng265 mon265
+eng266 mon266
+eng267 mon267
+eng268 mon268
+eng269 mon269
+eng270 mon270
+eng271 mon271
+eng272 mon272
+eng273 mon273
+eng274 mon274
+eng275 mon275
+eng276 mon276
+eng277 mon277
+eng278 mon278
+eng279 mon279
+eng280 mon280
+eng281 mon281
+eng282 mon282
+eng283 mon283
+eng284 mon284
+eng285 mon285
+eng286 mon286
+eng287 mon287
+eng288 mon288
+eng289 mon289
+eng290 mon290
+eng291 mon291
+eng292 mon292
+eng293 mon293
+eng294 mon294
+eng295 mon295
+eng296 mon296
+eng297 mon297
+eng298 mon298
+eng299 mon299
+eng300 mon300
+eng301 mon301
+eng302 mon302
+eng303 mon303
+eng304 mon304
+eng305 mon305
+eng306 mon306
+eng307 mon307
+eng308 mon308
+eng309 mon309
+eng310 mon310
+eng311 mon311
+eng312 mon312
+eng313 mon313
+eng314 mon314
+eng315 mon315
+eng316 mon316
+eng317 mon317
+eng318 mon318
+eng319 mon319
+eng320 mon320
+eng321 mon321
+eng322 mon322
+eng323 mon323
+eng324 mon324
+eng325 mon325
+eng326 mon326
+eng327 mon327
+eng328 mon328
+eng329 mon329
+eng330 mon330
+eng331 mon331
+eng332 mon332
+eng333 mon333
+eng334 mon334
+eng335 mon335
+eng336 mon336
+eng337 mon337
+eng338 mon338
+eng339 mon339
+eng340 mon340
+eng341 mon341
+eng342 mon342
+eng343 mon343
+eng344 mon344
+eng345 mon345
+eng346 mon346
+eng347 mon347
+eng348 mon348
+eng349 mon349
+eng350 mon350
+eng351 mon351
+eng352 mon352
+eng353 mon353
+eng354 mon354
+eng355 mon355
+eng356 mon356
+eng357 mon357
+eng358 mon358
+eng359 mon359
+eng360 mon360
+eng361 mon361
+eng362 mon362
+eng363 mon363
+eng364 mon364
+eng365 mon365
+eng366 mon366
+eng367 mon367
+eng368 mon368
+eng369 mon369
+eng370 mon370
+eng371 mon371
+eng372 mon372
+eng373 mon373
+eng374 mon374
+eng375 mon375
+eng376 mon376
+eng377 mon377
+eng378 mon378
+eng379 mon379
+eng380 mon380
+eng381 mon381
+eng382 mon382
+eng383 mon383
+eng384 mon384
+eng385 mon385
+eng386 mon386
+eng387 mon387
+eng388 mon388
+eng389 mon389
+eng390 mon390
+eng391 mon391
+eng392 mon392
+eng393 mon393
+eng394 mon394
+eng395 mon395
+eng396 mon396
+eng397 mon397
+eng398 mon398
+eng399 mon399
+eng400 mon400
+eng401 mon401
+eng402 mon402
+eng403 mon403
+eng404 mon404
+eng405 mon405
+eng406 mon406
+eng407 mon407
+eng408 mon408
+eng409 mon409
+eng410 mon410
+eng411 mon411
+eng412 mon412
+eng413 mon413
+eng414 mon414
+eng415 mon415
+eng416 mon416
+eng417 mon417
+eng418 mon418
+eng419 mon419
+eng420 mon420
+eng421 mon421
+eng422 mon422
+eng423 mon423
+eng424 mon424
+eng425 mon425
+eng426 mon426
+eng427 mon427
+eng428 mon428
+eng429 mon429
+eng430 mon430
+eng431 mon431
+eng432 mon432
+eng433 mon433
+eng434 mon434
+eng435 mon435
+eng436 mon436
+eng437 mon437
+eng438 mon438
+eng439 mon439
+eng440 mon440
+eng441 mon441
+eng442 mon442
+eng443 mon443
+eng444 mon444
+eng445 mon445
+eng446 mon446
+eng447 mon447
+eng448 mon448
+eng449 mon449
+eng450 mon450
+eng451 mon451
+eng452 mon452
+eng453 mon453
+eng454 mon454
+eng455 mon455
+eng456 mon456
+eng457 mon457
+eng458 mon458
+eng459 mon459
+eng460 mon460
+eng461 mon461
+eng462 mon462
+eng463 mon463
+eng464 mon464
+eng465 mon465
+eng466 mon466
+eng467 mon467
+eng468 mon468
+eng469 mon469
+eng470 mon470
+eng471 mon471
+eng472 mon472
+eng473 mon473
+eng474 mon474
+eng475 mon475
+eng476 mon476
+eng477 mon477
+eng478 mon478
+eng479 mon479
+eng480 mon480
+eng481 mon481
+eng482 mon482
+eng483 mon483
+eng484 mon484
+eng485 mon485
+eng486 mon486
+eng487 mon487
+eng488 mon488
+eng489 mon489
+eng490 mon490
+eng491 mon491
+eng492 mon492
+eng493 mon493
+eng494 mon494
+eng495 mon495
+eng496 mon496
+eng497 mon497
+eng498 mon498
+eng499 mon499
+eng0
+eng1
+eng2
+eng3
+eng4
+eng5
+eng6
+eng7
+eng8
+eng9
+eng10
+eng11
+eng12
+eng13
+eng14
+eng15
+eng16
+eng17
+eng18
+eng19
+eng20
+eng21
+eng22
+eng23
+eng24
+eng25
+eng26
+eng27
+eng28
+eng29
+eng30
+eng31
+eng32
+eng33
+eng34
+eng35
+eng36
+eng37
+eng38
+eng39
+eng40
+eng41
+eng42
+eng43
+eng44
+eng45
+eng46
+eng47
+eng48
+eng49
+eng50
+eng51
+eng52
+eng53
+eng54
+eng55
+eng56
+eng57
+eng58
+eng59
+eng60
+eng61
+eng62
+eng63
+eng64
+eng65
+eng66
+eng67
+eng68
+eng69
+eng70
+eng71
+eng72
+eng73
+eng74
+eng75
+eng76
+eng77
+eng78
+eng79
+eng80
+eng81
+eng82
+eng83
+eng84
+eng85
+eng86
+eng87
+eng88
+eng89
+eng90
+eng91
+eng92
+eng93
+eng94
+eng95
+eng96
+eng97
+eng98
+eng99
+eng100
+eng101
+eng102
+eng103
+eng104
+eng105
+eng106
+eng107
+eng108
+eng109
+eng110
+eng111
+eng112
+eng113
+eng114
+eng115
+eng116
+eng117
+eng118
+eng119
+eng120
+eng121
+eng122
+eng123
+eng124
+eng125
+eng126
+eng127
+eng128
+eng129
+eng130
+eng131
+eng132
+eng133
+eng134
+eng135
+eng136
+eng137
+eng138
+eng139
+eng140
+eng141
+eng142
+eng143
+eng144
+eng145
+eng146
+eng147
+eng148
+eng149
+eng150
+eng151
+eng152
+eng153
+eng154
+eng155
+eng156
+eng157
+eng158
+eng159
+eng160
+eng161
+eng162
+eng163
+eng164
+eng165
+eng166
+eng167
+eng168
+eng169
+eng170
+eng171
+eng172
+eng173
+eng174
+eng175
+eng176
+eng177
+eng178
+eng179
+eng180
+eng181
+eng182
+eng183
+eng184
+eng185
+eng186
+eng187
+eng188
+eng189
+eng190
+eng191
+eng192
+eng193
+eng194
+eng195
+eng196
+eng197
+eng198
+eng199
+eng200
+eng201
+eng202
+eng203
+eng204
+eng205
+eng206
+eng207
+eng208
+eng209
+eng210
+eng211
+eng212
+eng213
+eng214
+eng215
+eng216
+eng217
+eng218
+eng219
+eng220
+eng221
+eng222
+eng223
+eng224
+eng225
+eng226
+eng227
+eng228
+eng229
+eng230
+eng231
+eng232
+eng233
+eng234
+eng235
+eng236
+eng237
+eng238
+eng239
+eng240
+eng241
+eng242
+eng243
+eng244
+eng245
+eng246
+eng247
+eng248
+eng249
+eng250
+eng251
+eng252
+eng253
+eng254
+eng255
+eng256
+eng257
+eng258
+eng259
+eng260
+eng261
+eng262
+eng263
+eng264
+eng265
+eng266
+eng267
+eng268
+eng269
+eng270
+eng271
+eng272
+eng273
+eng274
+eng275
+eng276
+eng277
+eng278
+eng279
+eng280
+eng281
+eng282
+eng283
+eng284
+eng285
+eng286
+eng287
+eng288
+eng289
+eng290
+eng291
+eng292
+eng293
+eng294
+eng295
+eng296
+eng297
+eng298
+eng299
+eng300
+eng301
+eng302
+eng303
+eng304
+eng305
+eng306
+eng307
+eng308
+eng309
+eng310
+eng311
+eng312
+eng313
+eng314
+eng315
+eng316
+eng317
+eng318
+eng319
+eng320
+eng321
+eng322
+eng323
+eng324
+eng325
+eng326
+eng327
+eng328
+eng329
+eng330
+eng331
+eng332
+eng333
+eng334
+eng335
+eng336
+eng337
+eng338
+eng339
+eng340
+eng341
+eng342
+eng343
+eng344
+eng345
+eng346
+eng347
+eng348
+eng349
+eng350
+eng351
+eng352
+eng353
+eng354
+eng355
+eng356
+eng357
+eng358
+eng359
+eng360
+eng361
+eng362
+eng363
+eng364
+eng365
+eng366
+eng367
+eng368
+eng369
+eng370
+eng371
+eng372
+eng373
+eng374
+eng375
+eng376
+eng377
+eng378
+eng379
+eng380
+eng381
+eng382
+eng383
+eng384
+eng385
+eng386
+eng387
+eng388
+eng389
+eng390
+eng391
+eng392
+eng393
+eng394
+eng395
+eng396
+eng397
+eng398
+eng399
+eng400
+eng401
+eng402
+eng403
+eng404
+eng405
+eng406
+eng407
+eng408
+eng409
+eng410
+eng411
+eng412
+eng413
+eng414
+eng415
+eng416
+eng417
+eng418
+eng419
+eng420
+eng421
+eng422
+eng423
+eng424
+eng425
+eng426
+eng427
+eng428
+eng429
+eng430
+eng431
+eng432
+eng433
+eng434
+eng435
+eng436
+eng437
+eng438
+eng439
+eng440
+eng441
+eng442
+eng443
+eng444
+eng445
+eng446
+eng447
+eng448
+eng449
+eng450
+eng451
+eng452
+eng453
+eng454
+eng455
+eng456
+eng457
+eng458
+eng459
+eng460
+eng461
+eng462
+eng463
+eng464
+eng465
+eng466
+eng467
+eng468
+eng469
+eng470
+eng471
+eng472
+eng473
+eng474
+eng475
+eng476
+eng477
+eng478
+eng479
+eng480
+eng481
+eng482
+eng483
+eng484
+eng485
+eng486
+eng487
+eng488
+eng489
+eng490
+eng491
+eng492
+eng493
+eng494
+eng495
+eng496
+eng497
+eng498
+eng499
+mon0
+mon1
+mon2
+mon3
+mon4
+mon5
+mon6
+mon7
+mon8
+mon9
+mon10
+mon11
+mon12
+mon13
+mon14
+mon15
+mon16
+mon17
+mon18
+mon19
+mon20
+mon21
+mon22
+mon23
+mon24
+mon25
+mon26
+mon27
+mon28
+mon29
+mon30
+mon31
+mon32
+mon33
+mon34
+mon35
+mon36
+mon37
+mon38
+mon39
+mon40
+mon41
+mon42
+mon43
+mon44
+mon45
+mon46
+mon47
+mon48
+mon49
+mon50
+mon51
+mon52
+mon53
+mon54
+mon55
+mon56
+mon57
+mon58
+mon59
+mon60
+mon61
+mon62
+mon63
+mon64
+mon65
+mon66
+mon67
+mon68
+mon69
+mon70
+mon71
+mon72
+mon73
+mon74
+mon75
+mon76
+mon77
+mon78
+mon79
+mon80
+mon81
+mon82
+mon83
+mon84
+mon85
+mon86
+mon87
+mon88
+mon89
+mon90
+mon91
+mon92
+mon93
+mon94
+mon95
+mon96
+mon97
+mon98
+mon99
+mon100
+mon101
+mon102
+mon103
+mon104
+mon105
+mon106
+mon107
+mon108
+mon109
+mon110
+mon111
+mon112
+mon113
+mon114
+mon115
+mon116
+mon117
+mon118
+mon119
+mon120
+mon121
+mon122
+mon123
+mon124
+mon125
+mon126
+mon127
+mon128
+mon129
+mon130
+mon131
+mon132
+mon133
+mon134
+mon135
+mon136
+mon137
+mon138
+mon139
+mon140
+mon141
+mon142
+mon143
+mon144
+mon145
+mon146
+mon147
+mon148
+mon149
+mon150
+mon151
+mon152
+mon153
+mon154
+mon155
+mon156
+mon157
+mon158
+mon159
+mon160
+mon161
+mon162
+mon163
+mon164
+mon165
+mon166
+mon167
+mon168
+mon169
+mon170
+mon171
+mon172
+mon173
+mon174
+mon175
+mon176
+mon177
+mon178
+mon179
+mon180
+mon181
+mon182
+mon183
+mon184
+mon185
+mon186
+mon187
+mon188
+mon189
+mon190
+mon191
+mon192
+mon193
+mon194
+mon195
+mon196
+mon197
+mon198
+mon199
+mon200
+mon201
+mon202
+mon203
+mon204
+mon205
+mon206
+mon207
+mon208
+mon209
+mon210
+mon211
+mon212
+mon213
+mon214
+mon215
+mon216
+mon217
+mon218
+mon219
+mon220
+mon221
+mon222
+mon223
+mon224
+mon225
+mon226
+mon227
+mon228
+mon229
+mon230
+mon231
+mon232
+mon233
+mon234
+mon235
+mon236
+mon237
+mon238
+mon239
+mon240
+mon241
+mon242
+mon243
+mon244
+mon245
+mon246
+mon247
+mon248
+mon249
+mon250
+mon251
+mon252
+mon253
+mon254
+mon255
+mon256
+mon257
+mon258
+mon259
+mon260
+mon261
+mon262
+mon263
+mon264
+mon265
+mon266
+mon267
+mon268
+mon269
+mon270
+mon271
+mon272
+mon273
+mon274
+mon275
+mon276
+mon277
+mon278
+mon279
+mon280
+mon281
+mon282
+mon283
+mon284
+mon285
+mon286
+mon287
+mon288
+mon289
+mon290
+mon291
+mon292
+mon293
+mon294
+mon295
+mon296
+mon297
+mon298
+mon299
+mon300
+mon301
+mon302
+mon303
+mon304
+mon305
+mon306
+mon307
+mon308
+mon309
+mon310
+mon311
+mon312
+mon313
+mon314
+mon315
+mon316
+mon317
+mon318
+mon319
+mon320
+mon321
+mon322
+mon323
+mon324
+mon325
+mon326
+mon327
+mon328
+mon329
+mon330
+mon331
+mon332
+mon333
+mon334
+mon335
+mon336
+mon337
+mon338
+mon339
+mon340
+mon341
+mon342
+mon343
+mon344
+mon345
+mon346
+mon347
+mon348
+mon349
+mon350
+mon351
+mon352
+mon353
+mon354
+mon355
+mon356
+mon357
+mon358
+mon359
+mon360
+mon361
+mon362
+mon363
+mon364
+mon365
+mon366
+mon367
+mon368
+mon369
+mon370
+mon371
+mon372
+mon373
+mon374
+mon375
+mon376
+mon377
+mon378
+mon379
+mon380
+mon381
+mon382
+mon383
+mon384
+mon385
+mon386
+mon387
+mon388
+mon389
+mon390
+mon391
+mon392
+mon393
+mon394
+mon395
+mon396
+mon397
+mon398
+mon399
+mon400
+mon401
+mon402
+mon403
+mon404
+mon405
+mon406
+mon407
+mon408
+mon409
+mon410
+mon411
+mon412
+mon413
+mon414
+mon415
+mon416
+mon417
+mon418
+mon419
+mon420
+mon421
+mon422
+mon423
+mon424
+mon425
+mon426
+mon427
+mon428
+mon429
+mon430
+mon431
+mon432
+mon433
+mon434
+mon435
+mon436
+mon437
+mon438
+mon439
+mon440
+mon441
+mon442
+mon443
+mon444
+mon445
+mon446
+mon447
+mon448
+mon449
+mon450
+mon451
+mon452
+mon453
+mon454
+mon455
+mon456
+mon457
+mon458
+mon459
+mon460
+mon461
+mon462
+mon463
+mon464
+mon465
+mon466
+mon467
+mon468
+mon469
+mon470
+mon471
+mon472
+mon473
+mon474
+mon475
+mon476
+mon477
+mon478
+mon479
+mon480
+mon481
+mon482
+mon483
+mon484
+mon485
+mon486
+mon487
+mon488
+mon489
+mon490
+mon491
+mon492
+mon493
+mon494
+mon495
+mon496
+mon497
+mon498
+mon499

@@ -1,0 +1,6 @@
+5
+ADD a 5
+ADD b 5
+MAX
+REMOVE a 5
+MAX

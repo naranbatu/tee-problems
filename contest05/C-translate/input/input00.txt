@@ -1,0 +1,9 @@
+3 5
+hello sain
+cat muur
+dog nokhoi
+hello
+muur
+bird
+nokhoi
+sain

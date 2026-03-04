@@ -1,0 +1,10 @@
+neg
+two
+tav
+one
+UNKNOWN
+gurav
+three
+UNKNOWN
+hoyor
+four

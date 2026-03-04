@@ -1,0 +1,5 @@
+10
+apple 10
+3
+NOT_ENOUGH
+banana 5

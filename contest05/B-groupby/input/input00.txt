@@ -1,0 +1,6 @@
+5
+bold 7
+bat 8
+dorj 7
+ankhaa 8
+enji 7

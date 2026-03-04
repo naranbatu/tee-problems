@@ -1,0 +1,14 @@
+{
+    "name": "Веб хөтөч",
+    "time_limit_sec": 1,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        { "subtask": 1, "score": 30, "constraints": "Q ≤ 20, зөвхөн VISIT ба CURRENT", "tests": ["input00","input01","input02","input03"] },
+        { "subtask": 2, "score": 30, "constraints": "Q ≤ 1000", "tests": ["input04","input05","input06","input07"] },
+        { "subtask": 3, "score": 40, "constraints": "Q ≤ 500000", "tests": ["input08","input09","input10","input11"] }
+    ],
+    "expected_errors": {
+        "WA": "VISIT хийх үед forward stack цэвэрлээгүй бол WA",
+        "RE": "Хоосон stack-аас pop хийсэн бол RE"
+    }
+}

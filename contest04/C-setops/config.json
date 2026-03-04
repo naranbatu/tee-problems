@@ -1,0 +1,15 @@
+{
+    "name": "Олонлогийн үйлдлүүд",
+    "time_limit_sec": 2,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        { "subtask": 1, "score": 20, "constraints": "Q ≤ 100, зөвхөн ADD ба CHECK", "tests": ["input00","input01","input02","input03"] },
+        { "subtask": 2, "score": 30, "constraints": "Q ≤ 10000, бүх үйлдэл", "tests": ["input04","input05","input06","input07"] },
+        { "subtask": 3, "score": 50, "constraints": "Q ≤ 500000, -10^9 ≤ x ≤ 10^9", "tests": ["input08","input09","input10","input11"] }
+    ],
+    "expected_errors": {
+        "TLE": "Subtask 3 дээр vector + linear search → TLE, set/unordered_set ашиглах",
+        "WA": "REMOVE байхгүй элемент дээр RE гаргасан бол",
+        "RE": "COUNT үед x уншихгүй байхыг анхаар"
+    }
+}

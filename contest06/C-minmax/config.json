@@ -1,0 +1,14 @@
+{
+    "name": "Хамгийн бага хамгийн их",
+    "time_limit_sec": 2,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        { "subtask": 1, "score": 20, "constraints": "N ≤ 10, K ≤ N", "tests": ["input00","input01","input02","input03"] },
+        { "subtask": 2, "score": 30, "constraints": "N ≤ 1000, элемент ≤ 10^6", "tests": ["input04","input05","input06","input07"] },
+        { "subtask": 3, "score": 50, "constraints": "N ≤ 200000, элемент ≤ 10^9", "tests": ["input08","input09","input10","input11"] }
+    ],
+    "expected_errors": {
+        "TLE": "Subtask 3 дээр бүх хуваалтыг шалгах brute force → TLE, binary search on answer",
+        "WA": "K=1 бол нийт нийлбэр, элемент > maxSum тохиолдлыг зөв шалгах"
+    }
+}

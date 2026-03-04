@@ -1,0 +1,5 @@
+ant 2
+bird 2
+cat 5
+dog 3
+fish 8
