@@ -1,0 +1,30 @@
+{
+    "name": "Анхны тоо",
+    "time_limit_sec": 2,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        {
+            "subtask": 1,
+            "score": 20,
+            "constraints": "T = 1, 1 ≤ N ≤ 100",
+            "tests": ["input00", "input01", "input02"]
+        },
+        {
+            "subtask": 2,
+            "score": 30,
+            "constraints": "T = 1, 1 ≤ N ≤ 10^6",
+            "tests": ["input03", "input04", "input05", "input06"]
+        },
+        {
+            "subtask": 3,
+            "score": 50,
+            "constraints": "1 ≤ T ≤ 10000, 1 ≤ N ≤ 10^9",
+            "tests": ["input07", "input08", "input09", "input10", "input11"]
+        }
+    ],
+    "expected_errors": {
+        "TLE": "Subtask 3 дээр O(N) brute force ашигласан бол TLE — sqrt(N) хүртэл шалгах хэрэгтэй",
+        "WA": "N=1 тохиолдлыг анхны тоо биш гэж шалгах, N=2 бол анхны тоо",
+        "MLE": "Sieve of Eratosthenes 10^9 хүртэл хийвэл MLE"
+    }
+}

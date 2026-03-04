@@ -1,0 +1,30 @@
+{
+    "name": "Сарын өдрийн тоо",
+    "time_limit_sec": 1,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        {
+            "subtask": 1,
+            "score": 30,
+            "constraints": "M ≠ 2 (2-р сар биш)",
+            "tests": ["input00", "input01", "input02"]
+        },
+        {
+            "subtask": 2,
+            "score": 30,
+            "constraints": "M = 2, Y нь 100-д хуваагддаггүй",
+            "tests": ["input03", "input04", "input05", "input06"]
+        },
+        {
+            "subtask": 3,
+            "score": 40,
+            "constraints": "Бүх тохиолдол (M = 2, Y нь 100 эсвэл 400-д хуваагдаж болно)",
+            "tests": ["input07", "input08", "input09", "input10", "input11"]
+        }
+    ],
+    "expected_errors": {
+        "TLE": "Энэ бодлогод TLE гарах магадлал бага",
+        "WA": "Өндөр жилийн нөхцлийг буруу шалгасан бол WA — 100, 400-д хуваагдах нөхцлүүдийг анхаар",
+        "RE": "M=2, Y=400 гэсэн edge case-ийг зөв зохицуулах"
+    }
+}

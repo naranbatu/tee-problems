@@ -1,0 +1,30 @@
+{
+    "name": "Секундыг хөрвүүлэх",
+    "time_limit_sec": 1,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        {
+            "subtask": 1,
+            "score": 30,
+            "constraints": "0 ≤ S ≤ 59",
+            "tests": ["input00", "input01", "input02"]
+        },
+        {
+            "subtask": 2,
+            "score": 30,
+            "constraints": "0 ≤ S ≤ 100000",
+            "tests": ["input03", "input04", "input05", "input06"]
+        },
+        {
+            "subtask": 3,
+            "score": 40,
+            "constraints": "0 ≤ S ≤ 10^18",
+            "tests": ["input07", "input08", "input09", "input10", "input11"]
+        }
+    ],
+    "expected_errors": {
+        "TLE": "Энэ бодлогод TLE гарах магадлал бага",
+        "WA": "Subtask 3 дээр int ашигласан бол overflow → WA, long long ашиглах хэрэгтэй",
+        "RE": "S=0 тохиолдлыг зөв зохицуулах"
+    }
+}
