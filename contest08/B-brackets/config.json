@@ -1,0 +1,14 @@
+{
+    "name": "Хаалт шалгах",
+    "time_limit_sec": 1,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        { "subtask": 1, "score": 30, "constraints": "T ≤ 10, мөрийн урт ≤ 100, зөвхөн ()", "tests": ["input00","input01","input02","input03"] },
+        { "subtask": 2, "score": 30, "constraints": "T ≤ 100, мөрийн урт ≤ 1000", "tests": ["input04","input05","input06","input07"] },
+        { "subtask": 3, "score": 40, "constraints": "T ≤ 1000, мөрийн урт ≤ 100000", "tests": ["input08","input09","input10","input11"] }
+    ],
+    "expected_errors": {
+        "WA": "Хоосон stack-аас pop хийхийг шалгаагүй, эсвэл төгсгөлд stack хоосон эсэхийг шалгаагүй",
+        "RE": "Хоосон stack дээр top() дуудсан бол RE"
+    }
+}

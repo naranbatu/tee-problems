@@ -1,0 +1,14 @@
+{
+    "name": "Карт тоглоом",
+    "time_limit_sec": 2,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        { "subtask": 1, "score": 30, "constraints": "N ≤ 5, картын утга ≤ 10", "tests": ["input00","input01","input02","input03"] },
+        { "subtask": 2, "score": 30, "constraints": "N ≤ 100, картын утга ≤ 1000", "tests": ["input04","input05","input06","input07"] },
+        { "subtask": 3, "score": 40, "constraints": "N ≤ 100000, картын утга ≤ 10^9", "tests": ["input08","input09","input10","input11"] }
+    ],
+    "expected_errors": {
+        "TLE": "10^6 тоглолтын хязгаар тавиагүй бол infinite loop",
+        "WA": "Карт нэмэх дарааллыг буруу хийсэн (ялагчийн карт эхлээд, ялагдагчийнх дараа нь)"
+    }
+}

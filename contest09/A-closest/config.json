@@ -1,0 +1,14 @@
+{
+    "name": "Хамгийн ойр хос",
+    "time_limit_sec": 1,
+    "memory_limit_mb": 256,
+    "subtasks": [
+        { "subtask": 1, "score": 30, "constraints": "N ≤ 100", "tests": ["input00","input01","input02","input03"] },
+        { "subtask": 2, "score": 30, "constraints": "N ≤ 10000", "tests": ["input04","input05","input06","input07"] },
+        { "subtask": 3, "score": 40, "constraints": "N ≤ 500000, тоонууд ≤ 10^9", "tests": ["input08","input09","input10","input11"] }
+    ],
+    "expected_errors": {
+        "TLE": "O(N^2) бүх хосыг шалгах → subtask 3 дээр TLE. Эрэмбэлээд зэргэлдээг шалгах хэрэгтэй",
+        "WA": "Абсолют утга авахаа мартсан, эсвэл int overflow (long long хэрэгтэй)"
+    }
+}
